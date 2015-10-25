@@ -1,23 +1,39 @@
 ---
 layout: default
+title: Home
+notitle: true
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">New Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="jumbotron">
+  <p>
+      <b>ICTD Lab</b> is an inter-disciplinary group that explores how technology can improve the lives of underserved populations in low-income regions. Our <a href="{{ site.base }}/research/">research</a> has wide range that includes HCI, Systems, Communication and Data Analytics. We are part of the <a href="http://www.cs.washington.edu/">Department of Computer Science &amp; Engineering</a> at the <a href="http://www.washington.edu/">University of Washington</a>. We collaborate with folks from other departments like <a href="http://globalhealth.washington.edu">Department of Global Health</a> and organizations like <a href="https://www.path.org">PATH</a> and <a href="https://www.redcross.org">Red Cross</a>. 	  
+  </p>
 </div>
+
+<h2>News</h2>
+<ul class="news list-unstyled">
+{% for post in site.posts limit: site.front_page_news %}
+    {% if post.shortnews %}
+        <li class="shortnews">
+            <span class="date">{{ post.date | date_to_long_string }}</span>
+            {{ post.content }}
+        </li>
+    {% else %}
+        <li class="bloglink">
+            <span class="date">{{ post.date | date_to_long_string }}</span>
+            <a href="{{ post.url }}">&raquo; {{ post.title }}</a>
+        </li>
+    {% endif %}
+{% endfor %}
+</ul>
+{% assign numposts = site.posts | size %}
+{% if numposts >= site.front_page_news %}
+<p><a href="{{ site.base }}/blog/">Older posts&hellip;</a></p>
+{% else %}
+<p><a href="{{ site.base }}/oldnews.html">Older news posts&hellip;</a></p>
+{% endif %}
+
+<h2>Funding</h2>
+<p>
+Our work is supported by the Bill &amp; Melinda Gates Foundation and National Science Foundation.
+</p>

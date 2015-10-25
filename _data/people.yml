@@ -1,0 +1,111 @@
+richard:
+    display_name: "Richard Anderson"
+    webpage: "http://www.cs.washington.edu/people/faculty/anderson"
+    github: luisceze
+    role: faculty
+    bio: |
+        Richard is a Professor at UW-CSE. When he is not in his office
+        (CSE576) or The Lab (CSE615), he is probably in the kitchen or some
+        restaurant around Seattle. Ask him about the movie Mamma Mia.
+kurtis:
+    display_name: "Kurtis Heimerl"
+    webpage: "https://www.eecs.berkeley.edu/~kheimerl/"
+    role: faculty
+    bio: |
+        Kurtis is new faculty member at UW-CSE. He received his PhD from UC Berkeley 
+        and worked on The Village Base Station (VBTS), a low-cost, low-power 
+        cellular system (based off OpenBTS). His goal was to provide community 
+        cellular: local, community-owned cellular networks in areas without 
+        existing cellular coverage. Currently he is working at Facebook and will be joining the department in Fall '16.
+
+
+mitchell:
+    display_name: "Mitchell Sundt"
+    webpage: "https://www.cs.washington.edu/node/5166"
+    role: staff
+    bio: |
+        Mitchell is a Software Engineer in ICTD Lab and works on ODK development.
+
+clarice: 
+    display_name: "Clarice Larson"
+    webpage: "#"
+    role: staff
+    bio: |
+        Clarice is a Software Engineer in ICTD Lab and works on ODK development.
+
+Jeffbeorse:
+    display_name: "Jeff Beorse"
+    webpage: "#"
+    role: staff
+    bio: |
+        Jeff is a Software Engineer in ICTD Lab and works on ODK development.
+
+aditya:
+    display_name: "Aditya Vashistha"
+    webpage: "http://www.adityavashistha.com/"
+    role: grad
+camille:
+    display_name: "Camille Cobb"
+    webpage: "https://homes.cs.washington.edu/~cobbc12/"
+    role: grad
+fahad: 
+    display_name: "Fahad Pervaiz"
+    webpage: "https://homes.cs.washington.edu/~fahadp/"
+    role: grad
+sam:
+    display_name: "Sam Sudar"
+    webpage: "http://samsudar.com/"
+    role: grad
+trevor:
+    display_name: "Trevor Perrier"
+    webpage: "http://homes.cs.washington.edu/~tperrier/"
+    role: grad
+waylon:
+    display_name: "Waylon Brunette "
+    webpage: "http://homes.cs.washington.edu/~wrb/"
+    role: grad
+
+nicki:
+    display_name: "Nicola Dell "
+    webpage: "http://www.nixdell.com/"
+    github: sampsyo
+    role: alum
+    bio: "Ph.D., 2015. Now faculty at Cornell Tech."
+neha:
+    display_name: "Neha Kumar"
+    webpage: "http://nehakumar.org/"
+    role: alum
+    bio: "Postdoc, 2013&ndash;2014. Now faculty at Georgia Tech."
+rohit:
+    display_name: "Rohit Chaudhri"
+    role: alum
+    bio: "Ph.D., 2014. Now founder of gaet.io"
+brian:
+    display_name: "Brian DeRenzi"
+    webpage: "http://www.bderenzi.com/home"
+    role: alum
+    bio: "Ph.D., 2012. Now faculty at University of Cape Town."
+yow:
+    display_name: "Yaw Anokwa"
+    webpage: "http://www.anokwa.com/"
+    github: ransford
+    role: alum
+    bio: "Ph.D., 2011. Cofounder of Nafundi."
+carl:
+    display_name: "Carl Hartung"
+    github: ransford
+    role: alum
+    bio: "Ph.D., 2011. Cofounder of Nafundi."
+
+
+#bboston:
+#    display_name: Brett Boston
+#    role: ugrad
+
+
+#shaz:
+#    display_name: Shaz Qadeer
+#    webpage: http://research.microsoft.com/en-us/people/qadeer/
+#    bio: "Shaz is a Sr. Researcher at Microsoft Research collaborating with us on the concurrency exceptions project."
+#    role: collab
+

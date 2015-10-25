@@ -2,19 +2,54 @@
   authors: Trevor Perrier, Brian Derenzi, Richard Anderson
   venue: ACM DEV
   year: 2015
-  month: October
+  month: December
 
 - title: "Optimizing Mobile Application Communication for Challenged Network Environments"
   authors: Waylon Brunette, Morgan Vigil, Fahad Pervaiz, Shahar Levari, Richard Anderson
   venue: ACM DEV
   year: 2015
-  month: October
+  month: December
 
 - title: "DUCES: A Framework for Characterizing and Simplifying Mobile Deployments in Low-Resource Settings"
   authors: Samuel Sudar, Richard Anderson
   venue: ACM DEV
   year: 2015
+  month: December
+
+- title: "Social Media Platforms for Low-Income Blind People in India."
+  url: "http://www.nixdell.com/papers/vism_assets_camera_ready.pdf"
+  authors: Aditya Vashistha, Ed Cutrell, Nicola Dell, and Richard Anderson
+  venue: 17th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '15)
+  year: 2015
   month: October
+
+- title: "Projecting Health: Community-Led Video Education for Maternal Health."
+  url: ""
+  authors: Neha Kumar, Trevor Perrier, Michelle Desmond, Kiersten Israel-Ballard, Vikrant Kumar, Sudip Mahapatra, Anil Mishra, Shreya Agarwal, Rikin Gandhi, Pallavi Lal, and Richard Anderson
+  venue: In Proceedings of the Seventh International Conference on Information and Communication Technologies and Development (ICTD ’15)
+  year: 2015
+  month: May
+
+- title: "Data Specification for Information Systems for the Immunization Cold Chain"
+  url: ""
+  authors: Fahad Pervaiz, Sophie Newland, Richard Anderson
+  venue: Proceedings of the 13th International Conference on Social Implications of Computers in Developing Countries,
+  year: 2015
+  month: May
+
+- title: "Mobile Phones for Maternal Health in Rural India."
+  url: ""
+  authors: Neha Kumar and Richard J. Anderson.
+  venue: In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI ’15)
+  year: 2015
+  month: April
+
+- title: "Sangeet Swara: A Community-Moderated Voice Forum in Rural India [Best Paper Award]﻿"
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/sangeetswara_chi_2015.pdf"
+  authors: Aditya Vashistha, Ed Cutrell, Gaetano Borriello, and William Thies
+  venue: ACM Conference on Human Factors in Computing Systems (CHI 2015)
+  year: 2015
+  month: April
 
 - title: "Engaging Pregnant Women in Kenya with a Hybrid Computer-Human SMS Communication System."
   url: "http://www.nixdell.com/papers/p1429-perrier-chi-15.pdf"
@@ -22,3 +57,24 @@
   venue: The SIGCHI Conference on Human Factors in Computing Systems
   year: 2015
   month: April
+
+- title: "Paper-Digital Workflows in Global Development Organizations."
+  url: "http://www.nixdell.com/papers/Dell_CSCW.pdf"
+  authors: Nicola Dell, Trevor Perrier, Neha Kumar, Mitchell Lee, Rachel Powers, Gaetano Borriello
+  venue: roceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '15)
+  year: 2015
+  month: March
+
+- title: "Mobile Touch-Free Interaction for Global Health."
+  url: "http://www.nixdell.com/papers/touch-free-interaction.pdf"
+  authors: Nicola Dell, Krittika D'Silva, and Gaetano Borriello
+  venue: International Workshop on Mobile Computing Systems and Applications (HotMobile '15)
+  year: 2015
+  month: February
+
+#- title: ""
+#  url: ""
+#  authors: 
+#  venue: 
+#  year: 2015
+#  month: April

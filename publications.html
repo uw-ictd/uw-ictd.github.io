@@ -7,7 +7,37 @@ title: Publications
 </p>
 
 <!--{.% include pubs.html %.}-->
-
-<li>The Mobile Communication over various network layers</li>
-
-<li>The Mobile Communication over various network layers</li>
+<table class="table">
+<tbody>
+{% for item in site.data.pubs %}
+	<tr>
+		<td>
+			<span class="date">
+				{{ item.month }}<br />{{ item.year }}
+				
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<strong>
+				{% if item.url %}
+					<!--{.% if '.pdf' in item.url %.}
+					<img src="img/pdficon_small.png" width="16"
+						height="16" alt="PDF" />
+					{.% endif %.}-->
+				<a href="{{ item.url }}">{{ item.title }}</a>.
+				{% else %}
+				{{ item.title }}.
+				{% endif %}
+				</strong>
+			</span><br />
+			<span class="authors">
+				{{ item.authors }}.
+			</span><br />
+			<span class="venue">{{ item.venue }}</span>.
+			<br />
+		</td>
+	</tr>
+{% endfor %}
+</tbody>
+</table>

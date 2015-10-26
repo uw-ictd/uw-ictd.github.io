@@ -96,7 +96,16 @@ carl:
     github: ransford
     role: alum
     bio: "Ph.D., 2011. Cofounder of Nafundi."
-
+natalie:
+    display_name: "Natalie Linnell"
+    webpage: "http://math.scu.edu/~linnell/"
+    role: alum
+    bio: "Ph.D., 2011. Now faculty at University of Santa Clara."
+joyojeet:
+    display_name: "Joyojeet Pal"
+    webpage: "https://www.si.umich.edu/people/joyojeet-pal"
+    role: alum
+    bio: "Postdoc, 2009&ndash;2010. Now faculty at University of Michigan."
 
 #bboston:
 #    display_name: Brett Boston

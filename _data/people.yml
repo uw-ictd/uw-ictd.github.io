@@ -27,9 +27,9 @@ kurtis:
         existing cellular coverage. Currently he is working at Facebook and will be joining the department in Fall '16.
 
 gaetano:
-    display_name: "Gaetano Borriello (deceased)"
+    display_name: "Gaetano Borriello"
     webpage: "https://news.cs.washington.edu/2015/02/01/remembering-gaetano-borriello/"
-    role: faculty
+    role: memory
     bio: |
         Gaetano was faculty member at UW-CSE from 1988 - 2015. He passed away on February 1, 2015 
         following a long fight with cancer. He was directing efforts in applying mobile technologies 

@@ -1,0 +1,11 @@
+---
+layout: default
+title: Projects
+---
+
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+  <dt>{{ project.title }}</dt>
+  <dd>{{ project.description }} <a href="{{ site.base }}/research/{{ project.url }}">more details</a></dd>
+{% endfor %}
+</dl>

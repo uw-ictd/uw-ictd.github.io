@@ -1,12 +1,20 @@
 richard:
     display_name: "Richard Anderson"
     webpage: "http://www.cs.washington.edu/people/faculty/anderson"
-    github: luisceze
     role: faculty
     bio: |
-        Richard is a Professor at UW-CSE. When he is not in his office
-        (CSE576) or The Lab (CSE615), he is probably in the kitchen or some
-        restaurant around Seattle. Ask him about the movie Mamma Mia.
+        Richard is a Professor of Computer Science and Engineering, where he has been 
+        on the faculty since 1986, with brief leaves to Indian Institute of Science,  
+        Microsoft Research, and PATH. His research has focussed on computing for the 
+        developing world since 2005, when he became involved with the Digital StudyHall project. 
+        In 2009, Richard spent a sabbatical year working with the Digital Health Solutions 
+        group at PATH, a global health NGO based in Seattle. This opportunity allowed him to 
+        increase his efforts on applying computing technologies to challenges in global health. 
+        While working with PATH, he co-founded the Project Health project, which uses the 
+        Community-Led Video Education model to promote healthy practices in rural areas in India. 
+        Back at University of Washington, he is now overseeing the efforts of the Open Data Kit project. 
+        His research interests in ICTD include technologies for behavior change communication, 
+        improving tools to support the use of data in strengthening health systems, and digital financial services.
 kurtis:
     display_name: "Kurtis Heimerl"
     webpage: "https://www.eecs.berkeley.edu/~kheimerl/"
@@ -18,6 +26,16 @@ kurtis:
         cellular: local, community-owned cellular networks in areas without 
         existing cellular coverage. Currently he is working at Facebook and will be joining the department in Fall '16.
 
+gaetano:
+    display_name: "Gaetano Borriello (deceased)"
+    webpage: "https://news.cs.washington.edu/2015/02/01/remembering-gaetano-borriello/"
+    role: faculty
+    bio: |
+        Gaetano was faculty member at UW-CSE from 1988 - 2015. He passed away on February 1, 2015 
+        following a long fight with cancer. He was directing efforts in applying mobile technologies 
+        to the problems of public health and development in low-resource settings. He led development of 
+        open-source mobile data collection tools, Open Data Kit, that are in use on six continents in 
+        programs ranging across public health, documentation of human rights violations, and environmental monitoring.
 
 mitchell:
     display_name: "Mitchell Sundt"

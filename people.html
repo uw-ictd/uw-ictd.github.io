@@ -12,7 +12,7 @@ title: People
 
 {% for role in site.roles %}
   <h3>{{ role.name }}</h3>
-  <dl class="people">
+  <dl class="dl-horizontal people">
   {% for item in site.data.people %}
     {% assign person = item[1] %}
     {% if person.role == role.key %}
@@ -23,6 +23,12 @@ title: People
           {{ person.display_name }}
         {% if person.webpage %}
         </a>
+        {% endif %}
+        <br />
+        {% if person.img %}
+          <img src="img/{{ person.img }}" alt="{{ person.display_name }}" class="img-rounded" width="100">
+        {% else %}
+          <img src="img/profile_blank.jpg" alt="{{ person.display_name }}" class="img-rounded" width="100">
         {% endif %}
       </dt>
       <dd>

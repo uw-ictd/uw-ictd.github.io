@@ -103,6 +103,10 @@ dl.people dd {
     margin-bottom: 1em;
 }
 
+dl.people dt {
+  text-align: center;
+}
+
 /* Front page news. */
 ul.news .date {
     color: #999;
@@ -124,3 +128,7 @@ ul.news .bloglink a {
     float: right;
     margin: 0 0 1em 1em;
 }
+
+.collaborator {margin-top: 50px; margin-left: 20px; margin-right: 30px}
+
+div.collaborator img {height:60px;}

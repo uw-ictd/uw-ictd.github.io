@@ -34,22 +34,23 @@ mitchell:
     display_name: "Mitchell Sundt"
     webpage: "https://www.cs.washington.edu/node/5166"
     role: staff
+    img: mitchell_sundt.png
     bio: |
-        Mitchell is a Software Engineer in ICTD Lab and works on ODK development.
+        Software Engineer
 
 clarice: 
     display_name: "Clarice Larson"
     webpage: "#"
     role: staff
     bio: |
-        Clarice is a Software Engineer in ICTD Lab and works on ODK development.
+        Software Engineer
 
 Jeffbeorse:
     display_name: "Jeff Beorse"
     webpage: "#"
     role: staff
     bio: |
-        Jeff is a Software Engineer in ICTD Lab and works on ODK development.
+        Software Engineer
 
 aditya:
     display_name: "Aditya Vashistha"
@@ -121,11 +122,13 @@ natalie:
     display_name: "Natalie Linnell"
     webpage: "http://math.scu.edu/~linnell/"
     role: alum
+    img: natalie_linnell.jpg
     bio: "Ph.D., 2011. Now faculty at University of Santa Clara."
 joyojeet:
     display_name: "Joyojeet Pal"
     webpage: "https://www.si.umich.edu/people/joyojeet-pal"
     role: alum
+    img: joyojeet_pal.jpg
     bio: "Postdoc, 2009&ndash;2010. Now faculty at University of Michigan."
 
 #bboston:

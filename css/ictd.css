@@ -107,6 +107,10 @@ dl.people dt {
   text-align: center;
 }
 
+div.people {
+  text-align: center;
+}
+
 /* Front page news. */
 ul.news .date {
     color: #999;
@@ -132,3 +136,8 @@ ul.news .bloglink a {
 .collaborator {margin-top: 50px; margin-left: 20px; margin-right: 30px}
 
 div.collaborator img {height:60px;}
+
+div.people > img{
+  height: 100px;
+  width: 100px;
+}

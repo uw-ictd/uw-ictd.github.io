@@ -7,17 +7,93 @@ Our research focuses on how technology can improve the lives of underserved popu
 
 {% include_relative hci.md %}
 
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+	{% for ar in project.area %}
+		{% if ar == "hci" %}
+			<dt>{{ project.title }}</dt>
+  			<dd>{{ project.description }} {% if project.url %} <a href="{{ project.url |escape }}"> More >> </a> {% endif %}</dd>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</dl>
+
 {% include_relative systems.md %}
+
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+	{% for ar in project.area %}
+		{% if ar == "systems" %}
+			<dt>{{ project.title }}</dt>
+  			<dd>{{ project.description }} {% if project.url %} <a href="{{ project.url |escape }}"> More >> </a> {% endif %}</dd>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</dl>
 
 {% include_relative networks.md %}
 
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+	{% for ar in project.area %}
+		{% if ar == "networks" %}
+			<dt>{{ project.title }}</dt>
+  			<dd>{{ project.description }} {% if project.url %} <a href="{{ project.url |escape }}"> More >> </a> {% endif %}</dd>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</dl>
+
 {% include_relative security.md %}
+
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+	{% for ar in project.area %}
+		{% if ar == "security" %}
+			<dt>{{ project.title }}</dt>
+  			<dd>{{ project.description }} {% if project.url %} <a href="{{ project.url |escape }}"> More >> </a> {% endif %}</dd>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</dl>
 
 {% include_relative behavior.md %}
 
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+	{% for ar in project.area %}
+		{% if ar == "behavior" %}
+			<dt>{{ project.title }}</dt>
+  			<dd>{{ project.description }} {% if project.url %} <a href="{{ project.url |escape }}"> More >> </a> {% endif %}</dd>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</dl>
+
+
 {% include_relative health.md %}
+
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+	{% for ar in project.area %}
+		{% if ar == "health" %}
+			<dt>{{ project.title }}</dt>
+  			<dd>{{ project.description }} {% if project.url %} <a href="{{ project.url |escape }}"> More >> </a> {% endif %}</dd>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</dl>
 
 {% include_relative data.md %}
 
-
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+	{% for ar in project.area %}
+		{% if ar == "data" %}
+			<dt>{{ project.title }}</dt>
+  			<dd>{{ project.description }} {% if project.url %} <a href="{{ project.url |escape }}"> More >> </a> {% endif %}</dd>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</dl>
 

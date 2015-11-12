@@ -9,7 +9,9 @@ title: Publications
 <!--{.% include pubs.html %.}-->
 <table class="table">
 <tbody>
+{% assign url = page.url %}
 {% for item in site.data.pubs %}
+	
 	<tr>
 		<td>
 			<span class="date">
@@ -33,6 +35,11 @@ title: Publications
 			</span><br />
 			<span class="authors">
 				{{ item.authors }}.
+				{% for tg in item.tags %}
+				{% if url contains tg %}
+					VV
+				{% endif %}
+				{% endfor %}
 			</span><br />
 			<span class="venue">{{ item.venue }}</span>.
 			<br />

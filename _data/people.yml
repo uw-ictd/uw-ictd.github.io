@@ -42,6 +42,7 @@ clarice:
     display_name: "Clarice Larson"
     webpage: "#"
     role: staff
+    img: clarice_larson.jpg
     bio: |
         Software Engineer
 
@@ -49,6 +50,7 @@ Jeffbeorse:
     display_name: "Jeff Beorse"
     webpage: "#"
     role: staff
+    img: jeff_beorse.jpg
     bio: |
         Software Engineer
 
@@ -66,7 +68,7 @@ fahad:
     display_name: "Fahad Pervaiz"
     webpage: "https://homes.cs.washington.edu/~fahadp/"
     role: grad
-    img: profile_blank.jpg
+    img: fahad_pervaiz.jpg
 sam:
     display_name: "Sam Sudar"
     webpage: "http://samsudar.com/"
@@ -78,9 +80,10 @@ trevor:
     role: grad
     img: trevor_perrier.jpg
 waylon:
-    display_name: "Waylon Brunette "
+    display_name: "Waylon Brunette"
     webpage: "http://homes.cs.washington.edu/~wrb/"
     role: grad
+    img: waylon_brunette.jpg
 
 nicki:
     display_name: "Nicola Dell"
@@ -98,6 +101,7 @@ neha:
 rohit:
     display_name: "Rohit Chaudhri"
     role: alum
+    img: rohit_chaudhri.png
     bio: "Ph.D., 2014. Now founder of gaet.io"
 brian:
     display_name: "Brian DeRenzi"

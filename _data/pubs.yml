@@ -3,18 +3,21 @@
   venue: ACM DEV
   year: 2015
   month: December
+  tags: [hci]
 
 - title: "Optimizing Mobile Application Communication for Challenged Network Environments"
   authors: Waylon Brunette, Morgan Vigil, Fahad Pervaiz, Shahar Levari, Richard Anderson
   venue: ACM DEV
   year: 2015
   month: December
+  tags: [systems]
 
 - title: "DUCES: A Framework for Characterizing and Simplifying Mobile Deployments in Low-Resource Settings"
   authors: Samuel Sudar, Richard Anderson
   venue: ACM DEV
   year: 2015
   month: December
+  tags: [systems]
 
 - title: "Social Media Platforms for Low-Income Blind People in India."
   url: "http://www.nixdell.com/papers/vism_assets_camera_ready.pdf"
@@ -22,6 +25,7 @@
   venue: International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '15)
   year: 2015
   month: October
+  tags: [hci]
 
 - title: "The Whodunit Challenge: Mobilizing the Crowd in India"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/whodunit_interact_2015.pdf"
@@ -29,6 +33,7 @@
   venue: IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT '15)
   year: 2015
   month: September
+  tags: [hci]
 
 - title: "Projecting Health: Community-Led Video Education for Maternal Health."
   url: ""
@@ -36,6 +41,7 @@
   venue: International Conference on Information and Communication Technologies and Development (ICTD ’15)
   year: 2015
   month: May
+  tags: [hci]
 
 - title: "Data Specification for Information Systems for the Immunization Cold Chain"
   url: ""
@@ -43,6 +49,7 @@
   venue: IFIP WG.94 International Conference on Social Implications of Computers in Developing Countries,
   year: 2015
   month: May
+  tags: [health]
 
 - title: "Mobile Phones for Maternal Health in Rural India."
   url: ""
@@ -50,6 +57,7 @@
   venue: ACM Conference on Human Factors in Computing Systems (CHI ’15)
   year: 2015
   month: April
+  tags: [health]
 
 - title: "Sangeet Swara: A Community-Moderated Voice Forum in Rural India [Best Paper Award]﻿"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/sangeetswara_chi_2015.pdf"
@@ -57,6 +65,7 @@
   venue: ACM Conference on Human Factors in Computing Systems (CHI '15)
   year: 2015
   month: April
+  tags: [hci]
 
 - title: "Engaging Pregnant Women in Kenya with a Hybrid Computer-Human SMS Communication System."
   url: "http://www.nixdell.com/papers/p1429-perrier-chi-15.pdf"
@@ -64,6 +73,7 @@
   venue: The SIGCHI Conference on Human Factors in Computing Systems
   year: 2015
   month: April
+  tags: [hci]
 
 - title: "Paper-Digital Workflows in Global Development Organizations."
   url: "http://www.nixdell.com/papers/Dell_CSCW.pdf"
@@ -71,6 +81,7 @@
   venue: ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '15)
   year: 2015
   month: March
+  tags: [health, hci]
 
 - title: "Increasing the Reach of Snowball Sampling: The Impact of Fixed versus Lottery Incentives"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/snowball_cscw_2015.pdf"
@@ -78,6 +89,7 @@
   venue: ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '15)
   year: 2015
   month: March
+  tags: [hci]
 
 - title: "Mobile Touch-Free Interaction for Global Health."
   url: "http://www.nixdell.com/papers/touch-free-interaction.pdf"
@@ -85,6 +97,7 @@
   venue: International Workshop on Mobile Computing Systems and Applications (HotMobile '15)
   year: 2015
   month: February
+  tags: [hci, health]
 
 #- title: ""
 #  url: ""

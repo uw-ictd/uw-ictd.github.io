@@ -39,10 +39,6 @@ navigation:
       link: /people.html
     - title: Research
       link: /research/
-    - title: Projects
-      link: /projects.html
-    - title: Collaborators
-      link: /collaborators.html
     - title: Publications
       link: /publications.html
     - title: Seminars

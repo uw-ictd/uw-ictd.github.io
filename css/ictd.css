@@ -56,9 +56,9 @@ body {
 
 /* Sampa logo */
 #logo {
-    width: 154px;
-    height: 35px;
-    margin: 2px 0 8px 0;
+    /*width: 154px;*/
+    height: 50px;
+    margin: -4px 0 8px 0;
 }
 
 /* Responsive: Portrait tablets and up */

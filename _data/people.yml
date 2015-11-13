@@ -74,6 +74,11 @@ sam:
     webpage: "http://samsudar.com/"
     role: grad
     img: sam_sudar.jpg
+samuel:
+    display_name: "Sam Castle"
+    webpage: "http://homes.cs.washington.edu/~stcastle/"
+    role: grad
+    img: sam_castle.png
 trevor:
     display_name: "Trevor Perrier"
     webpage: "http://homes.cs.washington.edu/~tperrier/"

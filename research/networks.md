@@ -1,3 +1,3 @@
 ### Networks and Communication
 
-Focuses on building systems or applications that connects people in rural areas that has little or no connectivity available.
+Billions of people throughout the world live with limited or no network access. The cost of this isn't just a lack of access to the modern global economy, but also disconnection from their friends, family, and social networks. Our networking research investigates the causes of this divide, technology interventions that can help, and policy solutions to encourage rural access. To do this we look at a suite of features from the social (ownership, governance) to the technical (power,  cost). We believe strongly in the value of iterative design, local empowerment, and community, and leverage these strongly in any intervention.

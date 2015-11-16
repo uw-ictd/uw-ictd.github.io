@@ -12,10 +12,7 @@ kurtis:
     role: faculty
     img: kurtis_heimerl.jpg
     bio: |
-        Kurtis is new Assistant Professor of Computer Science and Engineering. He received his PhD from UC Berkeley where he worked on The Village Base Station (VBTS), a low-cost, low-power 
-        cellular system (based off OpenBTS). His goal was to provide community 
-        cellular: local, community-owned cellular networks in areas without 
-        existing cellular coverage. After graduating from Berkeley he co-founded [Endaga](http://endaga.com).  Currently and is now working at Facebook.  He will be joining the department in Fall '16.
+        Kurtis is a new Assistant Professor of Computer Science and Engineering. He received his PhD from the University of California, Berkeley where he worked on Commmunity Cellular Networks: low-cost, low-power, locally owned cellular infrastructure. After Berkeley he co-founded [Endaga](http://endaga.com) to commercialize the work on Community Cellular and joined Facebook to continue that effort. Outside of connectivity he has worked broadly in the field of ICTD, including projects in health, education, and alternative forms of access. He will be joining the ICTD group in the fall of 2016.
 
 gaetano:
     display_name: "Gaetano Borriello"
@@ -68,6 +65,11 @@ fahad:
     webpage: "https://homes.cs.washington.edu/~fahadp/"
     role: grad
     img: fahad_pervaiz.jpg
+mayank: 
+    display_name: "Mayank Goel"
+    webpage: "http://www.mayankgoel.com"
+    role: grad
+    img: mayank_goel.jpg
 sam:
     display_name: "Sam Sudar"
     webpage: "http://samsudar.com/"

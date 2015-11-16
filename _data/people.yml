@@ -12,11 +12,10 @@ kurtis:
     role: faculty
     img: kurtis_heimerl.jpg
     bio: |
-        Kurtis is new faculty member at UW-CSE. He received his PhD from UC Berkeley 
-        and worked on The Village Base Station (VBTS), a low-cost, low-power 
+        Kurtis is new Assistant Professor of Computer Science and Engineering. He received his PhD from UC Berkeley where he worked on The Village Base Station (VBTS), a low-cost, low-power 
         cellular system (based off OpenBTS). His goal was to provide community 
         cellular: local, community-owned cellular networks in areas without 
-        existing cellular coverage. Currently he is working at Facebook and will be joining the department in Fall '16.
+        existing cellular coverage. After graduating from Berkeley he co-founded [Endaga](http://endaga.com).  Currently and is now working at Facebook.  He will be joining the department in Fall '16.
 
 gaetano:
     display_name: "Gaetano Borriello"

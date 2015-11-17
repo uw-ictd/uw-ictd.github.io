@@ -19,7 +19,7 @@
   month: December
   tags: [systems]
   
-  title: "Understanding sociotechnical implications of mobile health deployments in India, Kenya, and Zimbabwe"
+- title: "Understanding sociotechnical implications of mobile health deployments in India, Kenya, and Zimbabwe"
   authors: Neha Kumar, Waylon Brunette, Nicola Dell, Trevor Perrier, Beth Kolko, Gaetano Borriello and Richard Anderson
   venue: Information Technologies and International Development, 11(4)
   year: 2015
@@ -43,7 +43,7 @@
   tags: [hci]
 
 - title: "Projecting Health: Community-Led Video Education for Maternal Health."
-  url: ""
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/kumar_ictd2015.pdf"
   authors: Neha Kumar, Trevor Perrier, Michelle Desmond, Kiersten Israel-Ballard, Vikrant Kumar, Sudip Mahapatra, Anil Mishra, Shreya Agarwal, Rikin Gandhi, Pallavi Lal, and Richard Anderson
   venue: International Conference on Information and Communication Technologies and Development (ICTD ’15)
   year: 2015
@@ -59,7 +59,7 @@
   tags: [health]
 
 - title: "Mobile Phones for Maternal Health in Rural India."
-  url: ""
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/kumar_chi2015.pdf"
   authors: Neha Kumar and Richard J. Anderson.
   venue: ACM Conference on Human Factors in Computing Systems (CHI ’15)
   year: 2015
@@ -106,7 +106,7 @@
   month: February
   tags: [hci, health]
   
-  title: "Supporting Immunization Programs with Improved Vaccine Cold Chain Information Systems"
+- title: "Supporting Immunization Programs with Improved Vaccine Cold Chain Information Systems"
   url: "http://homes.cs.washington.edu/~anderson/papers/2014/GHTC_anderson.pdf"
   authors: Richard Anderson, Trevor Perrier, Fahad Pervaiz, Sompasong Phongphila, Ataru Rahman, Noarasingh Sisouveth, Ranjit Dhiman, Bharath Kumar, Sophie Newland
   venue: IEEE Global Humanitarian Technology Conference (GHTC)
@@ -114,7 +114,7 @@
   month: November
   tags: [health]
   
-  title: "Mobile Video for Patient Education: The Midwives' perspective"
+- title: "Mobile Video for Patient Education: The Midwives' perspective"
   url: "http://homes.cs.washington.edu/~anderson/papers/2013/Mobile_Video_DEV13.pdf"
   authors:  Brittany Fiore-Silfvast, Carl Hartung, Kirti Iyengar, Sharad Iyengar, Kiersten Israel-Ballard, Noah Perin and Richard Anderson
   venue:  ACM Symposium for Computing and Development (DEV 2013)
@@ -122,7 +122,7 @@
   month: January
   tags: [hci]
   
-  title: "Facilitated video instruction in low resource schools"
+- title: "Facilitated video instruction in low resource schools"
   url: "http://homes.cs.washington.edu/~anderson/papers/2012/dsh_ictd2012_proceedings.pdf"
   authors: Richard Anderson, Chad Robertson, Esha Nabi, Urvashi Sahni, and Tanuja Setia  
   venue:  International Conference on Information and Communication Technologies and Development (ICTD ’12)

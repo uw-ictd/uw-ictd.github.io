@@ -18,6 +18,13 @@
   year: 2015
   month: December
   tags: [systems]
+  
+  title: "Understanding sociotechnical implications of mobile health deployments in India, Kenya, and Zimbabwe"
+  authors: Neha Kumar, Waylon Brunette, Nicola Dell, Trevor Perrier, Beth Kolko, Gaetano Borriello and Richard Anderson
+  venue: Information Technologies and International Development, 11(4)
+  year: 2015
+  month: December
+  tags: [hci]
 
 - title: "Social Media Platforms for Low-Income Blind People in India."
   url: "http://www.nixdell.com/papers/vism_assets_camera_ready.pdf"
@@ -44,7 +51,7 @@
   tags: [hci]
 
 - title: "Data Specification for Information Systems for the Immunization Cold Chain"
-  url: ""
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/pervaiz_ifip.pdf"
   authors: Fahad Pervaiz, Sophie Newland, Richard Anderson
   venue: IFIP WG.94 International Conference on Social Implications of Computers in Developing Countries,
   year: 2015
@@ -98,6 +105,14 @@
   year: 2015
   month: February
   tags: [hci, health]
+  
+  title: "Supporting Immunization Programs with Improved Vaccine Cold Chain Information Systems"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2014/GHTC_anderson.pdf"
+  authors: Richard Anderson, Trevor Perrier, Fahad Pervaiz, Sompasong Phongphila, Ataru Rahman, Noarasingh Sisouveth, Ranjit Dhiman, Bharath Kumar, Sophie Newland
+  venue: IEEE Global Humanitarian Technology Conference (GHTC)
+  year: 2014
+  month: November
+  tags: [health]
   
   title: "Mobile Video for Patient Education: The Midwives' perspective"
   url: "http://homes.cs.washington.edu/~anderson/papers/2013/Mobile_Video_DEV13.pdf"

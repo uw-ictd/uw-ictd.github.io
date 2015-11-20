@@ -68,7 +68,7 @@
 
 - title: "Mobile Phones for Maternal Health in Rural India"
   url: "http://homes.cs.washington.edu/~anderson/papers/2015/kumar_chi2015.pdf"
-  authors: Neha Kumar and Richard J. Anderson.
+  authors: Neha Kumar and Richard J. Anderson
   venue: ACM Conference on Human Factors in Computing Systems (CHI ’15)
   year: 2015
   month: April
@@ -122,10 +122,10 @@
   month: November
   tags: [health]
 
-- title: "uestioning feedback: improving public health messaging"
+- title: "Questioning feedback: improving public health messaging"
   url: "http://homes.cs.washington.edu/~anderson/papers/ICTD/Perrier_ICTD2013.pdf"
-  authors:  Brittany Fiore-Silfvast, Carl Hartung, Kirti Iyengar, Sharad Iyengar, Kiersten Israel-Ballard, Noah Perin and Richard Anderson
-  venue:  ACM Symposium for Computing and Development (DEV 2013)
+  authors:  Trevor Perrier, A. Kaustubh, A. Gupta, and Richard Anderson
+  venue:  International Conference on Information and Communication Technologies and Development (ICTD ’13) Note
   year: 2013
   month: December
   tags: [hci]

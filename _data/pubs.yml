@@ -137,6 +137,23 @@
   year: 2013
   month: January
   tags: [hci]
+
+- title: "ODK Tables: building easily customizable information applications on Android devices"
+  url: "http://homes.cs.washington.edu/~anderson/papers/ICTD/tables_dev13.pdf"
+  authors:  W. Brunette, S. Sudar, N. Worden, D. Price, R. Anderson, and G. Borriello
+  venue:  ACM Symposium for Computing and Development (DEV 2013)
+  year: 2013
+  month: January
+  tags: [hci]
+
+
+-title: "Open data kit sensors: a sensor integration framework for android at the application-level"
+  url: "http://homes.cs.washington.edu/~anderson/papers/ICTD/Sensors_Mobisys.pdf"
+  authors: Waylon Brunette, Rita Sodt, Rohit Chaudhri, Mayank Goel, Michael Falcone, Jaylen Van Orden, and Gaetano Borriello  
+  venue:  10th international conference on Mobile systems, applications, and services (MobiSys '12)
+  year: 2012
+  month: March
+  tags: [hci]
   
 - title: "Facilitated video instruction in low resource schools"
   url: "http://homes.cs.washington.edu/~anderson/papers/2012/dsh_ictd2012_proceedings.pdf"

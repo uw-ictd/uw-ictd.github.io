@@ -122,6 +122,14 @@
   month: November
   tags: [health]
 
+-title: "Questioning feedback: improving public health messaging"
+  url: "http://homes.cs.washington.edu/~anderson/papers/ICTD/Perrier_ICTD2013.pdf"
+  authors:  Trevor Perrier, A. Kaustubh, A. Gupta, and Richard Anderson 
+  venue:  The International Conference on Information and Communication Technologies for Development (ICTD 2013) 
+  year: 2013
+  month: December
+  tags: [hci]
+
 - title: "Mobile Video for Patient Education: The Midwives' perspective"
   url: "http://homes.cs.washington.edu/~anderson/papers/2013/Mobile_Video_DEV13.pdf"
   authors:  Brittany Fiore-Silfvast, Carl Hartung, Kirti Iyengar, Sharad Iyengar, Kiersten Israel-Ballard, Noah Perin and Richard Anderson

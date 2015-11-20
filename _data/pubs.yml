@@ -130,6 +130,14 @@
   month: December
   tags: [hci]
 
+- title: "Open data kit 2.0: expanding and refining information services for developing regions"
+  url: "http://homes.cs.washington.edu/~anderson/papers/ICTD/ODK2_Hotmobile.pdf"
+  authors:  Waylon Brunette, Mitchell Sundt, Nicola Dell, Rohit Chaudhri, Nathan Breit, and Gaetano Borriello
+  venue:  14th Workshop on Mobile Computing Systems and Applications(HotMobile '13)
+  year: 2013
+  month: December
+  tags: [systems]
+
 - title: "Mobile Video for Patient Education: The Midwives' perspective"
   url: "http://homes.cs.washington.edu/~anderson/papers/2013/Mobile_Video_DEV13.pdf"
   authors:  Brittany Fiore-Silfvast, Carl Hartung, Kirti Iyengar, Sharad Iyengar, Kiersten Israel-Ballard, Noah Perin and Richard Anderson
@@ -151,7 +159,7 @@
   authors: "Waylon Brunette, Rita Sodt, Rohit Chaudhri, Mayank Goel, Michael Falcone, Jaylen Van Orden, and Gaetano Borriello" 
   venue:  "10th international conference on Mobile systems, applications, and services (MobiSys '12)"
   year: 2012
-  month: March
+  month: June
   tags: [systems]
   
 - title: "Facilitated video instruction in low resource schools"

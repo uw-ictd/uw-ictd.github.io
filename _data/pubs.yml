@@ -50,6 +50,14 @@
   month: May
   tags: [hci]
 
+- title: "Projecting Health: Community-Led Video Education for Maternal Health."
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/kumar_ictd2015.pdf"
+  authors: Neha Kumar, Trevor Perrier, Michelle Desmond, Kiersten Israel-Ballard, Vikrant Kumar, Sudip Mahapatra, Anil Mishra, Shreya Agarwal, Rikin Gandhi, Pallavi Lal, and Richard Anderson
+  venue: International Conference on Information and Communication Technologies and Development (ICTD ’15)
+  year: 2015
+  month: May
+  tags: [hci]
+
 - title: "Data Specification for Information Systems for the Immunization Cold Chain"
   url: "http://homes.cs.washington.edu/~anderson/papers/2015/pervaiz_ifip.pdf"
   authors: Fahad Pervaiz, Sophie Newland, Richard Anderson
@@ -114,14 +122,6 @@
   month: November
   tags: [health]
 
--title: "Questioning feedback: improving public health messaging."
-  url: "http://homes.cs.washington.edu/~anderson/papers/ICTD/Perrier_ICTD2013.pdf"
-  authors:  Trevor Perrier, A. Kaustubh, A. Gupta, and Richard Anderson 
-  venue:  The International Conference on Information and Communication Technologies for Development (ICTD 2013), Note
-  year: 2013
-  month: December
-  tags: [hci]
-  
 - title: "Mobile Video for Patient Education: The Midwives' perspective"
   url: "http://homes.cs.washington.edu/~anderson/papers/2013/Mobile_Video_DEV13.pdf"
   authors:  Brittany Fiore-Silfvast, Carl Hartung, Kirti Iyengar, Sharad Iyengar, Kiersten Israel-Ballard, Noah Perin and Richard Anderson

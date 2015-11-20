@@ -146,7 +146,7 @@
   month: January
   tags: [systems]
 
--title: "Open data kit sensors: a sensor integration framework for android at the application-level"
+- title: "Open data kit sensors: a sensor integration framework for android at the application-level"
   url: "http://homes.cs.washington.edu/~anderson/papers/ICTD/Sensors_Mobisys.pdf"
   authors: "Waylon Brunette, Rita Sodt, Rohit Chaudhri, Mayank Goel, Michael Falcone, Jaylen Van Orden, and Gaetano Borriello" 
   venue:  "10th international conference on Mobile systems, applications, and services (MobiSys '12)"

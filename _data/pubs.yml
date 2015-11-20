@@ -146,6 +146,14 @@
   month: March
   tags: [hci]
 
+- title: "Open data kit: tools to build information services for developing regions"
+  url: "http://homes.cs.washington.edu/~anderson/papers/ICTD/ICTD2010.pdf"
+  authors: Carl Hartung, Adam Lerer, Yaw Anokwa, Clint Tseng, Waylon Brunette, and Gaetano Borriello  
+  venue:  International Conference on Information and Communication Technologies and Development (ICTD ’10)
+  year: 2010
+  month: December
+  tags: [systems]
+
 #- title: ""
 #  url: ""
 #  authors: 

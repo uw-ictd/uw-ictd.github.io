@@ -11,12 +11,11 @@ title: Publications
 <tbody>
 {% assign url = page.url %}
 {% for item in site.data.pubs %}
-	
+	{% if item.type != "talk" %}
 	<tr>
 		<td>
 			<span class="date">
 				{{ item.month }}<br />{{ item.year }}
-				
 			</span>
 		</td>
 		<td class="publication">
@@ -27,24 +26,20 @@ title: Publications
 					<img src="img/pdficon_small.png" width="16"
 						height="16" alt="PDF" />
 					{.% endif %.}-->
-				<a href="{{ item.url }}">{{ item.title }}</a>.
+					<a href="{{ item.url }}">{{ item.title }}</a>.
 				{% else %}
-				{{ item.title }}.
+					{{ item.title }}.
 				{% endif %}
 				</strong>
 			</span><br />
 			<span class="authors">
 				{{ item.authors }}.
-				{% for tg in item.tags %}
-				{% if url contains tg %}
-					VV
-				{% endif %}
-				{% endfor %}
 			</span><br />
 			<span class="venue">{{ item.venue }}</span>.
 			<br />
 		</td>
 	</tr>
+	{% endif %}
 {% endfor %}
 </tbody>
 </table>

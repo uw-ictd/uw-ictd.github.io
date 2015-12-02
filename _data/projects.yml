@@ -6,8 +6,8 @@
 
 - title: "Projecting Health"
   researchers: Trevor Perrier, Neha Kumar, Aditya Vashistha, Richard Anderson
-  description: Projecting locally produced videos in community on health topics for awareness
-  area: [health, behavior]
+  description: Community-Led Video Education, based on locally produced video content
+  area: [health, behavior, hci]
 
 - title: "Mobile Watch"
   researchers: Trevor Perrier, Brian DeRenze, Richard Anderson
@@ -29,9 +29,19 @@
   description: Voice based social forum for underprivileged people 
   area: [hci]
 
-- title: "Crowd Microtasking"
+- title: "Sangeet Swara"
+  researchers: Aditya Vashistha
+  description: Voice-based social media platform for low-Income low-Literate people
+  area: [hci]
+  
+- title: "Respeak"
   researchers: Aditya Vashistha, Richard Anderson
-  description: Using voice as a medium for crowdsourcing tasks
+  description: Voice-based crowd-powered speech transcription system
+  area: [hci]
+  
+- title: "ODK Scan"
+  researchers: Jeff Beorse, Nicki Dell, Richard Anderson
+  description: Digitizing paper-based data in global development 
   area: [hci]
 
 - title: "Cold Chain Monitoring"

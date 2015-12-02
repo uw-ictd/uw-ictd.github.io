@@ -24,11 +24,6 @@
   description: Data processing platform for ODK
   area: [data]
 
-- title: "Social Platform"
-  researchers: Aditya Vashistha, Richard Anderson
-  description: Voice based social forum for underprivileged people 
-  area: [hci]
-
 - title: "Sangeet Swara"
   researchers: Aditya Vashistha
   description: Voice-based social media platform for low-Income low-Literate people

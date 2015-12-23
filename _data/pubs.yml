@@ -1,4 +1,5 @@
 ﻿- title: "USSD: The Third Universal App"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/p13-perrier.pdf"
   authors: Trevor Perrier, Brian Derenzi, Richard Anderson
   venue: ACM Symposium for Computing and Development (DEV 2015)
   year: 2015

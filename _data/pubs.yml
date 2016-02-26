@@ -1,3 +1,12 @@
+- title: "Computing and Financial Services for the Poor: The UW Digital Financial Services Research Group"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/IITD_rja.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: Indian Institute of Technology,  Delhi (IITD), New Delhi, India
+  year: 2016
+  month: February
+  tags: [hci, systems]
+
 - title: "USSD: The Third Universal App"
   url: "http://homes.cs.washington.edu/~anderson/papers/2015/perrier_dev2015.pdf"
   authors: Trevor Perrier, Brian Derenzi, Richard Anderson
@@ -42,6 +51,15 @@
   month: October
   tags: [hci]
 
+- title: "ICTD @ UW CSE"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2015/Change_rja.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: Change Seminar,  University of Washington
+  year: 2015
+  month: October
+  tags: [hci, health, systems]
+
 - title: "The Whodunit Challenge: Mobilizing the Crowd in India"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/whodunit_interact_2015.pdf"
   authors: Aditya Vashistha, Rajan Vaish, Ed Cutrell, and William Thies
@@ -50,6 +68,15 @@
   year: 2015
   month: September
   tags: [hci]
+
+- title: "Projecting Health: Engaging communities through visual communication"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2015/AAIMS_rja.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: All India Institute of Medical Sciences (AAIMS),  New Delhi,  India
+  year: 2015
+  month: September
+  tags: [hci, health]
 
 - title: "Projecting Health: Community-Led Video Education for Maternal Health."
   url: ""

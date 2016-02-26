@@ -87,6 +87,15 @@
   month: May
   tags: [hci]
 
+- title: "User Errors in SMS Based Reporting Systems"
+  url: ""
+  authors: Fahad Pervaiz, Trevor Perrier, Sompasong Phongphila, Richard Anderson
+  type: note
+  venue: International Conference on Information and Communication Technologies and Development (ICTD ’15)
+  year: 2015
+  month: May
+  tags: [hci]
+
 - title: "Data Specification for Information Systems for the Immunization Cold Chain"
   url: ""
   authors: Fahad Pervaiz, Sophie Newland, Richard Anderson
@@ -149,6 +158,15 @@
   year: 2015
   month: February
   tags: [hci, health]
+
+- title: "Questioning to Feedback: Improving Public Health Messaging"
+  url: ""
+  authors: Trevor Perrier, Abhigyan Kaustubh, Richard Anderson
+  type: note
+  venue: International Conference on Information and Communication Technologies and Development (ICTD ’13)
+  year: 2013
+  month: December
+  tags: [hci]
 
 - title: "Mobile Video for Patient Education: The Midwives' perspective"
   url: "http://homes.cs.washington.edu/~anderson/papers/2013/Mobile_Video_DEV13.pdf"

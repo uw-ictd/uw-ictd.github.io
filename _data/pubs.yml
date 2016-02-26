@@ -1,4 +1,6 @@
-- title: "USSD: The Third Universal App"
+
+﻿- title: "USSD: The Third Universal App"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/perrier_dev2015.pdf"
   authors: Trevor Perrier, Brian Derenzi, Richard Anderson
   type: full paper
   venue: ACM DEV
@@ -7,6 +9,7 @@
   tags: [hci]
 
 - title: "Optimizing Mobile Application Communication for Challenged Network Environments"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/brunette_dev2015.pdf"
   authors: Waylon Brunette, Morgan Vigil, Fahad Pervaiz, Shahar Levari, Richard Anderson
   type: full paper
   venue: ACM DEV
@@ -15,12 +18,21 @@
   tags: [systems]
 
 - title: "DUCES: A Framework for Characterizing and Simplifying Mobile Deployments in Low-Resource Settings"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/sudar_dev2015.pdf"
   authors: Samuel Sudar, Richard Anderson
   type: full paper
   venue: ACM DEV
   year: 2015
   month: December
   tags: [systems]
+
+- title: "Understanding sociotechnical implications of mobile health deployments in India, Kenya, and Zimbabwe"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2015/kumar_itid.pdf"
+  authors: Neha Kumar, Waylon Brunette, Nicola Dell, Trevor Perrier, Beth Kolko, Gaetano Borriello and Richard Anderson
+  venue: Information Technologies and International Development, 11(4)
+  year: 2015
+  month: December
+  tags: [hci]
 
 - title: "Social Media Platforms for Low-Income Blind People in India."
   url: "http://www.nixdell.com/papers/vism_assets_camera_ready.pdf"

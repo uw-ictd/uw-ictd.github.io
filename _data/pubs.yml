@@ -8,8 +8,17 @@
   tags: [hci, systems]
   
   title: "Computer Security for Data Collection Technologies"
-  url: "http://homes.cs.washington.edu/~anderson/papers/2015/perrier_dev2015.pdf"
+  url: ""
   authors: Camille Cobb,  Sam Sudar, Richard Anderson, Franzi Roesner, Yoshi Kohno
+  type: full paper
+  venue: ICTD 
+  year: 2016
+  month: June
+  tags: [systems]
+  
+  title: "Mobile Video Dissemination for Community Health"
+  url: ""
+  authors: Aditya Vashistha, Neha Kumar, Richard Anderson
   type: full paper
   venue: ICTD 
   year: 2016

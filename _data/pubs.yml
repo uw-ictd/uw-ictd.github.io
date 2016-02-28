@@ -7,7 +7,7 @@
   month: February
   tags: [hci, systems]
   
-  title: "Computer Security for Data Collection Technologies"
+- title: "Computer Security for Data Collection Technologies"
   url: ""
   authors: Camille Cobb,  Sam Sudar, Richard Anderson, Franzi Roesner, Yoshi Kohno
   type: full paper
@@ -16,7 +16,7 @@
   month: June
   tags: [systems]
   
-  title: "Mobile Video Dissemination for Community Health"
+- title: "Mobile Video Dissemination for Community Health"
   url: ""
   authors: Aditya Vashistha, Neha Kumar, Richard Anderson
   type: full paper

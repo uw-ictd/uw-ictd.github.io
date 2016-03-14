@@ -1,12 +1,3 @@
-- title: "OPEN DATA KIT: Building and Refining Information Services for under-served Populations"
-  url: "http://homes.cs.washington.edu/~anderson/talks/2016/wrb_GlobalHealth.pdf"
-  authors: Waylon Brunette
-  type: talk
-  venue: UW Department of Global Health
-  year: 2015
-  month: February
-  tags: [hci, systems]
-  
 - title: "M4D: Connecting and Engaging with End Users"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/tperrier_WWU_2016_03_02.pdf"
   authors: Trevor Perrier
@@ -31,7 +22,7 @@
   type: talk
   venue: CSEC597G, Western Washington University,  Bellingham, WA
   year: 2016
-  month: March
+  month: January
   tags: [hci, health]
   
 - title: "Computer Security for Data Collection Technologies"
@@ -203,7 +194,16 @@
   year: 2015
   month: February
   tags: [hci, health]
-
+  
+- title: "OPEN DATA KIT: Building and Refining Information Services for under-served Populations"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/wrb_GlobalHealth.pdf"
+  authors: Waylon Brunette
+  type: talk
+  venue: UW Department of Global Health
+  year: 2015
+  month: February
+  tags: [hci, systems]
+ 
 - title: "Questioning to Feedback: Improving Public Health Messaging"
   url: ""
   authors: Trevor Perrier, Abhigyan Kaustubh, Richard Anderson

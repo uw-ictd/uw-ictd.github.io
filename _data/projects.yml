@@ -1,5 +1,5 @@
 - title: "Open Data Kit"
-  researchers: Waylon Brunette, Nicki Dell, Richard Anderson, Gaetano Borriello
+  researchers: Waylon Brunette, Nicki Dell, Richard Anderson, Sam Sudar, Gaetano Borriello
   description: Mobile-based data collection tools. 
   url: http://opendatakit.org
   area: [systems]
@@ -7,6 +7,7 @@
 - title: "Projecting Health"
   researchers: Trevor Perrier, Neha Kumar, Aditya Vashistha, Richard Anderson
   description: Community-Led Video Education, based on locally produced video content
+  url: http://homes.cs.washington.edu/~anderson/projectinghealth/
   area: [health, behavior, hci]
 
 - title: "Mobile Watch"

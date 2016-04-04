@@ -35,7 +35,7 @@
   tags: [hci, health]
   
 - title: "Computer Security for Data Collection Technologies"
-  url: ""
+  url: "http://homes.cs.washington.edu/~anderson/papers/2016/Cobb_ictd2016.pdf"
   authors: Camille Cobb,  Sam Sudar, Richard Anderson, Franzi Roesner, Yoshi Kohno
   type: full paper
   venue: ICTD 

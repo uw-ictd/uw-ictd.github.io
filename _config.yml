@@ -44,6 +44,12 @@ navigation:
     - title: Seminars
       link: /seminars.html
 
+nav_dfs:
+    - title: Home
+      link: /dfs/
+    - title: Open Session
+      link: /dfs/ictd_open_session.html
+
 # Rewriting of old path names.
 wiki_redirects:
     People: people.html

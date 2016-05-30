@@ -15,7 +15,7 @@ The open session will be a moderated panel session.  During the first 60 minutes
 
 #### Panelists
 
-* Richard Anderson is a Professor in the Department of Computer Science and Engineering at the University of Washington, where he leads the UW ICTD lab.  He recently established the UW Digital Financial Services research group.
+* [Richard Anderson](http://www.cs.washington.edu/people/faculty/anderson) is a Professor in the Department of Computer Science and Engineering at the University of Washington, where he leads the UW ICTD lab.  He recently established the UW Digital Financial Services research group.
 * Himanshu Nagpal is a Senior Program Officer, Financial Services for the Poor at the Bill & Melinda Gates Foundation.
 * Jonathan Donner is Senior Director, Research at Caribou Digital. For over a decade, Jonathan has published extensively on the growth in mobile telephony in the developing world, focusing on its implications for socio-economic development and inclusion in the information society.  Prior to joining Caribou Digital, Jonathan was a researcher in the Technology for Emerging Markets Group at Microsoft Research, India.   
 * Jacki O’Neill is a researcher in the Technology for Emerging Markets Group at Microsoft Research, India.   Her aim is to understand where and how technology can be used to improve the lives of people with lower socio-economic status, whether that be through work, health, education or play.

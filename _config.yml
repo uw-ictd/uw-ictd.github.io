@@ -49,6 +49,8 @@ nav_dfs:
       link: /dfs/
     - title: Open Session
       link: /dfs/ictd_open_session.html
+	- title: DFS Background
+	  link: /dfs/background_documents.html
 
 # Rewriting of old path names.
 wiki_redirects:

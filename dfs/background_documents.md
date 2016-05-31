@@ -8,4 +8,4 @@ The literature on Digital Financial Services spans multiple academic disciplines
 
 We have recently completed a review of the Computer Science literature to identify papers related to Digital Financial Services.  The paper is the first [Research Note][UWDFS001] of the DFS group!
 
- [UWDFS001]: http://ictd.cs.washington.edu/dfs/docs/review-computer-science-v0_1.pdf
+ [UWDFS001]: http://homes.cs.washington.edu/~anderson/dfs/review-computer-science-v0_1.pdf

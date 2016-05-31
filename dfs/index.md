@@ -3,11 +3,6 @@ layout: dfs
 title: Digital Financial Services (DFS)
 ---
 
-Some description here with [information][linke].
+The future home of a DFS Research Group Home Page
 
-
-[linke]: http://www.cs.utah.edu/asplos14/
-
-### Subheading
-
-More subtext info.
+ 

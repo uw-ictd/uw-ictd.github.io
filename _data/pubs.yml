@@ -1,11 +1,20 @@
 - title: "Mobile Video Dissemination for Community Health"
-  url: "http://homes.cs.washington.edu/~anderson/papers/2016/av_ictd_2016.pdf"
-  authors: Aditya Vashistha, Neha Kumar, Richard Anderson
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/av_ictd_2016.pdf"
+  authors: Aditya Vashistha 
   type: talk
   venue: ICTD 
   year: 2016
   month: June
   tags: [hci]
+  
+- title: "Computer Security for Data Collection Technologies"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/ss_ictd_2016.pdf"
+  authors: Sam Sudar
+  type: talk
+  venue: ICTD 
+  year: 2016
+  month: June
+  tags: [systems]
 
 - title: "Computing and Digital Services for the Poor: The UW Digital Financial Services Research Group"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/rja_change_2016_03_29.pdf"

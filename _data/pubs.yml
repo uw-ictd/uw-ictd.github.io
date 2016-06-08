@@ -1,3 +1,12 @@
+- title: "Mobile Video Dissemination for Community Health"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2016/av_ictd_2016.pdf"
+  authors: Aditya Vashistha, Neha Kumar, Richard Anderson
+  type: talk
+  venue: ICTD 
+  year: 2016
+  month: June
+  tags: [hci]
+
 - title: "Computing and Digital Services for the Poor: The UW Digital Financial Services Research Group"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/rja_change_2016_03_29.pdf"
   authors: Richard Anderson
@@ -52,14 +61,6 @@
   month: June
   tags: [hci]
   
-- title: "Mobile Video Dissemination for Community Health"
-  url: "http://homes.cs.washington.edu/~anderson/papers/2016/av_ictd_2016.pdf"
-  authors: Aditya Vashistha, Neha Kumar, Richard Anderson
-  type: talk
-  venue: ICTD 
-  year: 2016
-  month: June
-  tags: [hci]
 
 - title: "USSD: The Third Universal App"
   url: "http://homes.cs.washington.edu/~anderson/papers/2015/perrier_dev2015.pdf"

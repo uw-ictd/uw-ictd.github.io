@@ -77,7 +77,7 @@ sam:
     img: sam_sudar.jpg
 samuel:
     display_name: "Sam Castle"
-    webpage: "http://homes.cs.washington.edu/~stcastle/"
+    webpage: "http://samcastle.com/"
     role: grad
     img: sam_castle.png
 trevor:

@@ -68,8 +68,9 @@ fahad:
 mayank: 
     display_name: "Mayank Goel"
     webpage: "http://www.mayankgoel.com"
-    role: grad
+    role: alum
     img: mayank_goel.jpg
+    bio: "Ph.D., 2016. Now faculty at Carnegie Mellon University"
 sam:
     display_name: "Sam Sudar"
     webpage: "http://samsudar.com/"

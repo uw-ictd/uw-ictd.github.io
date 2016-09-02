@@ -1,3 +1,12 @@
+- title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2016/castle_dev2016_preprint.pdf"
+  authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner and Richard Anderson 
+  type: full paper
+  venue: ACM DEV
+  year: 2016
+  month: November
+  tags: [dfs, systems]
+  
 - title: "Fine-grained dengue forecasting using telephone triage services"
   url: "http://advances.sciencemag.org/content/2/7/e1501215"
   authors: Nabeel Abdur Rehman, Shankar Kalyanaraman, Talal Ahmad, Fahad Pervaiz, Umar Saif and Lakshminarayanan Subramanian
@@ -6,6 +15,7 @@
   year: 2016
   month: July
   tags: [health]
+  
 - title: "Mobile Video Dissemination for Community Health"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/av_ictd_2016.pdf"
   authors: Aditya Vashistha 

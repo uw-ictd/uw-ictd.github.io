@@ -97,3 +97,16 @@ Our research focuses on how technology can improve the lives of underserved popu
 {% endfor %}
 </dl>
 
+{% include_relative financialservices.md %}
+
+<dl class="dl-horizontal">
+{% for project in site.data.projects %}
+	{% for ar in project.area %}
+		{% if ar == "financial" %}
+			<dt>{{ project.title }}</dt>
+  			<dd>{{ project.description }} {% if project.url %} <a href="{{ project.url |escape }}"> More >> </a> {% endif %}</dd>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</dl>
+

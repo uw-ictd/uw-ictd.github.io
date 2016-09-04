@@ -17,7 +17,7 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
     - {key: faculty, name: Faculty, display: full}
-    #- {key: postdoc, name: Researchers}
+    - {key: postd, name: Researchers, display: full}
     - {key: grad, name: Graduate Students, display: short}
     #- {key: ugrad, name: Undergraduate Students}
     #- {key: collab, name: Collaborators}

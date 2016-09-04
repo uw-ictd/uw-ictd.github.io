@@ -1,6 +1,16 @@
+- title: "CacheCourier"
+  researchers: Sam Sudar,  Richard Anderson, Matt Welsh
+  description: Web browsing for intermittantly connected environments
+  area: [systems]
+  
+- title: "Mobile Money Security"
+  researchers: Sam Castle, Fahad Pervaiz, Franzi Roesner, Richard Anderson
+  description: Developing tools to enhance and validate the security of Android Apps for financial services
+  area: [security, financial]
+
 - title: "Open Data Kit"
   researchers: Waylon Brunette, Nicki Dell, Richard Anderson, Sam Sudar, Gaetano Borriello
-  description: Mobile-based data collection tools. 
+  description: Mobile-based data collection tools 
   url: http://opendatakit.org
   area: [systems]
 
@@ -11,7 +21,7 @@
   area: [health, behavior, hci]
 
 - title: "Mobile Watch"
-  researchers: Trevor Perrier, Brian DeRenze, Richard Anderson
+  researchers: Trevor Perrier, Brian DeRenzi, Richard Anderson
   description: SMS based information dissemination system for awareness
   area: [health, behavior]
 

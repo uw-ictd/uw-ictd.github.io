@@ -88,6 +88,11 @@ samuel:
     webpage: "http://samcastle.com/"
     role: grad
     img: sam_castle.png
+samia:
+    display_name: "Samia Ibtasam [Razaq]"
+    webpage: "https://www.linkedin.com/in/samiarazaqkhan"
+    role: grad
+    img: samia_ibtasam.jpg
 trevor:
     display_name: "Trevor Perrier"
     webpage: "http://homes.cs.washington.edu/~tperrier/"

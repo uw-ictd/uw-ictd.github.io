@@ -1,5 +1,14 @@
+- title: "Iterative Design of an Immunization Information System in Pakistan"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2016/razaq_dev2016.pdf"
+  authors: Samia Razaq, Amna Batool, Umair Ali, Muhammad Salman Khalid, Umar Saif and Mustafa Naseem 
+  type: full paper
+  venue: ACM DEV
+  year: 2016
+  month: November
+  tags: [hci, health]
+  
 - title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
-  url: "http://homes.cs.washington.edu/~anderson/papers/2016/castle_dev2016_preprint.pdf"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2016/castle_dev2016.pdf"
   authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner and Richard Anderson 
   type: full paper
   venue: ACM DEV

@@ -67,11 +67,21 @@ camille:
     webpage: "https://homes.cs.washington.edu/~cobbc12/"
     role: grad
     img: camille_cobb.jpg
+esther:
+    display_name: "Esther Jang"
+    webpage: "https://homes.cs.washington.edu/~infrared/"
+    role: grad
+    img: esther_jang.jpg
 fahad: 
     display_name: "Fahad Pervaiz"
     webpage: "https://homes.cs.washington.edu/~fahadp/"
     role: grad
     img: fahad_pervaiz.jpg
+matt:
+    display_name: "Matt Johnson"
+    webpage: "https://homes.cs.washington.edu/~matt9j/"
+    role: grad
+    img: matt_johnson.jpg
 mayank: 
     display_name: "Mayank Goel"
     webpage: "http://www.mayankgoel.com"

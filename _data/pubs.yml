@@ -6,11 +6,29 @@
   year: 2016
   month: November
   tags: [hci, health]
+ 
+- title: "Iterative Design of an Immunization Information System in Pakistan"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/si_dev_2016.pdf"
+  authors: Samia Ibtesam 
+  type: talk
+  venue: ACM DEV
+  year: 2016
+  month: November
+  tags: [hci, health] 
   
 - title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/castle_dev2016.pdf"
   authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner and Richard Anderson 
   type: full paper
+  venue: ACM DEV
+  year: 2016
+  month: November
+  tags: [dfs, systems]
+  
+- title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/fp_dev_2016.pdf"
+  authors: Fahad Pervaiz
+  type: talk
   venue: ACM DEV
   year: 2016
   month: November

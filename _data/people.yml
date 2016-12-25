@@ -15,11 +15,12 @@ kurtis:
         Kurtis is a new Assistant Professor of Computer Science and Engineering. He received his PhD from the University of California, Berkeley where he worked on Commmunity Cellular Networks: low-cost, low-power, locally owned cellular infrastructure. After Berkeley he co-founded [Endaga](http://endaga.com) to commercialize the work on Community Cellular and joined Facebook to continue that effort. Outside of connectivity he has worked broadly in the field of ICTD, including projects in health, education, and alternative forms of access. He will be joining the ICTD group in the fall of 2016.
 
 Jake:
-        display_name: "Jake Kendall"
-        role: faculty
-        img: jake_kendall.jpg
-        bio: |
-            Jake is a visiting researcher at ICTD focusing on fintech innovations for developing countries. He is also the Director of the Digital Financial Services Innovation Lab (DFS Lab) housed at Caribou Digital. The DFSLab engages in seed stage investing and rapid prototyping of internally-generated ideas to create fintech innovations that will profitably bring households in developing countries from the cash economy into the digital financial realm. Formerly Jake was Deputy Director of Research and Emerging Technologies within the Financial Services for the Poor Team at the Gates Foundation where his team helped create the global data architecture for tracking financial inclusion, fund the critical research to inform the field, and create high potential emerging technologies to power new financial inclusion models.  Prior to joining the foundation, he spent time as an Economist with the Consultative Group to Assist the Poor (CGAP) within the World Bank and in two start-ups in the field of cryptography. Jake is a published researcher and author and holds a PhD in Economics from UC Santa Cruz and a BS in Physics from MIT. After MIT, he spent two years in Zambia as a fisheries extension agent with the US Peace Corps. Jake has also worked as a brand analyst for a major advertising firm and, throughout his youth, a salmon fisherman in Alaska.
+    display_name: "Jake Kendall"
+    role: faculty
+    img: jake_kendall.jpg
+    bio: |
+        Jake is a visiting researcher in ICTD focusing on fintech innovations for developing countries. He is also the Director of the Digital Financial Services Innovation Lab ([DFS Lab](http://dfslab.net)) housed at Caribou Digital. The DFSLab engages in seed stage investing and rapid prototyping of internally-generated ideas to create fintech innovations that will profitably bring households in developing countries from the cash economy into the digital financial realm. Formerly Jake was Deputy Director of Research and Emerging Technologies within the Financial Services for the Poor Team at the Gates Foundation where his team helped create the global data architecture for tracking financial inclusion.
+            
 shrirang:
     display_name: "Shrirang Mare"
     role: postdoc
@@ -170,14 +171,4 @@ joyojeet:
     img: joyojeet_pal.jpg
     bio: "Postdoc, 2009&ndash;2010. Now faculty at University of Michigan."
 
-#bboston:
-#    display_name: Brett Boston
-#    role: ugrad
-
-
-#shaz:
-#    display_name: Shaz Qadeer
-#    webpage: http://research.microsoft.com/en-us/people/qadeer/
-#    bio: "Shaz is a Sr. Researcher at Microsoft Research collaborating with us on the concurrency exceptions project."
-#    role: collab
 

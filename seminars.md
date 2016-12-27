@@ -11,6 +11,9 @@ The topic this quarter is digital financial services, with papers on the technol
 This winter quarter we are offering a 1-credit, undergraduate reading seminar on technology in the developing world, with an emphasis on digital financial services.   The purpose of the seminar is to provide an introduction to a research area at the intersection of computer science and global development.  One of the mechanisms to bring people out of poverty is to increase access to financial services, including mobile money and savings instruments.  To accomplish this, it is necessary to utilize multiple technologies that can be deployed in resource constrained environments.  Winter 2016, Wednesdays, 4:30-5:20 PM.
 
 ## Courses
+[Graduate ICTD Course, CSE 599:](https://docs.google.com/document/d/1v2GiPrR5GuA6_pFinB2aLOTtYsiMqXmYEPdtD66-ZSo/edit)
+General ICTD class. Covers the history of ICTD, current works, and current status in the field. Students will learn best practices for working with communities and how to critically analyze their own research. Last offered Autumn 2016. 
+
 [CSEP 590B, Computing and Global Health](https://courses.cs.washington.edu/courses/csep590b/15wi/) \(Offered Winter 2015\)
 
 [CSE 490D/481K, Technology for Resource Constrained Environments capstone](https://courses.cs.washington.edu/courses/cse481k/)

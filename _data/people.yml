@@ -8,11 +8,11 @@ richard:
 
 kurtis:
     display_name: "Kurtis Heimerl"
-    webpage: "https://www.eecs.berkeley.edu/~kheimerl/"
+    webpage: "http://kurti.sh/"
     role: faculty
     img: kurtis_heimerl.jpg
     bio: |
-        Kurtis is a new Assistant Professor of Computer Science and Engineering. He received his PhD from the University of California, Berkeley where he worked on Commmunity Cellular Networks: low-cost, low-power, locally owned cellular infrastructure. After Berkeley he co-founded [Endaga](http://endaga.com) to commercialize the work on Community Cellular and joined Facebook to continue that effort. Outside of connectivity he has worked broadly in the field of ICTD, including projects in health, education, and alternative forms of access. He will be joining the ICTD group in the fall of 2016.
+        Kurtis is an Assistant Professor of Computer Science and Engineering. He received his PhD from the University of California, Berkeley where he worked on Commmunity Cellular Networks: low-cost, low-power, locally owned cellular infrastructure. After Berkeley he co-founded [Endaga](http://endaga.com) to commercialize the work on Community Cellular and joined Facebook to continue that effort. His research focuses primarily on access, continuing to build and evaluate Community Cellular networks the world over, in partnership with organizations such as Rhizomatica, Facebook, and others. He is a developer on [CommunityCellularManager](https://github.com/facebookincubator/CommunityCellularManager) and a close partner with Facebook's [OpenCellular](https://code.facebook.com/posts/1754757044806180/introducing-opencellular-an-open-source-wireless-access-platform). Beyond access he also is interested broadly in cellular. Some examples projects include countering "Stringray" IMSI-catcher devices and lower-power communications. 
 
 Jake:
     display_name: "Jake Kendall"

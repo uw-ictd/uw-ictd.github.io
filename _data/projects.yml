@@ -52,5 +52,22 @@
 
 - title: "Cold Chain Monitoring"
   researchers: Fahad Pervaiz, Trevor Perrier, Richard Anderson
-  description: Improving data availbility and analysis around vaccine availbility in rural areas
+  description: Improving data availability and analysis around vaccine availbility in rural areas
   area: [health, data]
+
+- title: "Community Cellular"
+  researchers: Esther Jang, Matt Johnson, Kurtis Heimerl
+  description: Empowering communities to solve their own rural communication problems
+  url: https://github.com/facebookincubator/CommunityCellularManager 
+  area: [systems, networks, data, hci]
+
+- title: "IMSI Catcher Catching"
+  researchers: Esther Jang, Matt Johnson, Kurtis Heimerl
+  description: Building tools to both counter, and evaluate counters to, IMSI Catchers
+  area: [networks, security]
+
+- title: "Interledger Routing"
+  researchers: Esther Jang, Matt Johnson, Kurtis Heimerl
+  description: Interledger is a mobile money routing protocol. There are numerous questions about the routing inside of the protocol.
+  url: https://interledger.org/
+  area: [financial, networks]

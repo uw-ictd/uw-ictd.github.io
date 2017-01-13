@@ -1,3 +1,21 @@
+- title: "Respeak: A Voice-based, Crowed-powered Speech Transcription System"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2017/av_chi_2017.pdf"
+  authors: Aditya Vahistha, Pooja Sethi and Richard Anderson 
+  type: full paper
+  venue: ACM Conference on Human Factors in Computing Systems (CHI '17)
+  year: 2017
+  month: May
+  tags: [hci]
+  
+- title: "Projecting Health: Engaging Communities Through Visual Communication"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/rja_gdhf_2016.pdf"
+  authors: Richard Anderson 
+  type: talk
+  venue: Global Digital Health Forum
+  year: 2016
+  month: December
+  tags: [hci, health] 
+  
 - title: "Iterative Design of an Immunization Information System in Pakistan"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/razaq_dev2016.pdf"
   authors: Samia Razaq, Amna Batool, Umair Ali, Muhammad Salman Khalid, Umar Saif and Mustafa Naseem 

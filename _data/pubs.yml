@@ -6,6 +6,15 @@
   year: 2017
   month: May
   tags: [hci]
+
+- title: "Technology Use and Non-use by Low-income Blind People in India"
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/vi-sigaccess-2016.pdf"
+  authors: Aditya Vahistha and Richard Anderson 
+  type: full paper
+  venue:  ACM SIGACCESS Accessibility and Computing: Issue 116 (SIGACCESS October 16)
+  year: 2016
+  month: Oct
+  tags: [hci]
   
 - title: "Projecting Health: Engaging Communities Through Visual Communication"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/rja_gdhf_2016.pdf"

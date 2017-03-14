@@ -1,3 +1,12 @@
+- title: "Examining Localization Approaches for Community Health"
+  authors: Aditya Vahistha, Neha Kumar, Anil Mishra and Richard Anderson 
+  type: full paper
+  venue: CM SIGCHI Conference on Designing Interactive Systems (DIS '17)
+  year: 2017
+  month: June
+  tags: [hci, health]
+
+
 - title: "Respeak: A Voice-based, Crowed-powered Speech Transcription System"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/av_chi_2017.pdf"
   authors: Aditya Vahistha, Pooja Sethi and Richard Anderson 

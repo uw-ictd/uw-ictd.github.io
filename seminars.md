@@ -7,7 +7,7 @@ title: Seminars
 [ICTD Reading seminar, CSE590F:](http://www.cs.washington.edu/education/courses/590f/)
 The topic this quarter is digital financial services, with papers on the technology, security, and impact of mobile money systems on development. 590F meets Tuesdays at 1:30 - 2:20 in CSE 203.
 
-[Undergraduate reading seminar, Technology for the Developing World - Digital Financial Services, CSE490D:](http://www.cs.washington.edu/education/courses/490D/)
+[Undergraduate reading seminar, Technology for the Developing World - Digital Financial Services, CSE490D:](https://courses.cs.washington.edu/courses/cse490d/16wi/) 
 This winter quarter we are offering a 1-credit, undergraduate reading seminar on technology in the developing world, with an emphasis on digital financial services.   The purpose of the seminar is to provide an introduction to a research area at the intersection of computer science and global development.  One of the mechanisms to bring people out of poverty is to increase access to financial services, including mobile money and savings instruments.  To accomplish this, it is necessary to utilize multiple technologies that can be deployed in resource constrained environments.  Winter 2016, Wednesdays, 4:30-5:20 PM.
 
 ## Courses

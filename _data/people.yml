@@ -120,6 +120,11 @@ waylon:
     webpage: "http://homes.cs.washington.edu/~wrb/"
     role: grad
     img: waylon_brunette.jpg
+kushal:
+    display_name: "Kushal Shah"
+    webpage: "https://in.linkedin.com/in/kushalns5"
+    role: grad
+    img: kushal_shah.jpg
 
 nicki:
     display_name: "Nicola Dell"

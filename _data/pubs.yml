@@ -1,3 +1,21 @@
+- title: "Open Data Kit 2.0: A Services-Based Application Framework for Disconnected Data Management"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2017/wrb_mobisys_2017.pdf"
+  authors: Waylon Brunette, Sam Sudar, Mitch Sundt, Clarice Larson, Jeff Beorse, Richard Anderson
+  type: full paper
+  venue: Conference on Mobile Systems, Applications and Services (MobiSys 2017) 
+  year: 2017
+  month: June
+  tags: [systems]
+  
+- title: "Open Data Kit 2.0: A Services-Based Application Framework for Disconnected Data Management"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2017/wrb_mobisys_2017.pdf"
+  authors: Waylon Brunette 
+  type: talk
+  venue: Conference on Mobile Systems, Applications and Services (MobiSys 2017) 
+  year: 2017
+  month: June
+  tags: [systems]
+  
 - title: "Examining Localization Approaches for Community Health"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/localization_dis_2017.pdf"
   authors: Aditya Vahistha, Neha Kumar, Anil Mishra and Richard Anderson 
@@ -6,8 +24,7 @@
   year: 2017
   month: June
   tags: [hci, health]
-
-
+  
 - title: "Respeak: A Voice-based, Crowed-powered Speech Transcription System"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/av_chi_2017.pdf"
   authors: Aditya Vahistha, Pooja Sethi and Richard Anderson 

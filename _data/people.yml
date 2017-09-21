@@ -89,17 +89,6 @@ matt:
     webpage: "https://homes.cs.washington.edu/~matt9j/"
     role: grad
     img: matt_johnson.jpg
-mayank: 
-    display_name: "Mayank Goel"
-    webpage: "http://www.mayankgoel.com"
-    role: alum
-    img: mayank_goel.jpg
-    bio: "Ph.D., 2016. Now faculty at Carnegie Mellon University"
-sam:
-    display_name: "Sam Sudar"
-    webpage: "http://samsudar.com/"
-    role: grad
-    img: sam_sudar.jpg
 samuel:
     display_name: "Sam Castle"
     webpage: "http://samcastle.com/"
@@ -126,6 +115,18 @@ kushal:
     role: grad
     img: kushal_shah.jpg
 
+sam:
+    display_name: "Sam Sudar"
+    webpage: "http://samsudar.com/"
+    role: alum
+    img: sam_sudar.jpg
+    bio: "Ph.D., 2017.  Now an engineer at Google"
+mayank: 
+    display_name: "Mayank Goel"
+    webpage: "http://www.mayankgoel.com"
+    role: alum
+    img: mayank_goel.jpg
+    bio: "Ph.D., 2016. Now faculty at Carnegie Mellon University"
 nicki:
     display_name: "Nicola Dell"
     webpage: "http://www.nixdell.com/"

@@ -134,24 +134,12 @@ nicki:
     role: alum
     img: nicki_dell.jpg
     bio: "Ph.D., 2015. Now faculty at Cornell Tech."
-neha:
-    display_name: "Neha Kumar"
-    webpage: "http://nehakumar.org/"
-    role: alum
-    img: neha_kumar.jpeg
-    bio: "Postdoc, 2013&ndash;2014. Now faculty at Georgia Tech."
 rohit:
     display_name: "Rohit Chaudhri"
     role: alum
     img: rohit_chaudhri.png
     bio: "Ph.D., 2014. Now founder of gaet.io"
-brian:
-    display_name: "Brian DeRenzi"
-    webpage: "http://www.bderenzi.com/home"
-    role: alum
-    img: brian_derenzi.jpg
-    bio: "Ph.D., 2012. Postdoc, 2012&ndash;2013. Now faculty at University of Cape Town."
-yow:
+yaw:
     display_name: "Yaw Anokwa"
     webpage: "http://www.anokwa.com/"
     github: ransford
@@ -170,6 +158,18 @@ natalie:
     role: alum
     img: natalie_linnell.jpg
     bio: "Ph.D., 2011. Now faculty at University of Santa Clara."
+neha:
+    display_name: "Neha Kumar"
+    webpage: "http://nehakumar.org/"
+    role: alum
+    img: neha_kumar.jpeg
+    bio: "Postdoc, 2013&ndash;2014. Now faculty at Georgia Tech."
+brian:
+    display_name: "Brian DeRenzi"
+    webpage: "http://www.bderenzi.com/home"
+    role: alum
+    img: brian_derenzi.jpg
+    bio: "Ph.D., 2012. Postdoc, 2012&ndash;2013. Now faculty at University of Cape Town."
 joyojeet:
     display_name: "Joyojeet Pal"
     webpage: "https://www.si.umich.edu/people/joyojeet-pal"

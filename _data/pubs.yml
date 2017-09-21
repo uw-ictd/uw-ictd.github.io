@@ -1,3 +1,19 @@
+- title: "An Exploration of Smartphone Based Mobile Money Applications in Pakistan"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2017/ibtasam_ictd2017.pdf"
+  authors: Samia Ibtasam, Hamid Mehmood, Lubna Razaq, Jennifer Webster, Sarah Yu, and Richard Anderson
+  type: full paper
+  venue: ICTD 2017
+  year: 2017
+  month: November
+  tags: [dfs, systems]
+- title: "An Investigation of Phone Upgrades in Remote Community Cellular Networks"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2017/shah_ictd2017.pdf"
+  authors: Kushal Shah, Philip Martinez, Emre Tepedelenlioglu, Shaddi Hasan, Ceric Festin, Joshua Blumenstock, Josephine Dionisio and Kertis Heimerl
+  type: full paper
+  venue: ICTD 2017
+  year: 2017
+  month: November
+  tags: [dfs, systems]
 - title: "Open Data Kit 2.0: A Services-Based Application Framework for Disconnected Data Management"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/wrb_mobisys_2017.pdf"
   authors: Waylon Brunette, Sam Sudar, Mitch Sundt, Clarice Larson, Jeff Beorse, Richard Anderson

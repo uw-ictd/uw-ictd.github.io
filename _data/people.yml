@@ -114,6 +114,10 @@ kushal:
     webpage: "https://in.linkedin.com/in/kushalns5"
     role: grad
     img: kushal_shah.jpg
+naveena:
+    display_name: "Naveena Karusala"
+    role: grad
+    img: naveena_karusala.jpg
 
 sam:
     display_name: "Sam Sudar"

@@ -118,7 +118,10 @@ naveena:
     display_name: "Naveena Karusala"
     role: grad
     img: naveena_karusala.jpg
-
+philip:
+    display_name: "Philip Garrison"
+    role: grad
+    img: philip_garrison.jpg
 sam:
     display_name: "Sam Sudar"
     webpage: "http://samsudar.com/"

@@ -1,5 +1,45 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "eKichabi: Information Access through Basic Mobile Phones in Rural Tanzania"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/weld_chi2018.pdf"
+  authors: Galen Weld, Trevor Perrier, Jenny Aker, Joshua Blumenstock, Brian Dillon, Adalbertus Kamanzi, Editha Kokushubira, Jennifer Webster and Richard Anderson
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2018
+  month: April
+  tags: [dfs, hci]
+  
+- title: "Crowdsourcing Rural Network Maintenance and Repair via Network Messaging"
+  authors: Esther Jang, Mary Claire Barela, Matt Johnson, Philip Martinez, Cedric Festin, Margaret Lynn, Josephine Dionisio, and Kurtis Heimerl
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2018
+  month: April
+  tags: [dfs, hci]
+  
+- title: "BSpeak: An Accessible Voice-based Crowdsourcing Marketplace for Low-Income Blind People"
+  authors: Aditya Vashistha, Pooja Sethi and Richard Anderson
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2018
+  month: April
+  tags: [dfs, hci]
+  
+- title: "'You Can Always Do Better!', The Impact of Social Proof on Participant Response Bias"
+  authors: Aditya Vashistha, Fabian Okeke, Nicki Dell and Richard Anderson  
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2018
+  month: April
+  tags: [dfs, hci]
+  
+- title: "'Only if you use English you will get to more things': Using Smartphones to Navigate Multilingualism"
+  authors: Naveena Karusala, Aditya Vishwanath, Aditya Vashistha, Sunita Kumar and Neha Kumar
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2018
+  month: April
+  tags: [dfs, hci]  
 - title: "An Exploration of Smartphone Based Mobile Money Applications in Pakistan"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/ibtasam_ictd2017.pdf"
   authors: Samia Ibtasam, Hamid Mehmood, Lubna Razaq, Jennifer Webster, Sarah Yu, and Richard Anderson

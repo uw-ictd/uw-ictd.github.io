@@ -40,6 +40,17 @@
   year: 2018
   month: April
   tags: [dfs, hci]  
+  
+- title: "Computer security for data collection technologies"
+  url: "https://www.sciencedirect.com/science/article/pii/S2352728516300677"
+  authors: Camille Cobb, Samuel Sudar, Nicholas Reiter, Richard Anderson, Franziska Roesner, and Tadayoushi Kohno
+  type: full paper
+  venue: Development Engineering,  Volume 3, 2018, Pages 1-11
+  year: 2018
+  month: January
+  tags: [systems]
+  
+  
 - title: "An Exploration of Smartphone Based Mobile Money Applications in Pakistan"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/ibtasam_ictd2017.pdf"
   authors: Samia Ibtasam, Hamid Mehmood, Lubna Razaq, Jennifer Webster, Sarah Yu, and Richard Anderson

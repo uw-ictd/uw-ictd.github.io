@@ -18,6 +18,7 @@
   tags: [dfs, hci]
   
 - title: "BSpeak: An Accessible Voice-based Crowdsourcing Marketplace for Low-Income Blind People"
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/bspeak_chi_2018.pdf"
   authors: Aditya Vashistha, Pooja Sethi and Richard Anderson
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -26,6 +27,7 @@
   tags: [dfs, hci]
   
 - title: "'You Can Always Do Better!', The Impact of Social Proof on Participant Response Bias"
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/social_influence_chi_2018.pdf"
   authors: Aditya Vashistha, Fabian Okeke, Nicki Dell and Richard Anderson  
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -34,6 +36,7 @@
   tags: [dfs, hci]
   
 - title: "'Only if you use English you will get to more things': Using Smartphones to Navigate Multilingualism"
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/multilingualism_chi_2018.pdf"
   authors: Naveena Karusala, Aditya Vishwanath, Aditya Vashistha, Sunita Kumar and Neha Kumar
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -80,7 +83,7 @@
  
 - title: "Examining Localization Approaches for Community Health"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/localization_dis_2017.pdf"
-  authors: Aditya Vahistha, Neha Kumar, Anil Mishra and Richard Anderson 
+  authors: Aditya Vashistha, Neha Kumar, Anil Mishra and Richard Anderson 
   type: full paper
   venue: ACM SIGCHI Conference on Designing Interactive Systems (DIS '17)
   year: 2017
@@ -89,7 +92,7 @@
   
 - title: "Respeak: A Voice-based, Crowed-powered Speech Transcription System"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/av_chi_2017.pdf"
-  authors: Aditya Vahistha, Pooja Sethi and Richard Anderson 
+  authors: Aditya Vashistha, Pooja Sethi and Richard Anderson 
   type: full paper
   venue: ACM Conference on Human Factors in Computing Systems (CHI '17)
   year: 2017

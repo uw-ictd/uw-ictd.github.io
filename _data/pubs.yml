@@ -1,5 +1,13 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "ThinSIM-based Attacks on Mobile Money Systems"
+  authors: Rowan Phipps, Shrirang Mare, Peter Ney, Jennifer Rose Webster, Kurtis Heimerl
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2018
+  month: June
+  tags: [dfs, security]
+
 - title: "eKichabi: Information Access through Basic Mobile Phones in Rural Tanzania"
   url: "http://ictd.cs.washington.edu/docs/papers/2018/weld_chi2018.pdf"
   authors: Galen Weld, Trevor Perrier, Jenny Aker, Joshua Blumenstock, Brian Dillon, Adalbertus Kamanzi, Editha Kokushubira, Jennifer Webster and Richard Anderson
@@ -10,6 +18,7 @@
   tags: [dfs, hci]
   
 - title: "Crowdsourcing Rural Network Maintenance and Repair via Network Messaging"
+  url: "http://kurti.sh/pubs/chi-2017-tanay.pdf"
   authors: Esther Jang, Mary Claire Barela, Matt Johnson, Philip Martinez, Cedric Festin, Margaret Lynn, Josephine Dionisio, and Kurtis Heimerl
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems

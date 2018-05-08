@@ -37,6 +37,8 @@ navigation:
       link: /
     - title: People
       link: /people.html
+    - title: Blog
+      link: http://kurti.sh
     - title: Research
       link: /research/
     - title: Publications

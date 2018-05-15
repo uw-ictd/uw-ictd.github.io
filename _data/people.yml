@@ -129,6 +129,11 @@ philip:
     display_name: "Philip Garrison"
     role: grad
     img: philip_garrison.jpg
+kushi:
+    display_name: "Kushi"
+    role: grad
+    webpage: "https://www.sheldrickwildlifetrust.org/asp/orphan_profile.asp?N=368"
+    img: kushi.jpg
 sam:
     display_name: "Sam Sudar"
     webpage: "http://samsudar.com/"

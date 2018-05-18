@@ -1,5 +1,14 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "ThinSIM-based Attacks on Mobile Money Systems"
+  authors: Rowan Phipps, Shrirang Mare, Peter Ney, Jennifer Rose Webster, Kurtis Heimerl
+  url: "http://kurti.sh/pubs/thinsim-based-attacks.pdf"
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2018
+  month: June
+  tags: [dfs, security]
+
 - title: "eKichabi: Information Access through Basic Mobile Phones in Rural Tanzania"
   url: "http://ictd.cs.washington.edu/docs/papers/2018/weld_chi2018.pdf"
   authors: Galen Weld, Trevor Perrier, Jenny Aker, Joshua Blumenstock, Brian Dillon, Adalbertus Kamanzi, Editha Kokushubira, Jennifer Webster and Richard Anderson
@@ -10,6 +19,7 @@
   tags: [dfs, hci]
   
 - title: "Crowdsourcing Rural Network Maintenance and Repair via Network Messaging"
+  url: "http://kurti.sh/pubs/chi-2017-tanay.pdf"
   authors: Esther Jang, Mary Claire Barela, Matt Johnson, Philip Martinez, Cedric Festin, Margaret Lynn, Josephine Dionisio, and Kurtis Heimerl
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -18,6 +28,7 @@
   tags: [dfs, hci]
   
 - title: "BSpeak: An Accessible Voice-based Crowdsourcing Marketplace for Low-Income Blind People"
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/bspeak_chi_2018.pdf"
   authors: Aditya Vashistha, Pooja Sethi and Richard Anderson
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -26,6 +37,7 @@
   tags: [dfs, hci]
   
 - title: "'You Can Always Do Better!', The Impact of Social Proof on Participant Response Bias"
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/social_influence_chi_2018.pdf"
   authors: Aditya Vashistha, Fabian Okeke, Nicki Dell and Richard Anderson  
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -34,6 +46,7 @@
   tags: [dfs, hci]
   
 - title: "'Only if you use English you will get to more things': Using Smartphones to Navigate Multilingualism"
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/multilingualism_chi_2018.pdf"
   authors: Naveena Karusala, Aditya Vishwanath, Aditya Vashistha, Sunita Kumar and Neha Kumar
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -80,7 +93,7 @@
  
 - title: "Examining Localization Approaches for Community Health"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/localization_dis_2017.pdf"
-  authors: Aditya Vahistha, Neha Kumar, Anil Mishra and Richard Anderson 
+  authors: Aditya Vashistha, Neha Kumar, Anil Mishra and Richard Anderson 
   type: full paper
   venue: ACM SIGCHI Conference on Designing Interactive Systems (DIS '17)
   year: 2017
@@ -89,7 +102,7 @@
   
 - title: "Respeak: A Voice-based, Crowed-powered Speech Transcription System"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/av_chi_2017.pdf"
-  authors: Aditya Vahistha, Pooja Sethi and Richard Anderson 
+  authors: Aditya Vashistha, Pooja Sethi and Richard Anderson 
   type: full paper
   venue: ACM Conference on Human Factors in Computing Systems (CHI '17)
   year: 2017

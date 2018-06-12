@@ -1,5 +1,14 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "Examining Security and Privacy Research in Developing Regions"
+  authors: Aditya Vashistha, Richard Anderson, Shrirang Mare
+  url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/security_privacy_compass_2018.pdf"
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2018
+  month: June
+  tags: [dfs, security, privacy]
+  
 - title: "ThinSIM-based Attacks on Mobile Money Systems"
   authors: Rowan Phipps, Shrirang Mare, Peter Ney, Jennifer Rose Webster, Kurtis Heimerl
   url: "http://kurti.sh/pubs/thinsim-based-attacks.pdf"

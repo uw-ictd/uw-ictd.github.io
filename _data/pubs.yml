@@ -1,5 +1,41 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "Siskin: Leveraging the Browser to Share Web Content in Disconnected Environments"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/sudar_compass2018.pdf"
+  authors: Sam Sudar (Google), Matt Welsh (Google), Richard Anderson (University of Washington)
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2018
+  month: June
+  tags: [dfs]
+
+- title: "MalePartnerEngagementinFamilyPlanningSMS ConversationsatKenyanHealthClinics"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/perrier_compass2018.pdf"
+  authors: Trevor Perrier.Elizabeth Harrington, Keshet Ronen, Daniel Matemo, John Kinuthia, Grace John-Stewart, Richard Anderson, Jennifer Unger
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2018
+  month: June
+  tags: [dfs]
+  
+- title: "A Qualitative Exploration of Mobile Money in Ghana"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/yu_compass2018.pdf"
+  authors: Sarah Yu (University of Washington), Samia Ibtasam (University of Washington)
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2018
+  month: June
+  tags: [dfs]
+
+- title: "Knowledge, Access, and Decision-Making: Women's Financial Inclusion in Pakistan"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/ibtasam_compass2018.pdf"
+  authors: Samia Ibtasam (University of Washington), Lubna Razaq (Information Technology University), Haider W. Anwar (Northeastern University), Hamid Mehmood (Information Technology University), Kushal Shah (University of Washington), Jennifer Webster (University of Washington), Neha Kumar (Georgia Institute of Technology), Richard Anderson (University of Washington)
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2018
+  month: June
+  tags: [dfs]
+  
 - title: "Examining Security and Privacy Research in Developing Regions"
   authors: Aditya Vashistha, Richard Anderson, Shrirang Mare
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/security_privacy_compass_2018.pdf"
@@ -332,6 +368,62 @@
 
 
 # TALKS
+- title: "Male Partner Engagement in Family Planning SMS Conversations at Kenyan Health Clinics"
+  url: "docs/talks/2018/trevor_compass_2018.pdf"
+  authors: Trevor Perrier
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [health]
+- title: "Siskin: Leveraging the Browser to Share Web Content in Disconnected Environments"
+  url: "docs/talks/2018/sam_compass_2018.pdf"
+  authors: Sam Sudar
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [dfs]
+- title: "Knowledge, Access, and Decision-Making: Women's Financial Inclusion in Pakistan"
+  url: "docs/talks/2018/rja_compass_2018.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [dfs]
+- title: "Meta-analysis: Examining Security and Privacy Research in Developing Regions"
+  url: "docs/talks/2018/shri_compass_2018.pdf"
+  authors: Shrirang Mare
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [security]
+- title: "Thin Sim-Based Mobile Money Attacks"
+  url: "docs/talks/2018/rowan_compass_2018.pdf"
+  authors: Rowan Phipps
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [security]
+- title: "A Qualitative Exploration of Mobile Money in Ghana"
+  url: "docs/talks/2018/sarah_compass_2018.pdf"
+  authors: Sarah Yu
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [dfs]
+- title: "eKichabi: Information Access through Basic Mobile Phones in Rural Tanzania"
+  url: "docs/talks/2018/galen_chi_2018.pdf"
+  authors: Galen Weld
+  type: talk
+  venue: CHI 2018,  Montreal,  Canada
+  year: 2018
+  month: April
+  tags: [hci]
 - title: "Digital Financial Services: Gender &amp; Learnability"
   url: "docs/talks/2018/samia_change_2018.pdf"
   authors: Samia Ibtasam

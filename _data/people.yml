@@ -119,8 +119,9 @@ waylon:
 kushal:
     display_name: "Kushal Shah"
     webpage: "https://in.linkedin.com/in/kushalns5"
-    role: grad
+    role: alum
     img: kushal_shah.jpg
+    bio: "Masters, 2018.  Now at Grab.
 naveena:
     display_name: "Naveena Karusala"
     role: grad
@@ -195,5 +196,14 @@ joyojeet:
     role: alum
     img: joyojeet_pal.jpg
     bio: "Postdoc, 2009&ndash;2010. Now faculty at University of Michigan."
-
+mattZ:
+    display_name: "Matt Ziegler"
+    webpage: "https://mattziegler.net/"
+    role: grad
+    img: matt_ziegler.jpg
+galen:
+    display_name: "Galen Weld"
+    role: grad
+    img: galen_weld.jpg
+    
 

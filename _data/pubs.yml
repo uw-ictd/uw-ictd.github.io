@@ -1,5 +1,15 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+
+- title: "Fresh Insights: User Research Towards a Market Information Service for Bihari Vegetable Farmers"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/ziegler_ictd2019.pdf"
+  authors: Matt Ziegler, Lokesh Garg, Shailesh Tiwari, Aditya Vashistha, Kurtis Heimerl
+  type: full paper
+  venue: Tenth International Conference on Information and Communication Technologies and Development (ICTD '19)
+  year: 2019
+  month: January
+  tags: [hci]
+
 - title: "Siskin: Leveraging the Browser to Share Web Content in Disconnected Environments"
   url: "http://ictd.cs.washington.edu/docs/papers/2018/sudar_compass2018.pdf"
   authors: Sam Sudar (Google), Matt Welsh (Google), Richard Anderson (University of Washington)

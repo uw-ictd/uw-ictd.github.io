@@ -14,13 +14,6 @@ kurtis:
     bio: |
         Kurtis is an Assistant Professor of Computer Science and Engineering. He received his PhD from the University of California, Berkeley where he worked on Commmunity Cellular Networks: low-cost, low-power, locally owned cellular infrastructure. After Berkeley he co-founded [Endaga](http://endaga.com) to commercialize the work on Community Cellular and joined Facebook to continue that effort. His research focuses primarily on access, continuing to build and evaluate Community Cellular networks the world over, in partnership with organizations such as Rhizomatica, Facebook, and others. He is a developer on [CommunityCellularManager](https://github.com/facebookincubator/CommunityCellularManager) and a close partner with Facebook's [OpenCellular](https://code.facebook.com/posts/1754757044806180/introducing-opencellular-an-open-source-wireless-access-platform). Beyond access he also is interested broadly in cellular. Some examples projects include countering "Stingray" IMSI-catcher devices and lower-power communications. 
 
-Jake:
-    display_name: "Jake Kendall"
-    role: faculty
-    img: jake_kendall.jpg
-    bio: |
-        Jake is a visiting researcher in ICTD focusing on fintech innovations for developing countries. He is also the Director of the Digital Financial Services Innovation Lab ([DFS Lab](http://dfslab.net)) housed at Caribou Digital. The DFSLab engages in seed stage investing and rapid prototyping of internally-generated ideas to create fintech innovations that will profitably bring households in developing countries from the cash economy into the digital financial realm. Formerly Jake was Deputy Director of Research and Emerging Technologies within the Financial Services for the Poor Team at the Gates Foundation where his team helped create the global data architecture for tracking financial inclusion.
-            
 shrirang:
     display_name: "Shrirang Mare"
     role: postdoc

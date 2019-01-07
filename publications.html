@@ -8,6 +8,7 @@ title: Publications
 <a href="#full_papers">Full Papers</a> / 
 <a href="#notes">Notes </a> / 
 <a href="#talks">Talks </a>
+<a href="#chapters">Book Chapters </a>
 
 <!--{.% include pubs.html %.}-->
 <h3 id="full_papers">Full Papers</h3>
@@ -55,6 +56,44 @@ title: Publications
 {% assign url = page.url %}
 {% for item in site.data.pubs %}
 	{% if item.type == "note" %}
+	<tr>
+		<td>
+			<span class="date">
+				{{ item.month }}<br />{{ item.year }}
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<strong>
+				{% if item.url %}
+					<!--{.% if '.pdf' in item.url %.}
+					<img src="img/pdficon_small.png" width="16"
+						height="16" alt="PDF" />
+					{.% endif %.}-->
+					<a href="{{ item.url }}">{{ item.title }}</a>.
+				{% else %}
+					{{ item.title }}.
+				{% endif %}
+				</strong>
+			</span><br />
+			<span class="authors">
+				{{ item.authors }}.
+			</span><br />
+			<span class="venue">{{ item.venue }}</span>.
+			<br />
+		</td>
+	</tr>
+	{% endif %}
+{% endfor %}
+</tbody>
+</table>
+
+<h3 id="talks">Book Chapters</h3>
+<table class="table">
+<tbody>
+{% assign url = page.url %}
+{% for item in site.data.pubs %}
+	{% if item.type == "book chapter" %}
 	<tr>
 		<td>
 			<span class="date">

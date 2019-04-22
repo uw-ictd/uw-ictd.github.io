@@ -71,3 +71,9 @@
   description: Interledger is a mobile money routing protocol. There are numerous questions about the routing inside of the protocol.
   url: https://interledger.org/
   area: [financial, networks]
+
+- title: "Community LTE"
+  researchers: Spencer Sevilla, Esther Jang, Matt Johnson, Kurtis Heimerl
+  description: CoLTE is an open-source toolkit that enables people to start their own LTE networks
+  url: https://github.com/uw-ictd/colte 
+  area: [systems, networks]

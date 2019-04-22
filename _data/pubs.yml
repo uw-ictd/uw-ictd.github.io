@@ -21,7 +21,7 @@
 
 - title: "dLTE: Building a more WiFi-like Cellular Network (Instead of the Other Way Around)"
   url: "https://kurti.sh/pubs/dLTE-Johnson-HotNets-2018.pdf"
-  authors: Matthew Johnson, Spencer Sevilla, Esther Jang, and Kurtis Heimerl (University of Washington). 
+  authors: Matthew Johnson, Spencer Sevilla, Esther Jang, and Kurtis Heimerl (University of Washington)
   type: full paper
   venue: The Seventeenth ACM Workshop on Hot Topics in Networks (HotNETS)
   year: 2018
@@ -30,7 +30,7 @@
 
 - title: "Connecting Communities through Mobile Networks: The VBTS-CoCoMoNets Project"
   url: "https://www.giswatch.org/community-networks"
-  authors: Mary Claire Barela, Josephine Dionisio, Kurtis Heimerl, Manuel Victor Sapitula, and Cedric Angelo Festin. 
+  authors: Mary Claire Barela, Josephine Dionisio, Kurtis Heimerl, Manuel Victor Sapitula, and Cedric Angelo Festin
   type: book chapter
   venue: "Global Information Society Watch 2018: Community Networks"
   year: 2018
@@ -48,7 +48,7 @@
 
 - title: "Designing Sustainable Rural Infrastructure Through the Lens of OpenCellular"
   url: "https://cacm.acm.org/magazines/2018/8/229756-designing-sustainable-rural-infrastructure-through-the-lens-of-opencellular/abstract"
-  authors: Kashif Ali, Kurtis Heimerl.
+  authors: Kashif Ali, Kurtis Heimerl
   type: full paper
   venue:  Communications of the ACM
   year: 2018
@@ -72,7 +72,7 @@
   year: 2018
   month: June
   tags: [dfs]
-  
+
 - title: "A Qualitative Exploration of Mobile Money in Ghana"
   url: "http://ictd.cs.washington.edu/docs/papers/2018/yu_compass2018.pdf"
   authors: Sarah Yu (University of Washington), Samia Ibtasam (University of Washington)
@@ -90,7 +90,7 @@
   year: 2018
   month: June
   tags: [dfs]
-  
+
 - title: "Examining Security and Privacy Research in Developing Regions"
   authors: Aditya Vashistha, Richard Anderson, Shrirang Mare
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/security_privacy_compass_2018.pdf"
@@ -99,7 +99,7 @@
   year: 2018
   month: June
   tags: [dfs, security, privacy]
-  
+
 - title: "ThinSIM-based Attacks on Mobile Money Systems"
   authors: Rowan Phipps, Shrirang Mare, Peter Ney, Jennifer Rose Webster, Kurtis Heimerl
   url: "http://kurti.sh/pubs/thinsim-based-attacks.pdf"
@@ -117,7 +117,7 @@
   year: 2018
   month: April
   tags: [dfs, hci]
-  
+
 - title: "Crowdsourcing Rural Network Maintenance and Repair via Network Messaging"
   url: "http://kurti.sh/pubs/chi-2017-tanay.pdf"
   authors: Esther Jang, Mary Claire Barela, Matt Johnson, Philip Martinez, Cedric Festin, Margaret Lynn, Josephine Dionisio, and Kurtis Heimerl
@@ -126,7 +126,7 @@
   year: 2018
   month: April
   tags: [dfs, hci]
-  
+
 - title: "BSpeak: An Accessible Voice-based Crowdsourcing Marketplace for Low-Income Blind People"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/bspeak_chi_2018.pdf"
   authors: Aditya Vashistha, Pooja Sethi and Richard Anderson
@@ -135,16 +135,16 @@
   year: 2018
   month: April
   tags: [dfs, hci]
-  
+
 - title: "'You Can Always Do Better!', The Impact of Social Proof on Participant Response Bias"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/social_influence_chi_2018.pdf"
-  authors: Aditya Vashistha, Fabian Okeke, Nicki Dell and Richard Anderson  
+  authors: Aditya Vashistha, Fabian Okeke, Nicki Dell and Richard Anderson
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
   year: 2018
   month: April
   tags: [dfs, hci]
-  
+
 - title: "'Only if you use English you will get to more things': Using Smartphones to Navigate Multilingualism"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/multilingualism_chi_2018.pdf"
   authors: Naveena Karusala, Aditya Vishwanath, Aditya Vashistha, Sunita Kumar and Neha Kumar
@@ -152,8 +152,8 @@
   venue: ACM CHI Conference on Human Factors in Computing Systems
   year: 2018
   month: April
-  tags: [dfs, hci]  
-  
+  tags: [dfs, hci]
+
 - title: "Computer security for data collection technologies"
   url: "https://www.sciencedirect.com/science/article/pii/S2352728516300677"
   authors: Camille Cobb, Samuel Sudar, Nicholas Reiter, Richard Anderson, Franziska Roesner, and Tadayoushi Kohno
@@ -162,8 +162,7 @@
   year: 2018
   month: January
   tags: [systems]
-  
-  
+
 - title: "An Exploration of Smartphone Based Mobile Money Applications in Pakistan"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/ibtasam_ictd2017.pdf"
   authors: Samia Ibtasam, Hamid Mehmood, Lubna Razaq, Jennifer Webster, Sarah Yu, and Richard Anderson
@@ -172,7 +171,7 @@
   year: 2017
   month: November
   tags: [dfs, systems]
-  
+
 - title: "An Investigation of Phone Upgrades in Remote Community Cellular Networks"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/shah_ictd2017.pdf"
   authors: Kushal Shah, Philip Martinez, Emre Tepedelenlioglu, Shaddi Hasan, Ceric Festin, Joshua Blumenstock, Josephine Dionisio and Kurtis Heimerl
@@ -181,34 +180,34 @@
   year: 2017
   month: November
   tags: [dfs, systems]
-  
+
 - title: "Open Data Kit 2.0: A Services-Based Application Framework for Disconnected Data Management"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/wrb_mobisys_2017.pdf"
   authors: Waylon Brunette, Sam Sudar, Mitch Sundt, Clarice Larson, Jeff Beorse, Richard Anderson
   type: full paper
-  venue: Conference on Mobile Systems, Applications and Services (MobiSys 2017) 
+  venue: Conference on Mobile Systems, Applications and Services (MobiSys 2017)
   year: 2017
   month: June
   tags: [systems]
- 
+
 - title: "Examining Localization Approaches for Community Health"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/localization_dis_2017.pdf"
-  authors: Aditya Vashistha, Neha Kumar, Anil Mishra and Richard Anderson 
+  authors: Aditya Vashistha, Neha Kumar, Anil Mishra and Richard Anderson
   type: full paper
   venue: ACM SIGCHI Conference on Designing Interactive Systems (DIS '17)
   year: 2017
   month: June
   tags: [hci, health]
-  
+
 - title: "Respeak: A Voice-based, Crowed-powered Speech Transcription System"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/av_chi_2017.pdf"
-  authors: Aditya Vashistha, Pooja Sethi and Richard Anderson 
+  authors: Aditya Vashistha, Pooja Sethi and Richard Anderson
   type: full paper
   venue: ACM Conference on Human Factors in Computing Systems (CHI '17)
   year: 2017
   month: May
   tags: [hci]
-  
+
 - title: "Iterative Design of an Immunization Information System in Pakistan"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/razaq_dev2016.pdf"
   authors: Samia Razaq, Amna Batool, Umair Ali, Muhammad Salman Khalid, Umar Saif and Mustafa Naseem 
@@ -217,7 +216,7 @@
   year: 2016
   month: November
   tags: [hci, health]
-  
+
 - title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/castle_dev2016.pdf"
   authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner and Richard Anderson 
@@ -226,10 +225,10 @@
   year: 2016
   month: November
   tags: [dfs, systems]
-  
+
 - title: "Technology Use and Non-use by Low-income Blind People in India"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/vi-sigaccess-2016.pdf"
-  authors: Aditya Vashistha and Richard Anderson 
+  authors: Aditya Vashistha and Richard Anderson
   type: full paper
   venue:  ACM SIGACCESS Accessibility and Computing Newsletter Issue 116
   year: 2016
@@ -244,25 +243,25 @@
   year: 2016
   month: July
   tags: [health]
-  
+
 - title: "Computer Security for Data Collection Technologies"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/cobb_ictd2016.pdf"
   authors: Camille Cobb,  Sam Sudar, Richard Anderson, Franzi Roesner, Yoshi Kohno
   type: full paper
-  venue: ICTD 
+  venue: ICTD
   year: 2016
   month: June
   tags: [systems]
-  
+
 - title: "Mobile Video Dissemination for Community Health"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/vashistha_ictd2016.pdf"
   authors: Aditya Vashistha, Neha Kumar, Richard Anderson
   type: full paper
-  venue: ICTD 
+  venue: ICTD
   year: 2016
   month: June
   tags: [hci]
-  
+
 
 - title: "USSD: The Third Universal App"
   url: "http://homes.cs.washington.edu/~anderson/papers/2015/perrier_dev2015.pdf"
@@ -282,7 +281,6 @@
   month: December
   tags: [systems]
 
- 
 - title: "DUCES: A Framework for Characterizing and Simplifying Mobile Deployments in Low-Resource Settings"
   url: "http://homes.cs.washington.edu/~anderson/papers/2015/sudar_dev2015.pdf"
   authors: Samuel Sudar, Richard Anderson
@@ -309,7 +307,7 @@
   year: 2015
   month: October
   tags: [hci]
-  
+
 - title: "The Whodunit Challenge: Mobilizing the Crowd in India"
   url: "http://www.adityavashistha.com/uploads/2/0/8/0/20800650/whodunit_interact_2015.pdf"
   authors: Aditya Vashistha, Rajan Vaish, Ed Cutrell, and William Thies
@@ -390,7 +388,7 @@
   year: 2015
   month: February
   tags: [hci, health]
-  
+
 - title: "Mobile Video for Patient Education: The Midwives' perspective"
   url: "http://homes.cs.washington.edu/~anderson/papers/2013/Mobile_Video_DEV13.pdf"
   authors:  Brittany Fiore-Silfvast, Carl Hartung, Kirti Iyengar, Sharad Iyengar, Kiersten Israel-Ballard, Noah Perin and Richard Anderson
@@ -402,7 +400,7 @@
 
 
 
-# NOTES 
+# NOTES
 - title: "User Errors in SMS Based Reporting Systems"
   url: ""
   authors: Fahad Pervaiz, Trevor Perrier, Sompasong Phongphila, Richard Anderson
@@ -411,7 +409,7 @@
   year: 2015
   month: May
   tags: [hci]
-  
+
 - title: "Questioning to Feedback: Improving Public Health Messaging"
   url: ""
   authors: Trevor Perrier, Abhigyan Kaustubh, Richard Anderson
@@ -420,7 +418,6 @@
   year: 2013
   month: December
   tags: [hci]
-
 
 # TALKS
 - title: "Male Partner Engagement in Family Planning SMS Conversations at Kenyan Health Clinics"
@@ -505,33 +502,30 @@
   tags: [dfs]
 - title: "Open Data Kit 2.0: A Services-Based Application Framework for Disconnected Data Management"
   url: "docs/talks/2017/wrb_mobisys_2017.pdf"
-  authors: Waylon Brunette 
+  authors: Waylon Brunette
   type: talk
-  venue: Conference on Mobile Systems, Applications and Services (MobiSys 2017) 
+  venue: Conference on Mobile Systems, Applications and Services (MobiSys 2017)
   year: 2017
   month: June
   tags: [systems]
-  
 
 - title: "Projecting Health: Engaging Communities Through Visual Communication"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/rja_gdhf_2016.pdf"
-  authors: Richard Anderson 
+  authors: Richard Anderson
   type: talk
   venue: Global Digital Health Forum
   year: 2016
   month: December
-  tags: [hci, health] 
-  
+  tags: [hci, health]
 
 - title: "Iterative Design of an Immunization Information System in Pakistan"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/si_dev_2016.pdf"
-  authors: Samia Ibtasam 
+  authors: Samia Ibtasam
   type: talk
   venue: ACM DEV
   year: 2016
   month: November
-  tags: [hci, health] 
-  
+  tags: [hci, health]
 
 - title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/fp_dev_2016.pdf"
@@ -541,30 +535,30 @@
   year: 2016
   month: November
   tags: [dfs, systems]
- 
+
 - title: "Mobile Video Dissemination for Community Health"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/av_ictd_2016.pdf"
-  authors: Aditya Vashistha 
+  authors: Aditya Vashistha
   type: talk
-  venue: ICTD 
+  venue: ICTD
   year: 2016
   month: June
   tags: [hci]
-  
+
 - title: "Computer Security for Data Collection Technologies"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/ss_ictd_2016.pdf"
   authors: Sam Sudar
   type: talk
-  venue: ICTD 
+  venue: ICTD
   year: 2016
   month: June
   tags: [systems]
-  
+
 - title: "Zero-rating in emerging mobile markets: Internet.org/Free Basics and Wikipedia Zero in Ghana"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/gg_ictd_2016.pdf"
   authors: Genevieve Gebhart
   type: talk
-  venue: ICTD 
+  venue: ICTD
   year: 2016
   month: June
   tags: [systems]
@@ -577,7 +571,7 @@
   year: 2016
   month: March
   tags: [hci]
-  
+
 - title: "M4D: Connecting and Engaging with End Users"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/tperrier_WWU_2016_03_02.pdf"
   authors: Trevor Perrier
@@ -586,7 +580,7 @@
   year: 2016
   month: March
   tags: [hci, systems]
-  
+
 - title: "Computing and Financial Services for the Poor: The UW Digital Financial Services Research Group"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/IITD_rja.pdf"
   authors: Richard Anderson
@@ -595,7 +589,7 @@
   year: 2016
   month: February
   tags: [hci, systems]
-  
+
 - title: "Projecting Health: Engaging communities through visual communication"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/rja_WWU_2016_01_13.pdf"
   authors: Richard Anderson
@@ -604,7 +598,6 @@
   year: 2016
   month: January
   tags: [hci, health]
-  
 
 - title: "ICTD @ UW CSE"
   url: "http://homes.cs.washington.edu/~anderson/talks/2015/Change_rja.pdf"
@@ -634,11 +627,10 @@
   year: 2015
   month: February
   tags: [hci, systems]
- 
 
 #- title: ""
 #  url: ""
-#  authors: 
-#  venue: 
+#  authors:
+#  venue:
 #  year: 2015
 #  month: April

@@ -21,7 +21,7 @@
 
 - title: "dLTE: Building a more WiFi-like Cellular Network (Instead of the Other Way Around)"
   url: "https://kurti.sh/pubs/dLTE-Johnson-HotNets-2018.pdf"
-  authors: Matthew Johnson, Spencer Sevilla, Esther Jang, and Kurtis Heimerl (University of Washington). 
+  authors: Matthew Johnson, Spencer Sevilla, Esther Jang, and Kurtis Heimerl (University of Washington)
   type: full paper
   venue: The Seventeenth ACM Workshop on Hot Topics in Networks (HotNETS)
   year: 2018
@@ -30,7 +30,7 @@
 
 - title: "Connecting Communities through Mobile Networks: The VBTS-CoCoMoNets Project"
   url: "https://www.giswatch.org/community-networks"
-  authors: Mary Claire Barela, Josephine Dionisio, Kurtis Heimerl, Manuel Victor Sapitula, and Cedric Angelo Festin. 
+  authors: Mary Claire Barela, Josephine Dionisio, Kurtis Heimerl, Manuel Victor Sapitula, and Cedric Angelo Festin
   type: book chapter
   venue: "Global Information Society Watch 2018: Community Networks"
   year: 2018
@@ -48,7 +48,7 @@
 
 - title: "Designing Sustainable Rural Infrastructure Through the Lens of OpenCellular"
   url: "https://cacm.acm.org/magazines/2018/8/229756-designing-sustainable-rural-infrastructure-through-the-lens-of-opencellular/abstract"
-  authors: Kashif Ali, Kurtis Heimerl.
+  authors: Kashif Ali, Kurtis Heimerl
   type: full paper
   venue:  Communications of the ACM
   year: 2018

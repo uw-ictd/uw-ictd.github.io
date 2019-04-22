@@ -198,5 +198,9 @@ galen:
     display_name: "Galen Weld"
     role: grad
     img: galen_weld.jpg
+pat:
+    display_name: "Pat Kosakanchit"
+    role: ugrad
+    img: Kosakanchit-2019-closeup-formatted.jpg
     
 

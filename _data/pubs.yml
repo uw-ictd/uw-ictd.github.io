@@ -398,22 +398,19 @@
   month: January
   tags: [hci]
 
-
-
-# NOTES
 - title: "User Errors in SMS Based Reporting Systems"
-  url: ""
+  url: "https://homes.cs.washington.edu/~anderson/papers/ICTD/Pervaiz_ICTD2015.pdf"
   authors: Fahad Pervaiz, Trevor Perrier, Sompasong Phongphila, Richard Anderson
-  type: note
+  type: paper
   venue: International Conference on Information and Communication Technologies and Development (ICTD ’15)
   year: 2015
   month: May
   tags: [hci]
 
 - title: "Questioning to Feedback: Improving Public Health Messaging"
-  url: ""
+  url: "https://dl.acm.org/citation.cfm?id=2517945"
   authors: Trevor Perrier, Abhigyan Kaustubh, Richard Anderson
-  type: note
+  type: paper
   venue: International Conference on Information and Communication Technologies and Development (ICTD ’13)
   year: 2013
   month: December

@@ -5,13 +5,13 @@ title: Publications
 <p>
     <!--<a href="{.{ site.base }.}/bib/sampa-pubs.bib">Download BibTeX.</a>-->
 </p>
-<a href="#full_papers">Full Papers</a> / 
-<a href="#notes">Notes </a> /
+<a href="#full_papers">Papers</a> / 
+<!--<a href="#notes">Notes </a> /-->
 <a href="#chapters">Book Chapters </a> /
 <a href="#talks">Talks </a>
 
 <!--{.% include pubs.html %.}-->
-<h3 id="full_papers">Full Papers</h3>
+<h3 id="full_papers">Papers</h3>
 <table class="table">
 <tbody>
 {% assign url = page.url %}
@@ -49,7 +49,7 @@ title: Publications
 </tbody>
 </table>
 
-
+<!--
 <h3 id="notes">Notes</h3>
 <table class="table">
 <tbody>
@@ -66,10 +66,6 @@ title: Publications
 			<span class="pubtitle">
 				<strong>
 				{% if item.url %}
-					<!--{.% if '.pdf' in item.url %.}
-					<img src="img/pdficon_small.png" width="16"
-						height="16" alt="PDF" />
-					{.% endif %.}-->
 					<a href="{{ item.url }}">{{ item.title }}</a>.
 				{% else %}
 					{{ item.title }}.
@@ -87,6 +83,7 @@ title: Publications
 {% endfor %}
 </tbody>
 </table>
+-->
 
 <h3 id="chapters">Book Chapters</h3>
 <table class="table">

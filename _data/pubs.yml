@@ -326,6 +326,15 @@
   month: May
   tags: [hci]
 
+- title: "User Errors in SMS Based Reporting Systems"
+  url: "https://homes.cs.washington.edu/~anderson/papers/ICTD/Pervaiz_ICTD2015.pdf"
+  authors: Fahad Pervaiz, Trevor Perrier, Sompasong Phongphila, Richard Anderson
+  type: note
+  venue: International Conference on Information and Communication Technologies and Development (ICTD ’15)
+  year: 2015
+  month: May
+  tags: [hci]
+
 - title: "Data Specification for Information Systems for the Immunization Cold Chain"
   url: ""
   authors: Fahad Pervaiz, Sophie Newland, Richard Anderson
@@ -389,6 +398,15 @@
   month: February
   tags: [hci, health]
 
+- title: "Questioning to Feedback: Improving Public Health Messaging"
+  url: "https://dl.acm.org/citation.cfm?id=2517945"
+  authors: Trevor Perrier, Abhigyan Kaustubh, Richard Anderson
+  type: note
+  venue: International Conference on Information and Communication Technologies and Development (ICTD ’13)
+  year: 2013
+  month: December
+  tags: [hci]
+
 - title: "Mobile Video for Patient Education: The Midwives' perspective"
   url: "http://homes.cs.washington.edu/~anderson/papers/2013/Mobile_Video_DEV13.pdf"
   authors:  Brittany Fiore-Silfvast, Carl Hartung, Kirti Iyengar, Sharad Iyengar, Kiersten Israel-Ballard, Noah Perin and Richard Anderson
@@ -396,24 +414,6 @@
   venue:  ACM Symposium for Computing and Development (DEV 2013)
   year: 2013
   month: January
-  tags: [hci]
-
-- title: "User Errors in SMS Based Reporting Systems"
-  url: "https://homes.cs.washington.edu/~anderson/papers/ICTD/Pervaiz_ICTD2015.pdf"
-  authors: Fahad Pervaiz, Trevor Perrier, Sompasong Phongphila, Richard Anderson
-  type: paper
-  venue: International Conference on Information and Communication Technologies and Development (ICTD ’15)
-  year: 2015
-  month: May
-  tags: [hci]
-
-- title: "Questioning to Feedback: Improving Public Health Messaging"
-  url: "https://dl.acm.org/citation.cfm?id=2517945"
-  authors: Trevor Perrier, Abhigyan Kaustubh, Richard Anderson
-  type: paper
-  venue: International Conference on Information and Communication Technologies and Development (ICTD ’13)
-  year: 2013
-  month: December
   tags: [hci]
 
 # TALKS

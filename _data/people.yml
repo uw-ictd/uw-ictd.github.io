@@ -1,4 +1,4 @@
-richard:
+ichard:
     display_name: "Richard Anderson"
     webpage: "http://www.cs.washington.edu/people/faculty/anderson"
     role: faculty
@@ -8,7 +8,7 @@ richard:
 
 kurtis:
     display_name: "Kurtis Heimerl"
-    webpage: "http://kurti.sh/"
+    webpage: "https://kurti.sh/"
     role: faculty
     img: kurtis_heimerl.jpg
     bio: |
@@ -24,6 +24,7 @@ shrirang:
 spencer:
     display_name: "Spencer Sevilla"
     role: postdoc
+    webpage: "https://spencersevilla.com/"
     img: spencer.jpeg
     bio: |
         Dr. Sevilla is a self-starting, fast-moving computer scientist with a record of creating innovative and award-winning solutions in the fields of computer networking and distributed systems. He is the author of thirteen peer-reviewed papers, ten US patents, has received multiple "Best Paper" awards (IFIP, ICNP) and was recently awarded a UC Presidential Fellowship. He is currently a postdoctoral researcher in the ICTD Lab at the University of Washington, where he works with Kurtis Heimerl on community cellular networks. Spencer's primary research interest is Internet architecture and access in developing and disconnected regions, including issues such as content distribution and caching, spectum allocation, and last-mile connectivity. His previous research interests have included content networking, mesh routing (wired and wireless), future Internet architectures, and virtual datacenter networks.

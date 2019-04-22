@@ -1,6 +1,15 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+- title: "Scaling Community Cellular Networks with CommunityCellularManager"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/hasan_nsdi2019.pdf"
+  authors: Shaddi Hasan, Mary Claire Barela, Matthew Johnson, Eric Brewer, Kurtis Heimerl
+  type: full paper
+  venue: Proceedings of the 16th USENIX Symposium on Networked Systems Design and Implementation (NSDI '19)
+  year: 2019
+  month: February
+  tags: [networks]
+
 - title: "Fresh Insights: User Research Towards a Market Information Service for Bihari Vegetable Farmers"
   url: "http://ictd.cs.washington.edu/docs/papers/2019/ziegler_ictd2019.pdf"
   authors: Matt Ziegler, Lokesh Garg, Shailesh Tiwari, Aditya Vashistha, Kurtis Heimerl

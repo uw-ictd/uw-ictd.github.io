@@ -16,7 +16,7 @@ title: Publications
 <tbody>
 {% assign url = page.url %}
 {% for item in site.data.pubs %}
-	{% if item.type == "full paper" %}
+	{% if item.type == "full paper" or item.type == "note"%}
 	<tr>
 		<td>
 			<span class="date">
@@ -31,7 +31,7 @@ title: Publications
 					<img src="img/pdficon_small.png" width="16"
 						height="16" alt="PDF" />
 					{.% endif %.}-->
-					<a href="{{ item.url }}">{{ item.title }}</a>
+					<a href="{{ item.url }}">{{ item.title }} </a>  {% if item.type == "note" %} (Note) {% endif %}
 				{% else %}
 					{{ item.title }}
 				{% endif %}

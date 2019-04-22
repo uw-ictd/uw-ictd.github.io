@@ -72,8 +72,9 @@ aditya:
 camille:
     display_name: "Camille Cobb"
     webpage: "https://homes.cs.washington.edu/~cobbc12/"
-    role: grad
+    role: alum
     img: camille_cobb.jpg
+    bio: "Now in security and privacy lab."    
 esther:
     display_name: "Esther Jang"
     webpage: "https://homes.cs.washington.edu/~infrared/"
@@ -202,5 +203,9 @@ pat:
     display_name: "Pat Kosakanchit"
     role: ugrad
     img: Kosakanchit-2019-closeup-formatted.jpg
-    
+rowan:
+    display_name: "Rowan Phipps"
+    role: alum
+    img: phipps.jpg
+    bio: "Now in security and privacy lab."
 

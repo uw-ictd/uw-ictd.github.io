@@ -1,4 +1,4 @@
-ichard:
+richard:
     display_name: "Richard Anderson"
     webpage: "http://www.cs.washington.edu/people/faculty/anderson"
     role: faculty
@@ -75,7 +75,7 @@ camille:
     webpage: "https://homes.cs.washington.edu/~cobbc12/"
     role: alum
     img: camille_cobb.jpg
-    bio: "Now in security and privacy lab."    
+    bio: "Grad. Now in security and privacy lab."    
 esther:
     display_name: "Esther Jang"
     webpage: "https://homes.cs.washington.edu/~infrared/"
@@ -208,7 +208,7 @@ rowan:
     display_name: "Rowan Phipps"
     role: alum
     img: phipps.jpg
-    bio: "Now in security and privacy lab."
+    bio: "Ugrad 2017-18. Now in security and privacy lab."
 firn:
     display_name: "Nussara Tieanklin (Firn)"
     role: ugrad

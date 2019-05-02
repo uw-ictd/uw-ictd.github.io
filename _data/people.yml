@@ -209,4 +209,8 @@ rowan:
     role: alum
     img: phipps.jpg
     bio: "Now in security and privacy lab."
+firn:
+    display_name: "Nussara Tieanklin (Firn)"
+    role: ugrad
+    img: Firn.jpg
 

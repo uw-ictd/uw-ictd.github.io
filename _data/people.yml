@@ -213,4 +213,7 @@ firn:
     display_name: "Nussara Tieanklin (Firn)"
     role: ugrad
     img: Firn.jpg
-
+michael:
+    display_name: "Chenyang Fang (Michael)"
+    role: ugrad
+    img: michael_fang.jpg

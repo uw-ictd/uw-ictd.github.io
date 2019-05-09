@@ -225,3 +225,7 @@ nathan:
     display_name: "Nathan Lipiarski"
     role: ugrad
     img: nathan_lipiarski.jpg
+frankie:
+    display_name: "Frankie O'Rourke"
+    role: ugrad
+    img: frankieo.jpg

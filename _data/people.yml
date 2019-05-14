@@ -229,3 +229,7 @@ frankie:
     display_name: "Frankie O'Rourke"
     role: ugrad
     img: frankieo.jpg
+nick:
+    display_name: "Nick Durand"
+    role: ugrad
+    img: durand_nick.jpg

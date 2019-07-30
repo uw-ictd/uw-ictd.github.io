@@ -1,6 +1,24 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+- title: "ReCall: Crowdsourcing on Basic Phones to Financially Sustain Voice Forums"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/vashistha_chi2019_recall"
+  authors: Aditya Vashistha, Abhinav Garg, and Richard Anderson
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2019
+  month: May
+  tags: [hci]
+  
+- title: "Threats, Abuses, Flirting, and Blackmail: Gender Inequity in Social Media Voice Forums"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/vashistha_chi2019_threat"
+  authors: Aditya Vashistha, Abhinav Garg, Richard Anderson, and Agha Ali Raza
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2019
+  month: May
+  tags: [hci]
+  
 - title: "Digital Financial Needs of Micro-entrepreneur Women in Pakistan: Is Mobile Money The Answer?"
   url: "http://ictd.cs.washington.edu/docs/papers/2019/mustafa_chi2019.pdf"
   authors: Maryam Mustafa, Noor Mazhar, Ayesha Asghar, Maryem Zafar Usmani, Lubna Razaq, and Richard Anderson
@@ -9,6 +27,15 @@
   year: 2019
   month: May
   tags: [dfs, hci]
+  
+- title: "Engaging Lived and Virtual Realities"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/karusala_chi2019.pdf"
+  authors: Aditya Vishwanath, Naveena Karusala, Marisol Wong-Villacres, Neha Kumar
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2019
+  month: May
+  tags: [hci]
   
 - title: "Scaling Community Cellular Networks with CommunityCellularManager"
   url: "http://ictd.cs.washington.edu/docs/papers/2019/hasan_nsdi2019.pdf"

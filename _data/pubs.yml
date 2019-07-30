@@ -1,6 +1,15 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+- title: "Digital Financial Needs of Micro-entrepreneur Women in Pakistan: Is Mobile Money The Answer?"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/mustafa_chi2019.pdf"
+  authors: Maryam Mustafa, Noor Mazhar, Ayesha Asghar, Maryem Zafar Usmani, Lubna Razaq, and Richard Anderson
+  type: full paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2019
+  month: May
+  tags: [dfs, hci]
+  
 - title: "Scaling Community Cellular Networks with CommunityCellularManager"
   url: "http://ictd.cs.washington.edu/docs/papers/2019/hasan_nsdi2019.pdf"
   authors: Shaddi Hasan, Mary Claire Barela, Matthew Johnson, Eric Brewer, Kurtis Heimerl
@@ -64,7 +73,7 @@
   month: June
   tags: [dfs]
 
-- title: "MalePartnerEngagementinFamilyPlanningSMS ConversationsatKenyanHealthClinics"
+- title: "Male Partner Engagement in Family Planning SMS Conversations at Kenyan Health Clinics"
   url: "http://ictd.cs.washington.edu/docs/papers/2018/perrier_compass2018.pdf"
   authors: Trevor Perrier.Elizabeth Harrington, Keshet Ronen, Daniel Matemo, John Kinuthia, Grace John-Stewart, Richard Anderson, Jennifer Unger
   type: full paper

@@ -236,14 +236,14 @@ rowan:
 Jeffbeorse:
     display_name: "Jeff Beorse"
     webpage: "#"
-    role: alum
+    role: alum_staff
     img: jeff_beorse.jpg
     bio: "Software Engineer"
       
 mitchell:
     display_name: "Mitchell Sundt"
     webpage: "https://www.cs.washington.edu/node/5166"
-    role: alum
+    role: alum_staff
     img: mitchell_sundt.png
     bio: "Software Engineer - Retired"
 

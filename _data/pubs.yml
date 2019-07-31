@@ -1,8 +1,36 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+- title: "An assessment of SMS fraud in Pakistan"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/pervaiz_compass2019_sms.pdf"
+  authors: Fahad Pervaiz, Rai Shah Nawaz, Muhammad Umer Ramzan, Maryem Zafar Usmani, Shrirang Mare, Kurtis Heimerl, Faisal Kamiran, Richard Anderson, Lubna Razaq
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2019
+  month: July
+  tags: [dfs, security]
+  
+
+- title: "Examining the use and non-use of mobile payment systems for merchant payments in India"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/vashistha_compass2019.pdf"
+  authors: 	Aditya Vashistha, Richard Anderson, Shrirang Mare
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2019
+  month: July
+  tags: [dfs]
+  
+- title: "Examining the challenges in development data pipeline"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/pervaiz_compass2019_data.pdf"
+  authors: 	Fahad Pervaiz, Aditya Vashistha, Richard Anderson
+  type: full paper
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  year: 2019
+  month: July
+  tags: [systems]
+  
 - title: "ReCall: Crowdsourcing on Basic Phones to Financially Sustain Voice Forums"
-  url: "http://ictd.cs.washington.edu/docs/papers/2019/vashistha_chi2019_recall"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/vashistha_chi2019_recall.pdf"
   authors: Aditya Vashistha, Abhinav Garg, and Richard Anderson
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -11,7 +39,7 @@
   tags: [hci]
   
 - title: "Threats, Abuses, Flirting, and Blackmail: Gender Inequity in Social Media Voice Forums"
-  url: "http://ictd.cs.washington.edu/docs/papers/2019/vashistha_chi2019_threat"
+  url: "http://ictd.cs.washington.edu/docs/papers/2019/vashistha_chi2019_threat.pdf"
   authors: Aditya Vashistha, Abhinav Garg, Richard Anderson, and Agha Ali Raza
   type: full paper
   venue: ACM CHI Conference on Human Factors in Computing Systems
@@ -98,7 +126,7 @@
   venue: ACM Computing and Sustainable Societies (COMPASS)
   year: 2018
   month: June
-  tags: [dfs]
+  tags: [systems]
 
 - title: "Male Partner Engagement in Family Planning SMS Conversations at Kenyan Health Clinics"
   url: "http://ictd.cs.washington.edu/docs/papers/2018/perrier_compass2018.pdf"
@@ -107,7 +135,7 @@
   venue: ACM Computing and Sustainable Societies (COMPASS)
   year: 2018
   month: June
-  tags: [dfs]
+  tags: [hci]
 
 - title: "A Qualitative Exploration of Mobile Money in Ghana"
   url: "http://ictd.cs.washington.edu/docs/papers/2018/yu_compass2018.pdf"

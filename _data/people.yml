@@ -140,7 +140,11 @@ nick:
     display_name: "Nick Durand"
     role: ugrad
     img: durand_nick.jpg
-    
+michelle:
+    display_name: "Michelle Lin"
+    webpage: "http://michellexlin.com"
+    role: ugrad
+    img: michelle_lin.jpg
     
 
 trevor:

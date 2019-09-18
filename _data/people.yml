@@ -109,6 +109,12 @@ galen:
     display_name: "Galen Weld"
     role: grad
     img: galen_weld.jpg
+
+sudheesh:
+    display_name: "Sudheesh Singanamalla"
+    webpage: "https://sudheesh.info/"
+    role: grad
+    img: sudheesh.jpg
     
     
 pat:

@@ -41,13 +41,6 @@ gaetano:
         open-source mobile data collection tools, Open Data Kit, that are in use on six continents in 
         programs ranging across public health, documentation of human rights violations, and environmental monitoring.
 
-mitchell:
-    display_name: "Mitchell Sundt"
-    webpage: "https://www.cs.washington.edu/node/5166"
-    role: staff
-    img: mitchell_sundt.png
-    bio: |
-        Software Engineer
 
 clarice: 
     display_name: "Clarice Larson"
@@ -57,35 +50,20 @@ clarice:
     bio: |
         Software Engineer
 
-Jeffbeorse:
-    display_name: "Jeff Beorse"
-    webpage: "#"
-    role: staff
-    img: jeff_beorse.jpg
-    bio: |
-        Software Engineer
+
 
 aditya:
     display_name: "Aditya Vashistha"
     webpage: "http://www.adityavashistha.com/"
     role: grad
     img: aditya_vashistha.jpg
-camille:
-    display_name: "Camille Cobb"
-    webpage: "https://homes.cs.washington.edu/~cobbc12/"
-    role: alum
-    img: camille_cobb.jpg
-    bio: "Grad. Now in security and privacy lab."    
+
 esther:
     display_name: "Esther Jang"
     webpage: "https://homes.cs.washington.edu/~infrared/"
     role: grad
     img: esther_jang.jpg
-fahad: 
-    display_name: "Fahad Pervaiz"
-    webpage: "https://homes.cs.washington.edu/~fahadp/"
-    role: grad
-    img: fahad_pervaiz.jpg
+
 matt:
     display_name: "Matt Johnson"
     webpage: "https://homes.cs.washington.edu/~matt9j/"
@@ -101,22 +79,13 @@ samia:
     webpage: "http://www.samiaibtasam.com/"
     role: grad
     img: samia_ibtasam.jpg
-trevor:
-    display_name: "Trevor Perrier"
-    webpage: "http://homes.cs.washington.edu/~tperrier/"
-    role: grad
-    img: trevor_perrier.jpg
+
 waylon:
     display_name: "Waylon Brunette"
     webpage: "http://homes.cs.washington.edu/~wrb/"
     role: grad
     img: waylon_brunette.jpg
-kushal:
-    display_name: "Kushal Shah"
-    webpage: "https://in.linkedin.com/in/kushalns5"
-    role: alum
-    img: kushal_shah.jpg
-    bio: "Masters, 2018.  Now at Grab."
+
 naveena:
     display_name: "Naveena Karusala"
     role: grad
@@ -130,6 +99,78 @@ kushi:
     role: grad
     webpage: "https://www.sheldrickwildlifetrust.org/asp/orphan_profile.asp?N=368"
     img: kushi.jpg
+
+mattZ:
+    display_name: "Matt Ziegler"
+    webpage: "https://mattziegler.net/"
+    role: grad
+    img: matt_ziegler.jpg
+galen:
+    display_name: "Galen Weld"
+    role: grad
+    img: galen_weld.jpg
+
+sudheesh:
+    display_name: "Sudheesh Singanamalla"
+    webpage: "https://sudheesh.info/"
+    role: grad
+    img: sudheesh.jpg
+    
+    
+pat:
+    display_name: "Pat Kosakanchit"
+    role: ugrad
+    img: Kosakanchit-2019-closeup-formatted.jpg
+rishi:
+    display_name: "Rishi Jha"
+    role: ugrad
+    img: rishi.png
+
+firn:
+    display_name: "Nussara Tieanklin (Firn)"
+    role: ugrad
+    img: Firn.jpg
+michael:
+    display_name: "Chenyang Fang (Michael)"
+    role: ugrad
+    img: michael_fang.jpg
+nathan:
+    display_name: "Nathan Lipiarski"
+    role: ugrad
+    img: nathan_lipiarski.jpg
+frankie:
+    display_name: "Frankie O'Rourke"
+    role: ugrad
+    img: frankieo.jpg
+nick:
+    display_name: "Nick Durand"
+    role: ugrad
+    img: durand_nick.jpg
+michelle:
+    display_name: "Michelle Lin"
+    webpage: "http://michellexlin.com"
+    role: ugrad
+    img: michelle_lin.jpg
+    
+
+trevor:
+    display_name: "Trevor Perrier"
+    webpage: "http://homes.cs.washington.edu/~tperrier/"
+    role: alum
+    img: trevor_perrier.jpg
+    bio: "Ph.D., 2019.  Now at Google"
+fahad: 
+    display_name: "Fahad Pervaiz"
+    webpage: "https://homes.cs.washington.edu/~fahadp/"
+    role: alum
+    img: fahad_pervaiz.jpg
+    bio: "Ph.D., 2019.  Now at Grab"
+kushal:
+    display_name: "Kushal Shah"
+    webpage: "https://in.linkedin.com/in/kushalns5"
+    role: alum
+    img: kushal_shah.jpg
+    bio: "Masters, 2018.  Now at Grab."
 sam:
     display_name: "Sam Sudar"
     webpage: "http://samsudar.com/"
@@ -191,41 +232,28 @@ joyojeet:
     role: alum
     img: joyojeet_pal.jpg
     bio: "Postdoc, 2009&ndash;2010. Now faculty at University of Michigan."
-mattZ:
-    display_name: "Matt Ziegler"
-    webpage: "https://mattziegler.net/"
-    role: grad
-    img: matt_ziegler.jpg
-galen:
-    display_name: "Galen Weld"
-    role: grad
-    img: galen_weld.jpg
-pat:
-    display_name: "Pat Kosakanchit"
-    role: ugrad
-    img: Kosakanchit-2019-closeup-formatted.jpg
-rishi:
-    display_name: "Rishi Jha"
-    role: ugrad
-    img: rishi.png
+camille:
+    display_name: "Camille Cobb"
+    webpage: "https://homes.cs.washington.edu/~cobbc12/"
+    role: alum
+    img: camille_cobb.jpg
+    bio: "Grad. Now in security and privacy lab."    
 rowan:
     display_name: "Rowan Phipps"
     role: alum
     img: phipps.jpg
     bio: "Ugrad, 2017-18. Now in security and privacy lab."
-firn:
-    display_name: "Nussara Tieanklin (Firn)"
-    role: ugrad
-    img: Firn.jpg
-michael:
-    display_name: "Chenyang Fang (Michael)"
-    role: ugrad
-    img: michael_fang.jpg
-nathan:
-    display_name: "Nathan Lipiarski"
-    role: ugrad
-    img: nathan_lipiarski.jpg
-frankie:
-    display_name: "Frankie O'Rourke"
-    role: ugrad
-    img: frankieo_sq.jpg
+Jeffbeorse:
+    display_name: "Jeff Beorse"
+    webpage: "#"
+    role: alum_staff
+    img: jeff_beorse.jpg
+    bio: "Software Engineer"
+      
+mitchell:
+    display_name: "Mitchell Sundt"
+    webpage: "https://www.cs.washington.edu/node/5166"
+    role: alum_staff
+    img: mitchell_sundt.png
+    bio: "Software Engineer - Retired"
+

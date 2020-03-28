@@ -16,8 +16,9 @@ kurtis:
 
 shrirang:
     display_name: "Shrirang Mare"
+    webpage: "https://www.shrirangmare.com/"
     role: postdoc
-    img: shrirang_mare.jpg
+    img: shri.jpg
     bio: |
         Shrirang Mare received his PhD from Dartmouth College, Hanover where he developed authentication techniques for personal computing devices (desktops and smartphones) levaraging wrist wearables. Before Dartmouth he worked at IBM India for two years and at Indian Institue of Science (IISc), Banagalore for one year. He received his Bachelors in Mechanical Engineering from BITS-Pilani, India in 2006. He is interested in security and privacy issues in healthcare and digital financial services, and HCI. His current research focuses on usable authentication methods for smartphones.
 

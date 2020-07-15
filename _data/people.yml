@@ -92,43 +92,16 @@ sudheesh:
     webpage: "https://sudheesh.info/"
     role: grad
     img: sudheesh.jpg
+nick:
+    display_name: "Nick Durand"
+    role: grad
+    img: durand_nick.jpg
 
 
-pat:
-    display_name: "Pat Kosakanchit"
-    role: ugrad
-    img: Kosakanchit-2019-closeup-formatted.jpg
-rishi:
-    display_name: "Rishi Jha"
-    role: ugrad
-    img: rishi.png
-
-firn:
-    display_name: "Nussara Tieanklin (Firn)"
-    role: ugrad
-    img: Firn.jpg
-michael:
-    display_name: "Chenyang Fang (Michael)"
-    role: ugrad
-    img: michael_fang.jpg
-nathan:
-    display_name: "Nathan Lipiarski"
-    role: ugrad
-    img: nathan_lipiarski.jpg
 frankie:
     display_name: "Frankie O'Rourke"
     role: ugrad
     img: frankieo.jpg
-nick:
-    display_name: "Nick Durand"
-    role: ugrad
-    img: durand_nick.jpg
-michelle:
-    display_name: "Michelle Lin"
-    webpage: "http://michellexlin.com"
-    role: ugrad
-    img: michelle_lin.jpg
-
 
 shrirang:
     display_name: "Shrirang Mare"
@@ -147,6 +120,26 @@ aditya:
     role: alum
     img: aditya_vashistha.jpg
     bio: "Ph.D., 2019.  Now faculty at Cornell"
+pat:
+    display_name: "Pat Kosakanchit"
+    role: alum
+    img: Kosakanchit-2019-closeup-formatted.jpg
+rishi:
+    display_name: "Rishi Jha"
+    role: alum
+    img: rishi.png
+firn:
+    display_name: "Nussara Tieanklin (Firn)"
+    role: alum
+    img: Firn.jpg
+michael:
+    display_name: "Chenyang Fang (Michael)"
+    role: alum
+    img: michael_fang.jpg
+nathan:
+    display_name: "Nathan Lipiarski"
+    role: alum
+    img: nathan_lipiarski.jpg
 trevor:
     display_name: "Trevor Perrier"
     webpage: "http://homes.cs.washington.edu/~tperrier/"
@@ -159,6 +152,11 @@ fahad:
     role: alum
     img: fahad_pervaiz.jpg
     bio: "Ph.D., 2019.  Now an engineer at Grab"
+michelle:
+    display_name: "Michelle Lin"
+    webpage: "http://michellexlin.com"
+    role: alum
+    img: michelle_lin.jpg
 samuel:
     display_name: "Sam Castle"
     webpage: "http://samcastle.com/"

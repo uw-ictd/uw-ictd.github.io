@@ -53,12 +53,6 @@ clarice:
 
 
 
-aditya:
-    display_name: "Aditya Vashistha"
-    webpage: "http://www.adityavashistha.com/"
-    role: grad
-    img: aditya_vashistha.jpg
-
 esther:
     display_name: "Esther Jang"
     webpage: "https://homes.cs.washington.edu/~infrared/"
@@ -154,6 +148,12 @@ michelle:
     img: michelle_lin.jpg
     
 
+aditya:
+    display_name: "Aditya Vashistha"
+    webpage: "http://www.adityavashistha.com/"
+    role: alum
+    img: aditya_vashistha.jpg
+    bio: "Ph.D., 2019.  Now at Cornell"
 trevor:
     display_name: "Trevor Perrier"
     webpage: "http://homes.cs.washington.edu/~tperrier/"

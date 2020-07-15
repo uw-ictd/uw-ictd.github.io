@@ -70,10 +70,12 @@ waylon:
 
 naveena:
     display_name: "Naveena Karusala"
+    webpage: "https://www.naveenak.org/"
     role: grad
     img: naveena_karusala.jpg
 philip:
     display_name: "Philip Garrison"
+    webpage: "https://philipgarrison.com/"
     role: grad
     img: philip_garrison.jpg
 kushi:

@@ -1,6 +1,15 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+- title: "Connecting Isolated Communities: Quantitative Evidence on the Adoption of Community Cellular Networks in the Philippines "
+  url: "https://kurti.sh/pubs/ccn_takeup_paper.pdf"
+  authors: Niall Keleher, Mary Claire Barela, Joshua Blumenstock, Cedric Festin, Matthew Podolsky, Erin Troland, Arman Rezaee, and Kurtis Heimerl.
+  type: full paper
+  venue: Eleventh International Conference on Information and Communication Technologies and Development (ICTD) '20
+  year: 2020
+  month: Jun
+  tags: [networks, econ]
+
 - title: "Trust and Technology Repair Infrastructures in the Remote Rural Philippines: Navigating Urban-Rural Seams"
   url: "https://kurti.sh/pubs/cscw_2019_rural_repair_camera.pdf"
   authors: Esther Han Beol Jang, Philip Garrison, Ronel Vincent Vistal, Maria Theresa D. Cunanan, Mia Theresa Perez, Philip Martinez, Matthew William Johnson, John Andrew Evangelista, Syed Ishtiaque Ahmed, Josephine Dionisio, Mary Claire Aguilar Barela, Kurtis Heimerl.

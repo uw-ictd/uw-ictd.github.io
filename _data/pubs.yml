@@ -3,7 +3,6 @@
 
 
 
-
 - authors: Waylon Brunette, Clarice Larson, Shourya Jain, Aeron Langford, Yin Yin Low, Andrew Siew, Richard Anderson
   year: 2020
   title: Global Goods Software for the Immunization Cold Chain. 
@@ -38,7 +37,7 @@
   type: full paper
   month: Jun
 
-- title: "Connecting Isolated Communities: Quantitative Evidence on the Adoption of Community Cellular Networks in the Philippines "
+- title: "Connecting Isolated Communities: Quantitative Evidence on the Adoption of Community Cellular Networks in the Philippines"
   url: "https://kurti.sh/pubs/ccn_takeup_paper.pdf"
   authors: Niall Keleher, Mary Claire Barela, Joshua Blumenstock, Cedric Festin, Matthew Podolsky, Erin Troland, Arman Rezaee, and Kurtis Heimerl.
   type: full paper
@@ -46,6 +45,15 @@
   year: 2020
   month: Jun
   tags: [networks, econ]
+
+- title: "Hanging Gardens of Babylon: Reframing Urban Agriculture as an Opportunity for Social Engagement "
+  url: "https://kurti.sh/pubs/babylon_breda_chi2020.pdf"
+  authors: Joseph Breda, Esther Jang, Kurtis Heimerl, and Shwetak Patel.
+  type: full paper
+  venue: Self-Sustainable CHI '20
+  year: 2020
+  month: Apr
+  tags: [HCI, sustainability]
 
 - title: "Trust and Technology Repair Infrastructures in the Remote Rural Philippines: Navigating Urban-Rural Seams"
   url: "https://kurti.sh/pubs/cscw_2019_rural_repair_camera.pdf"
@@ -631,6 +639,14 @@
   tags: [hci]
 
 # TALKS
+- title: "Technologies for Decentralizing Urban Community Networks"
+  url: "https://youtu.be/gc9zopzhlYM?t=4303"
+  authors: Kurtis Heimerl
+  type: talk
+  venue: IETF 105, Singapore
+  year: 2019
+  month: June
+  tags: [networks]
 - title: "Male Partner Engagement in Family Planning SMS Conversations at Kenyan Health Clinics"
   url: "docs/talks/2018/trevor_compass_2018.pdf"
   authors: Trevor Perrier

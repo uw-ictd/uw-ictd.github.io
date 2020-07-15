@@ -1,16 +1,19 @@
 ---
 layout: default
-title: Seminars
+title: Regular Courses
 ---
 [Change seminar](http://change.washington.edu) Change is an interdisciplinary seminar that highlights research and projects at the intersection of  technology and development.  The seminar covers topics such as global health, education, microfinance, agriculture, and communication.  The seminar meets on Tuesdays, noon to 1:00 pm, throughout the quarter.  Seminars happen every week and are announced on the change [website](http://change.washington.edu) and mailing list \(see website for signup instructions\).
 
 [ICTD Reading seminar, CSE590F:](http://www.cs.washington.edu/education/courses/590f/)
-We also host a graduate reading group focused on issues of technology and poverty. It is usually held after the above change seminar at 1:30 on Tuesdays. See the website for changing quarterly topics and room location. 
+We also host a graduate reading group focused on issues of technology and poverty. It is usually held after the above change seminar at 1:30 on Tuesdays. See the website for changing quarterly topics and room location.
 
+[Graduate Computing for Social Good, CSE 5XX:](https://docs.google.com/document/d/17RNcB0wb3I1ZbAaLXEuwB5W7X32MOVvP8LAhMONxA-Q/edit?usp=sharing)
+General computing for social good (CS4SG) class. Covers the history of computing, current works, and current status in the field. Students will learn best practices for working with communities and how to critically analyze their own research.
+
+## Old Courses
 [Undergraduate reading seminar, Technology for the Developing World - Digital Financial Services, CSE490D:](https://courses.cs.washington.edu/courses/cse490d/16wi/) 
 Winter quarter, 2016 we offered a 1-credit, undergraduate reading seminar on technology in the developing world, with an emphasis on digital financial services.  The purpose of the seminar was to provide an introduction to a research area at the intersection of computer science and global development. 
 
-## Courses
 Gender in ICTD &amp; HCI Research, CSE 599:
 This graduate seminar explores the topic of gender as related to computer science research, especially in the fields of Information and Communication Technology for Development (ICTD) and Human Computer Interaction (HCI). Students will engage in close readings of foundational texts on gender, as well as the emerging ICTD and HCI literature that uses gender analysis as a framework for research in both the West and in resource-constrained regions of the world. Through discussion and written assignments students will build a strong foundation for incorporating gender analysis into their research. They will also be able to more effectively evaluate the current work being conducted in the fields of ICTD and HCI as related to gender. Some of the topics under consideration will include gender as related to feminist HCI, design, health and safety, financial services, and mobile technologies and connectivity.  Last offered Winter 2018.
 

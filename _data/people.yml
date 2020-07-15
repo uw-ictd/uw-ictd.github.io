@@ -14,14 +14,6 @@ kurtis:
     bio: |
         Kurtis is an Assistant Professor of Computer Science and Engineering. He received his PhD from the University of California, Berkeley where he worked on Commmunity Cellular Networks: low-cost, low-power, locally owned cellular infrastructure. After Berkeley he co-founded [Endaga](http://endaga.com) to commercialize the work on Community Cellular and joined Facebook to continue that effort. His research focuses primarily on access, continuing to build and evaluate Community Cellular networks the world over, in partnership with organizations such as Rhizomatica, Facebook, and others. He is a developer on [CommunityCellularManager](https://github.com/facebookincubator/CommunityCellularManager) and a close partner with Facebook's [OpenCellular](https://code.facebook.com/posts/1754757044806180/introducing-opencellular-an-open-source-wireless-access-platform). Beyond access he also is interested broadly in cellular. Some examples projects include countering "Stingray" IMSI-catcher devices and lower-power communications. 
 
-shrirang:
-    display_name: "Shrirang Mare"
-    webpage: "https://www.shrirangmare.com/"
-    role: postdoc
-    img: shri.jpg
-    bio: |
-        Shrirang Mare received his PhD from Dartmouth College, Hanover where he developed authentication techniques for personal computing devices (desktops and smartphones) levaraging wrist wearables. Before Dartmouth he worked at IBM India for two years and at Indian Institue of Science (IISc), Banagalore for one year. He received his Bachelors in Mechanical Engineering from BITS-Pilani, India in 2006. He is interested in security and privacy issues in healthcare and digital financial services, and HCI. His current research focuses on usable authentication methods for smartphones.
-
 spencer:
     display_name: "Spencer Sevilla"
     role: postdoc
@@ -43,7 +35,7 @@ gaetano:
         programs ranging across public health, documentation of human rights violations, and environmental monitoring.
 
 
-clarice: 
+clarice:
     display_name: "Clarice Larson"
     webpage: "#"
     role: staff
@@ -64,11 +56,6 @@ matt:
     webpage: "https://homes.cs.washington.edu/~matt9j/"
     role: grad
     img: matt_johnson.jpg
-samuel:
-    display_name: "Sam Castle"
-    webpage: "http://samcastle.com/"
-    role: grad
-    img: sam_castle.png
 samia:
     display_name: "Samia Ibtasam [Razaq]"
     webpage: "http://www.samiaibtasam.com/"
@@ -100,72 +87,82 @@ mattZ:
     webpage: "https://mattziegler.net/"
     role: grad
     img: matt_ziegler.jpg
-galen:
-    display_name: "Galen Weld"
-    role: grad
-    img: galen_weld.jpg
-
 sudheesh:
     display_name: "Sudheesh Singanamalla"
     webpage: "https://sudheesh.info/"
     role: grad
     img: sudheesh.jpg
-    
-    
-pat:
-    display_name: "Pat Kosakanchit"
-    role: ugrad
-    img: Kosakanchit-2019-closeup-formatted.jpg
-rishi:
-    display_name: "Rishi Jha"
-    role: ugrad
-    img: rishi.png
+nick:
+    display_name: "Nick Durand"
+    role: grad
+    img: durand_nick.jpg
 
-firn:
-    display_name: "Nussara Tieanklin (Firn)"
-    role: ugrad
-    img: Firn.jpg
-michael:
-    display_name: "Chenyang Fang (Michael)"
-    role: ugrad
-    img: michael_fang.jpg
-nathan:
-    display_name: "Nathan Lipiarski"
-    role: ugrad
-    img: nathan_lipiarski.jpg
+
 frankie:
     display_name: "Frankie O'Rourke"
     role: ugrad
     img: frankieo.jpg
-nick:
-    display_name: "Nick Durand"
-    role: ugrad
-    img: durand_nick.jpg
-michelle:
-    display_name: "Michelle Lin"
-    webpage: "http://michellexlin.com"
-    role: ugrad
-    img: michelle_lin.jpg
-    
 
+shrirang:
+    display_name: "Shrirang Mare"
+    webpage: "https://www.shrirangmare.com/"
+    role: alum
+    img: shri.jpg
+    bio: "Postdoc, 2020. Now faculty at Western Washington"
+galen:
+    display_name: "Galen Weld"
+    role: alum
+    img: galen_weld.jpg
+    bio: "Grad 2018-20. Now in Behavioral Data Science."
 aditya:
     display_name: "Aditya Vashistha"
     webpage: "http://www.adityavashistha.com/"
     role: alum
     img: aditya_vashistha.jpg
-    bio: "Ph.D., 2019.  Now at Cornell"
+    bio: "Ph.D., 2019.  Now faculty at Cornell"
+pat:
+    display_name: "Pat Kosakanchit"
+    role: alum
+    img: Kosakanchit-2019-closeup-formatted.jpg
+rishi:
+    display_name: "Rishi Jha"
+    role: alum
+    img: rishi.png
+firn:
+    display_name: "Nussara Tieanklin (Firn)"
+    role: alum
+    img: Firn.jpg
+michael:
+    display_name: "Chenyang Fang (Michael)"
+    role: alum
+    img: michael_fang.jpg
+nathan:
+    display_name: "Nathan Lipiarski"
+    role: alum
+    img: nathan_lipiarski.jpg
 trevor:
     display_name: "Trevor Perrier"
     webpage: "http://homes.cs.washington.edu/~tperrier/"
     role: alum
     img: trevor_perrier.jpg
-    bio: "Ph.D., 2019.  Now at Google"
-fahad: 
+    bio: "Ph.D., 2019.  Now an engineer at Google"
+fahad:
     display_name: "Fahad Pervaiz"
     webpage: "https://homes.cs.washington.edu/~fahadp/"
     role: alum
     img: fahad_pervaiz.jpg
-    bio: "Ph.D., 2019.  Now at Grab"
+    bio: "Ph.D., 2019.  Now an engineer at Grab"
+michelle:
+    display_name: "Michelle Lin"
+    webpage: "http://michellexlin.com"
+    role: alum
+    img: michelle_lin.jpg
+samuel:
+    display_name: "Sam Castle"
+    webpage: "http://samcastle.com/"
+    role: alum
+    img: sam_castle.png
+    bio: "CTO/Cofounder at Nala. Now at Google."
 kushal:
     display_name: "Kushal Shah"
     webpage: "https://in.linkedin.com/in/kushalns5"
@@ -178,7 +175,7 @@ sam:
     role: alum
     img: sam_sudar.jpg
     bio: "Ph.D., 2017.  Now an engineer at Google"
-mayank: 
+mayank:
     display_name: "Mayank Goel"
     webpage: "http://www.mayankgoel.com"
     role: alum
@@ -238,19 +235,19 @@ camille:
     webpage: "https://homes.cs.washington.edu/~cobbc12/"
     role: alum
     img: camille_cobb.jpg
-    bio: "Grad. Now in security and privacy lab."    
+    bio: "Grad. Now in security and privacy lab."
 rowan:
     display_name: "Rowan Phipps"
     role: alum
     img: phipps.jpg
     bio: "Ugrad, 2017-18. Now in security and privacy lab."
+
 Jeffbeorse:
     display_name: "Jeff Beorse"
     webpage: "#"
     role: alum_staff
     img: jeff_beorse.jpg
     bio: "Software Engineer"
-      
 mitchell:
     display_name: "Mitchell Sundt"
     webpage: "https://www.cs.washington.edu/node/5166"

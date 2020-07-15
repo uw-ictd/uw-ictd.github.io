@@ -42,10 +42,17 @@ title: People
     </dl>
   {% else %}
     <div class="row">
+    {% assign matchCount = 0 %}
     {% for item in site.data.people %}
       {% assign person = item[1] %}
       {% if person.role == role.key %}
-        <div class="col-md-3 people">
+        {% if matchCount == 4 %}
+            {% assign matchCount = 0 %}
+    </div>
+    <div class="row">
+        {% endif %}
+        {% assign matchCount = matchCount | plus: 1 %}
+        <div class="col-sm-3 people">
           <b>
           {% if person.webpage %}
             <a href="{{ person.webpage |escape }}">

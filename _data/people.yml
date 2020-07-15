@@ -102,6 +102,9 @@ frankie:
     display_name: "Frankie O'Rourke"
     role: ugrad
     img: frankieo.jpg
+rachel:
+    display_name: "Rachel Ye"
+    role: ugrad
 
 shrirang:
     display_name: "Shrirang Mare"
@@ -111,6 +114,7 @@ shrirang:
     bio: "Postdoc, 2020. Now faculty at Western Washington"
 galen:
     display_name: "Galen Weld"
+    webpage: "https://galenweld.com/"
     role: alum
     img: galen_weld.jpg
     bio: "Grad 2018-20. Now in Behavioral Data Science."
@@ -120,26 +124,6 @@ aditya:
     role: alum
     img: aditya_vashistha.jpg
     bio: "Ph.D., 2019.  Now faculty at Cornell"
-pat:
-    display_name: "Pat Kosakanchit"
-    role: alum
-    img: Kosakanchit-2019-closeup-formatted.jpg
-rishi:
-    display_name: "Rishi Jha"
-    role: alum
-    img: rishi.png
-firn:
-    display_name: "Nussara Tieanklin (Firn)"
-    role: alum
-    img: Firn.jpg
-michael:
-    display_name: "Chenyang Fang (Michael)"
-    role: alum
-    img: michael_fang.jpg
-nathan:
-    display_name: "Nathan Lipiarski"
-    role: alum
-    img: nathan_lipiarski.jpg
 trevor:
     display_name: "Trevor Perrier"
     webpage: "http://homes.cs.washington.edu/~tperrier/"
@@ -152,11 +136,6 @@ fahad:
     role: alum
     img: fahad_pervaiz.jpg
     bio: "Ph.D., 2019.  Now an engineer at Grab"
-michelle:
-    display_name: "Michelle Lin"
-    webpage: "http://michellexlin.com"
-    role: alum
-    img: michelle_lin.jpg
 samuel:
     display_name: "Sam Castle"
     webpage: "http://samcastle.com/"
@@ -240,7 +219,23 @@ rowan:
     display_name: "Rowan Phipps"
     role: alum
     img: phipps.jpg
-    bio: "Ugrad, 2017-18. Now in security and privacy lab."
+    bio: "Ugrad, 2017-18."
+michelle:
+    display_name: "Michelle Lin"
+    webpage: "http://michellexlin.com"
+    role: alum
+    img: michelle_lin.jpg
+    bio: "Ugrad, 2018-19."
+pat:
+    display_name: "Pat Kosakanchit"
+    role: alum
+    img: Kosakanchit-2019-closeup-formatted.jpg
+    bio: "Ugrad, 2017-20."
+jenny:
+    display_name: "Jenny Liang"
+    role: alum
+    bio: "Ugrad, 2017-20."
+
 
 Jeffbeorse:
     display_name: "Jeff Beorse"

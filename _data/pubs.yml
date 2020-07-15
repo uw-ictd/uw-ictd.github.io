@@ -1,6 +1,43 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+
+
+
+- authors: Waylon Brunette, Clarice Larson, Shourya Jain, Aeron Langford, Yin Yin Low, Andrew Siew, Richard Anderson
+  year: 2020
+  title: Global Goods Software for the Immunization Cold Chain. 
+  venue: Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS ’20)
+  month: Jun
+  type: full paper
+  url: https://dl.acm.org/doi/pdf/10.1145/3378393.3402278
+
+- title: "Can Phones Build Relationships?: A Case Study of a Kenyan Wildlife Conservancy's Community Development"
+  url: "https://dl.acm.org/doi/pdf/10.1145/3378393.3402279"
+  authors: Matt Ziegler, Morgan Wack, Nancy Ingutia, Ian Muiruri, Nicholas Njogu, Kennedy Muriithi, William Njoroge, James Long, Kurtis Heimerl
+  type: full paper
+  venue: Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS ’20)
+  year: 2020
+  month: Jun
+  tags: [hci]
+
+- title: "Making Chat at Home in the Hospital: Exploring Chat Use by Nurses."
+  authors: Naveena Karusala, Ding Wang, and Jacki O’Neill
+  year: 2020 
+  venue: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20)
+  url: https://www.naveenak.org/s/CHI2020_cameraready.pdf
+  month: April
+  tags: [hci]
+  type: full paper
+
+- authors: Pranjal Jain, Samia Ibtasam, Devanuj K. Balkrishan, Nova Ahmed, Matt Jones, Suleman Shahid, Lubna Razaq, Mark Perry, and Anirudha Joshi.
+  year: 2020
+  title: "Designing Digital Payments for Next Billion Users" 
+  venue: In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems,
+  url:  http://ictd.cs.washington.edu/docs/papers/2020/CHI2020-Digital-Payments-Next-Billion-Users.pdf
+  type: full paper
+  month: Jun
+
 - title: "Connecting Isolated Communities: Quantitative Evidence on the Adoption of Community Cellular Networks in the Philippines "
   url: "https://kurti.sh/pubs/ccn_takeup_paper.pdf"
   authors: Niall Keleher, Mary Claire Barela, Joshua Blumenstock, Cedric Festin, Matthew Podolsky, Erin Troland, Arman Rezaee, and Kurtis Heimerl.
@@ -14,10 +51,45 @@
   url: "https://kurti.sh/pubs/cscw_2019_rural_repair_camera.pdf"
   authors: Esther Han Beol Jang, Philip Garrison, Ronel Vincent Vistal, Maria Theresa D. Cunanan, Mia Theresa Perez, Philip Martinez, Matthew William Johnson, John Andrew Evangelista, Syed Ishtiaque Ahmed, Josephine Dionisio, Mary Claire Aguilar Barela, Kurtis Heimerl.
   type: full paper
-  venue: Proceedings of the ACM on Human-Computer Interaction. Vol. 3, Issue CSCW, Article 99
+  venue: Proceedings of the ACM on Human-Computer Interaction. Vol. 3, Issue CSCW, 
   year: 2019
   month: Nov
   tags: [repair, networks, hci]
+
+- authors: Ibtasam, S., Razaq, L., Ayub, M., Webster, J.R., Ahmed, S.I. and Anderson, R., 
+  year: 2019
+  title: "\"My cousin bought the phone for me. I never go to mobile shops.\" The Role of Family in Women's Technological Inclusion in Islamic Culture."
+  venue: Proceedings of the ACM on Human-Computer Interaction, 3(CSCW) 
+  url: https://doi.org/10.1145/3359148 
+  month: Nov
+  type: full paper
+
+
+
+- authors: Neha Kumar, Naveena Karusala, Azra Ismail, Marisol Wong-Villacres, and Aditya Vishwanath. 
+  year: 2019
+  title: Engaging Feminist Solidarity for Comparative Research, Design, and Practice
+  venue: Proc. ACM Hum.-Comput. Interact. 3, CSCW
+  month: Nov
+  url: https://www.naveenak.org/s/solidarity.pdf
+  type: full paper
+
+- authors: Naveena Karusala, Isaac Holeman, and Richard Anderson
+  year: 2019
+  title: Engaging Identity, Assets, and Constraints in Designing for Resilience. 
+  venue: Proc. ACM Hum.-Comput. Interact. 3, CSCW
+  month: Nov
+  type: full paper
+  url: https://www.naveenak.org/s/resilience.pdf
+
+- authors: Naveena Karusala, Jennifer Wilson, Phebe Vayanos, and Eric Rice
+  year: 2019
+  title: Street-Level Realities of Data Practices in Homeless Services Provision
+  venue: Proc. ACM Hum.-Comput. Interact. 3, CSCW
+  month: Nov
+  url: https://doi.org/10.1145/3359286 
+  type: full paper
+  tags: [hci]
 
 - title: "Deep Learning for Automatically Detecting Sidewalk Accessibility Problems Using Streetscape Imagery"
   url: "https://kurti.sh/pubs/sidewalk_cv_assets_final_fixed_accessible.pdf"
@@ -36,6 +108,14 @@
   year: 2019
   month: Oct
   tags: [networks]
+
+- authors: Sachin R. Pendse, Naveena Karusala, Divya Siddarth, Pattie Gonsalves, Seema Mehrotra, John A. Naslund, Mamta Sood, Neha Kumar, and Amit Sharma
+  year: 2019
+  title: "Mental health in the global south: challenges and opportunities in HCI for development" 
+  venue: ACM Computing and Sustainable Societies (COMPASS)
+  url: https://www.naveenak.org/s/mentalhealth.pdf
+  type: full paper
+  month: July
 
 - title: "An assessment of SMS fraud in Pakistan"
   url: "http://ictd.cs.washington.edu/docs/papers/2019/pervaiz_compass2019_sms.pdf"
@@ -64,6 +144,14 @@
   month: July
   tags: [systems]
   
+- authors: Naveena Karusala, Apoorva Bhalla, and Neha Kumar
+  year: 2019
+  title: Privacy, Patriarchy, and Participation on Social Media
+  venue: Proceedings of the 2019 on Designing Interactive Systems Conference (DIS ’19)
+  url: https://www.naveenak.org/s/privacy.pdf
+  type: full paper
+  month: Jun
+
 - title: "ReCall: Crowdsourcing on Basic Phones to Financially Sustain Voice Forums"
   url: "http://ictd.cs.washington.edu/docs/papers/2019/vashistha_chi2019_recall.pdf"
   authors: Aditya Vashistha, Abhinav Garg, and Richard Anderson
@@ -117,6 +205,24 @@
   year: 2019
   month: January
   tags: [hci]
+
+- authors: Neha Kumar, Marisol Wong-Villacres, Naveena Karusala, Aditya Vishwanath, Arkadeep Kumar, and Azra Ismail
+  year: 2019
+  title: Aspirations-based design. 
+  venue: Proceedings of the Tenth International Conference on Information and Communication Technologies and Development (ICTD ’19). 
+  url: https://www.naveenak.org/s/aspirations.pdf
+  type: full paper
+  month: Jan
+
+
+- authors: Azra Ismail, Naveena Karusala, and Neha Kumar
+  year: 2018
+  month: Nov
+  title: Bridging Disconnected Knowledges for Community Health
+  venue: Proc. ACM Hum.-Comput. Interact. 2, CSCW
+  url: https://www.naveenak.org/s/communityhealth.pdf
+  type: full paper
+  month: Nov
 
 - title: "dLTE: Building a more WiFi-like Cellular Network (Instead of the Other Way Around)"
   url: "https://kurti.sh/pubs/dLTE-Johnson-HotNets-2018.pdf"
@@ -207,6 +313,15 @@
   year: 2018
   month: June
   tags: [dfs, security]
+
+- authors: Marisol Wong-Villacres, Arkadeep Kumar, Aditya Vishwanath, Naveena Karusala, Betsy DiSalvo, and Neha Kumar. 
+  year: 2018 
+  title: Designing for Intersections
+  venue: Proceedings of the 2018 Designing Interactive Systems Conference (DIS ’18). 
+  month: Jun
+  url: https://static1.squarespace.com/static/5cc432858dfc8caaa6ad12ba/t/5d9d1f13353e453a7a840e6f/1570578197594/intersections.pdf
+  type: full paper
+  tags: [hci]
 
 - title: "eKichabi: Information Access through Basic Mobile Phones in Rural Tanzania"
   url: "http://ictd.cs.washington.edu/docs/papers/2018/weld_chi2018.pdf"

@@ -525,6 +525,14 @@
   tags: [hci]
 
 # TALKS
+- title: "Technologies for Decentralizing Urban Community Networks"
+  url: "https://youtu.be/gc9zopzhlYM?t=4303"
+  authors: Kurtis Heimerl
+  type: talk
+  venue: IETF 105, Singapore
+  year: 2019
+  month: June
+  tags: [networks]
 - title: "Male Partner Engagement in Family Planning SMS Conversations at Kenyan Health Clinics"
   url: "docs/talks/2018/trevor_compass_2018.pdf"
   authors: Trevor Perrier

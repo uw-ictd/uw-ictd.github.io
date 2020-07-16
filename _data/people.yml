@@ -235,7 +235,9 @@ pat:
     bio: "Ugrad, 2017-20."
 jenny:
     display_name: "Jenny Liang"
+    webpage: "http://www.jennyliang.me"
     role: alum
+    img: "jenny_liang.jpg"
     bio: "Ugrad, 2017-20."
 
 

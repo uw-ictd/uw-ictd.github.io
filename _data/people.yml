@@ -22,6 +22,14 @@ spencer:
     bio: |
         Dr. Sevilla is a self-starting, fast-moving computer scientist with a record of creating innovative and award-winning solutions in the fields of computer networking and distributed systems. He is the author of thirteen peer-reviewed papers, ten US patents, has received multiple "Best Paper" awards (IFIP, ICNP) and was recently awarded a UC Presidential Fellowship. He is currently a postdoctoral researcher in the ICTD Lab at the University of Washington, where he works with Kurtis Heimerl on community cellular networks. Spencer's primary research interest is Internet architecture and access in developing and disconnected regions, including issues such as content distribution and caching, spectum allocation, and last-mile connectivity. His previous research interests have included content networking, mesh routing (wired and wireless), future Internet architectures, and virtual datacenter networks.
 
+waylon:
+    display_name: "Waylon Brunette"
+    webpage: "http://homes.cs.washington.edu/~wrb/"
+    role: postdoc
+    img: waylon_brunette.jpg
+    bio: | 
+        Waylon is a Post-Doctoral Researcher focused on designing and building resilient mobile technologies optimized for usage in resource-constrained and infrastructure-constrained environments. His research focuses on creating tools and frameworks to simplify building and managing domain-specific mobile data collection applications in environments without Internet connectivity. Waylon is one of the founders of the Open Data Kit (ODK) project and is a current member of the core development team and management committee of ODK-X. Waylon’s research interests include mobile systems, sensing, ubiquitous computing, and data management. His work focuses on designing systems that improve the lives of under-served populations in low-income regions by leveraging mobile computing devices and sensors. Waylon is interested in using devices, sensors, services, and interfaces to create computer systems that integrate seamlessly into a user’s environment allowing technology to fade into the background of daily life. Waylon is a former NSF graduate fellow and previously worked as a Research Scientist/Engineer for the University of Washington focused on mobile computing, ubiquitous computing, and sensor networks in collaboration with Intel Labs Seattle.
+        
 gaetano:
     display_name: "Gaetano Borriello"
     webpage: "https://news.cs.washington.edu/2015/02/01/remembering-gaetano-borriello/"
@@ -61,12 +69,6 @@ samia:
     webpage: "http://www.samiaibtasam.com/"
     role: grad
     img: samia_ibtasam.jpg
-
-waylon:
-    display_name: "Waylon Brunette"
-    webpage: "http://homes.cs.washington.edu/~wrb/"
-    role: grad
-    img: waylon_brunette.jpg
 
 naveena:
     display_name: "Naveena Karusala"

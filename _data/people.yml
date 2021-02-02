@@ -100,6 +100,11 @@ nick:
     display_name: "Nick Durand"
     role: grad
     img: durand_nick.jpg
+emmanuel:
+    display_name: "Emmanuel Azuh Mensah"
+    webpage: "http://emazuh.github.io/"
+    role: grad
+    img: emmanuel.jpg
 
 
 frankie:

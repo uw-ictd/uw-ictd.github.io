@@ -22,6 +22,14 @@ spencer:
     bio: |
         Dr. Sevilla is a self-starting, fast-moving computer scientist with a record of creating innovative and award-winning solutions in the fields of computer networking and distributed systems. He is the author of thirteen peer-reviewed papers, ten US patents, has received multiple "Best Paper" awards (IFIP, ICNP) and was recently awarded a UC Presidential Fellowship. He is currently a postdoctoral researcher in the ICTD Lab at the University of Washington, where he works with Kurtis Heimerl on community cellular networks. Spencer's primary research interest is Internet architecture and access in developing and disconnected regions, including issues such as content distribution and caching, spectum allocation, and last-mile connectivity. His previous research interests have included content networking, mesh routing (wired and wireless), future Internet architectures, and virtual datacenter networks.
 
+waylon:
+    display_name: "Waylon Brunette"
+    webpage: "http://homes.cs.washington.edu/~wrb/"
+    role: postdoc
+    img: waylon_brunette.jpg
+    bio: | 
+        Waylon is a Post-Doctoral Researcher focused on designing and building resilient mobile technologies optimized for usage in resource-constrained and infrastructure-constrained environments. His research focuses on creating tools and frameworks to simplify building and managing domain-specific mobile data collection applications in environments without Internet connectivity. Waylon is one of the founders of the Open Data Kit (ODK) project and is a current member of the core development team and management committee of ODK-X. Waylon’s research interests include mobile systems, sensing, ubiquitous computing, and data management. His work focuses on designing systems that improve the lives of under-served populations in low-income regions by leveraging mobile computing devices and sensors. Waylon is interested in using devices, sensors, services, and interfaces to create computer systems that integrate seamlessly into a user’s environment allowing technology to fade into the background of daily life. Waylon is a former NSF graduate fellow and previously worked as a Research Scientist/Engineer for the University of Washington focused on mobile computing, ubiquitous computing, and sensor networks in collaboration with Intel Labs Seattle.
+        
 gaetano:
     display_name: "Gaetano Borriello"
     webpage: "https://news.cs.washington.edu/2015/02/01/remembering-gaetano-borriello/"
@@ -62,18 +70,14 @@ samia:
     role: grad
     img: samia_ibtasam.jpg
 
-waylon:
-    display_name: "Waylon Brunette"
-    webpage: "http://homes.cs.washington.edu/~wrb/"
-    role: grad
-    img: waylon_brunette.jpg
-
 naveena:
     display_name: "Naveena Karusala"
+    webpage: "https://www.naveenak.org/"
     role: grad
     img: naveena_karusala.jpg
 philip:
     display_name: "Philip Garrison"
+    webpage: "https://philipgarrison.com/"
     role: grad
     img: philip_garrison.jpg
 kushi:
@@ -96,12 +100,20 @@ nick:
     display_name: "Nick Durand"
     role: grad
     img: durand_nick.jpg
+emmanuel:
+    display_name: "Emmanuel Azuh Mensah"
+    webpage: "http://emazuh.github.io/"
+    role: grad
+    img: emmanuel.jpg
 
 
 frankie:
     display_name: "Frankie O'Rourke"
     role: ugrad
     img: frankieo.jpg
+rachel:
+    display_name: "Rachel Ye"
+    role: ugrad
 
 shrirang:
     display_name: "Shrirang Mare"
@@ -111,6 +123,7 @@ shrirang:
     bio: "Postdoc, 2020. Now faculty at Western Washington"
 galen:
     display_name: "Galen Weld"
+    webpage: "https://galenweld.com/"
     role: alum
     img: galen_weld.jpg
     bio: "Grad 2018-20. Now in Behavioral Data Science."
@@ -120,26 +133,6 @@ aditya:
     role: alum
     img: aditya_vashistha.jpg
     bio: "Ph.D., 2019.  Now faculty at Cornell"
-pat:
-    display_name: "Pat Kosakanchit"
-    role: alum
-    img: Kosakanchit-2019-closeup-formatted.jpg
-rishi:
-    display_name: "Rishi Jha"
-    role: alum
-    img: rishi.png
-firn:
-    display_name: "Nussara Tieanklin (Firn)"
-    role: alum
-    img: Firn.jpg
-michael:
-    display_name: "Chenyang Fang (Michael)"
-    role: alum
-    img: michael_fang.jpg
-nathan:
-    display_name: "Nathan Lipiarski"
-    role: alum
-    img: nathan_lipiarski.jpg
 trevor:
     display_name: "Trevor Perrier"
     webpage: "http://homes.cs.washington.edu/~tperrier/"
@@ -152,11 +145,6 @@ fahad:
     role: alum
     img: fahad_pervaiz.jpg
     bio: "Ph.D., 2019.  Now an engineer at Grab"
-michelle:
-    display_name: "Michelle Lin"
-    webpage: "http://michellexlin.com"
-    role: alum
-    img: michelle_lin.jpg
 samuel:
     display_name: "Sam Castle"
     webpage: "http://samcastle.com/"
@@ -240,7 +228,25 @@ rowan:
     display_name: "Rowan Phipps"
     role: alum
     img: phipps.jpg
-    bio: "Ugrad, 2017-18. Now in security and privacy lab."
+    bio: "Ugrad, 2017-18."
+michelle:
+    display_name: "Michelle Lin"
+    webpage: "http://michellexlin.com"
+    role: alum
+    img: michelle_lin.jpg
+    bio: "Ugrad, 2018-19."
+pat:
+    display_name: "Pat Kosakanchit"
+    role: alum
+    img: Kosakanchit-2019-closeup-formatted.jpg
+    bio: "Ugrad, 2017-20."
+jenny:
+    display_name: "Jenny Liang"
+    webpage: "http://www.jennyliang.me"
+    role: alum
+    img: "jenny_liang.jpg"
+    bio: "Ugrad, 2017-20."
+
 
 Jeffbeorse:
     display_name: "Jeff Beorse"

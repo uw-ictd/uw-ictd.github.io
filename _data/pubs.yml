@@ -9,10 +9,10 @@
   venue: Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS ’20)
   month: Jun
   type: full paper
-  url: https://dl.acm.org/doi/pdf/10.1145/3378393.3402278
+  url: http://ictd.cs.washington.edu/docs/papers/2020/cold-chain-COMPASS2020.pdf
 
 - title: "Can Phones Build Relationships?: A Case Study of a Kenyan Wildlife Conservancy's Community Development"
-  url: "https://dl.acm.org/doi/pdf/10.1145/3378393.3402279"
+  url: "https://mattziegler.net/papers/Ol-Pejeta-Phones-COMPASS2020.pdf"
   authors: Matt Ziegler, Morgan Wack, Nancy Ingutia, Ian Muiruri, Nicholas Njogu, Kennedy Muriithi, William Njoroge, James Long, Kurtis Heimerl
   type: full paper
   venue: Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS ’20)
@@ -67,7 +67,7 @@
 - authors: Ibtasam, S., Razaq, L., Ayub, M., Webster, J.R., Ahmed, S.I. and Anderson, R., 
   year: 2019
   title: "\"My cousin bought the phone for me. I never go to mobile shops.\" The Role of Family in Women's Technological Inclusion in Islamic Culture."
-  venue: Proceedings of the ACM on Human-Computer Interaction, 3(CSCW) 
+  venue: Proceedings of the ACM on Human-Computer Interaction. Vol. 3, Issue CSCW, 
   url: https://doi.org/10.1145/3359148 
   month: Nov
   type: full paper
@@ -77,7 +77,7 @@
 - authors: Neha Kumar, Naveena Karusala, Azra Ismail, Marisol Wong-Villacres, and Aditya Vishwanath. 
   year: 2019
   title: Engaging Feminist Solidarity for Comparative Research, Design, and Practice
-  venue: Proc. ACM Hum.-Comput. Interact. 3, CSCW
+  venue: Proceedings of the ACM on Human-Computer Interaction. Vol. 3, Issue CSCW, 
   month: Nov
   url: https://www.naveenak.org/s/solidarity.pdf
   type: full paper
@@ -85,7 +85,7 @@
 - authors: Naveena Karusala, Isaac Holeman, and Richard Anderson
   year: 2019
   title: Engaging Identity, Assets, and Constraints in Designing for Resilience. 
-  venue: Proc. ACM Hum.-Comput. Interact. 3, CSCW
+  venue: Proceedings of the ACM on Human-Computer Interaction. Vol. 3, Issue CSCW,
   month: Nov
   type: full paper
   url: https://www.naveenak.org/s/resilience.pdf
@@ -93,7 +93,7 @@
 - authors: Naveena Karusala, Jennifer Wilson, Phebe Vayanos, and Eric Rice
   year: 2019
   title: Street-Level Realities of Data Practices in Homeless Services Provision
-  venue: Proc. ACM Hum.-Comput. Interact. 3, CSCW
+  venue: Proceedings of the ACM on Human-Computer Interaction. Vol. 3, Issue CSCW,
   month: Nov
   url: https://doi.org/10.1145/3359286 
   type: full paper

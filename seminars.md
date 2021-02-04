@@ -7,7 +7,7 @@ title: Regular Courses
 [ICTD Reading seminar, CSE590F:](http://www.cs.washington.edu/education/courses/590f/)
 We also host a graduate reading group focused on issues of technology and poverty. It is usually held after the above change seminar at 1:30 on Tuesdays. See the website for changing quarterly topics and room location.
 
-[Graduate Computing for Social Good, CSE 5XX:](https://docs.google.com/document/d/17RNcB0wb3I1ZbAaLXEuwB5W7X32MOVvP8LAhMONxA-Q/edit?usp=sharing)
+[Graduate Computing for Social Good, CSE 580:](https://docs.google.com/document/d/17RNcB0wb3I1ZbAaLXEuwB5W7X32MOVvP8LAhMONxA-Q/edit?usp=sharing)
 General computing for social good (CS4SG) class. Covers the history of computing, current works, and current status in the field. Students will learn best practices for working with communities and how to critically analyze their own research.
 
 ## Old Courses

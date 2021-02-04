@@ -2,7 +2,15 @@
 # PAPERS
 
 
-
+- title: "That courage to encourage": Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV
+  authors: Naveena Karusala, David Seeh, Cyrus Mugo, Brandon Guthrie, Megan Moreno, Grace John-Stewart, Irene Inwani, Richard Anderson, Keshet Ronen
+  year: 2021 
+  venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’20)
+  url: https://www.naveenak.org/s/peersupport.pdf
+  month: April
+  tags: [hci]
+  type: full paper
+  
 - authors: Waylon Brunette, Clarice Larson, Shourya Jain, Aeron Langford, Yin Yin Low, Andrew Siew, Richard Anderson
   year: 2020
   title: Global Goods Software for the Immunization Cold Chain. 

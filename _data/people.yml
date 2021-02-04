@@ -96,10 +96,6 @@ sudheesh:
     webpage: "https://sudheesh.info/"
     role: grad
     img: sudheesh.jpg
-nick:
-    display_name: "Nick Durand"
-    role: grad
-    img: durand_nick.jpg
 emmanuel:
     display_name: "Emmanuel Azuh Mensah"
     webpage: "http://emazuh.github.io/"
@@ -138,13 +134,18 @@ trevor:
     webpage: "http://homes.cs.washington.edu/~tperrier/"
     role: alum
     img: trevor_perrier.jpg
-    bio: "Ph.D., 2019.  Now an engineer at Google"
+    bio: "Ph.D., 2019.  Now at Google"
 fahad:
     display_name: "Fahad Pervaiz"
     webpage: "https://homes.cs.washington.edu/~fahadp/"
     role: alum
     img: fahad_pervaiz.jpg
-    bio: "Ph.D., 2019.  Now an engineer at Grab"
+    bio: "Ph.D., 2019.  Now at Microsoft."
+nick:
+    display_name: "Nick Durand"
+    role: alum
+    img: durand_nick.jpg
+    bio: "M.S, 2020."	
 samuel:
     display_name: "Sam Castle"
     webpage: "http://samcastle.com/"

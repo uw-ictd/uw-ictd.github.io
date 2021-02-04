@@ -1,7 +1,6 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
-
 - title: "'That courage to encourage': Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV"
   authors: Naveena Karusala, David Seeh, Cyrus Mugo, Brandon Guthrie, Megan Moreno, Grace John-Stewart, Irene Inwani, Richard Anderson, and Keshet Ronen
   year: 2021 
@@ -10,6 +9,14 @@
   month: April
   tags: [hci]
   type: full paper
+
+- authors: Sudheesh Singanamalla, Esther Han Beol Jang, Richard Anderson, Tadayoshi Kohno, Kurtis Heimerl
+  year: 2020
+  title: Accept the Risk and Continue - Measuring the Long Tail of Government https Adoption
+  venue: Proceedings of the Internet Measurement Conference (IMC'20)
+  month: Oct
+  type: full paper
+  url: https://dl.acm.org/doi/10.1145/3419394.3423645
   
 - authors: Waylon Brunette, Clarice Larson, Shourya Jain, Aeron Langford, Yin Yin Low, Andrew Siew, Richard Anderson
   year: 2020

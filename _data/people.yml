@@ -80,12 +80,6 @@ philip:
     webpage: "https://philipgarrison.com/"
     role: grad
     img: philip_garrison.jpg
-kushi:
-    display_name: "Kushi"
-    role: grad
-    webpage: "https://www.sheldrickwildlifetrust.org/asp/orphan_profile.asp?N=368"
-    img: kushi.jpg
-
 mattZ:
     display_name: "Matt Ziegler"
     webpage: "https://mattziegler.net/"
@@ -96,10 +90,6 @@ sudheesh:
     webpage: "https://sudheesh.info/"
     role: grad
     img: sudheesh.jpg
-nick:
-    display_name: "Nick Durand"
-    role: grad
-    img: durand_nick.jpg
 emmanuel:
     display_name: "Emmanuel Azuh Mensah"
     webpage: "http://emazuh.github.io/"
@@ -126,7 +116,7 @@ galen:
     webpage: "https://galenweld.com/"
     role: alum
     img: galen_weld.jpg
-    bio: "Grad 2018-20. Now in Behavioral Data Science."
+    bio: "Grad 2018-20. Now in Behavioral Data Science"
 aditya:
     display_name: "Aditya Vashistha"
     webpage: "http://www.adityavashistha.com/"
@@ -138,31 +128,36 @@ trevor:
     webpage: "http://homes.cs.washington.edu/~tperrier/"
     role: alum
     img: trevor_perrier.jpg
-    bio: "Ph.D., 2019.  Now an engineer at Google"
+    bio: "Ph.D., 2019.  Now at Google"
 fahad:
     display_name: "Fahad Pervaiz"
     webpage: "https://homes.cs.washington.edu/~fahadp/"
     role: alum
     img: fahad_pervaiz.jpg
-    bio: "Ph.D., 2019.  Now an engineer at Grab"
+    bio: "Ph.D., 2019.  Now at Microsoft"
+nick:
+    display_name: "Nick Durand"
+    role: alum
+    img: durand_nick.jpg
+    bio: "M.S, 2020"	
 samuel:
     display_name: "Sam Castle"
     webpage: "http://samcastle.com/"
     role: alum
     img: sam_castle.png
-    bio: "CTO/Cofounder at Nala. Now at Google."
+    bio: "CTO/Cofounder at Nala. Now at Google"
 kushal:
     display_name: "Kushal Shah"
     webpage: "https://in.linkedin.com/in/kushalns5"
     role: alum
     img: kushal_shah.jpg
-    bio: "Masters, 2018.  Now at Grab."
+    bio: "Masters, 2018.  Now at Grab"
 sam:
     display_name: "Sam Sudar"
     webpage: "http://samsudar.com/"
     role: alum
     img: sam_sudar.jpg
-    bio: "Ph.D., 2017.  Now an engineer at Google"
+    bio: "Ph.D., 2017.  Now at Google"
 mayank:
     display_name: "Mayank Goel"
     webpage: "http://www.mayankgoel.com"
@@ -175,7 +170,7 @@ nicki:
     github: sampsyo
     role: alum
     img: nicki_dell.jpg
-    bio: "Ph.D., 2015. Now faculty at Cornell Tech."
+    bio: "Ph.D., 2015. Now faculty at Cornell Tech"
 rohit:
     display_name: "Rohit Chaudhri"
     role: alum
@@ -187,43 +182,43 @@ yaw:
     github: ransford
     role: alum
     img: yaw_anokwa.jpg
-    bio: "Ph.D., 2011. Now cofounder of Nafundi."
+    bio: "Ph.D., 2011. Now cofounder of Nafundi"
 carl:
     display_name: "Carl Hartung"
     github: ransford
     role: alum
     img: carl_hartung.jpg
-    bio: "Ph.D., 2011. Now cofounder of Nafundi."
+    bio: "Ph.D., 2011. Now cofounder of Nafundi"
 natalie:
     display_name: "Natalie Linnell"
     webpage: "http://math.scu.edu/~linnell/"
     role: alum
     img: natalie_linnell.jpg
-    bio: "Ph.D., 2011. Now faculty at University of Santa Clara."
+    bio: "Ph.D., 2011. Now faculty at University of Santa Clara"
 neha:
     display_name: "Neha Kumar"
     webpage: "http://nehakumar.org/"
     role: alum
     img: neha_kumar.jpeg
-    bio: "Postdoc, 2013&ndash;2014. Now faculty at Georgia Tech."
+    bio: "Postdoc, 2013&ndash;2014. Now faculty at Georgia Tech"
 brian:
     display_name: "Brian DeRenzi"
     webpage: "http://www.bderenzi.com/home"
     role: alum
     img: brian_derenzi.jpg
-    bio: "Ph.D., 2012. Postdoc, 2012&ndash;2013. Now faculty at University of Cape Town."
+    bio: "Ph.D., 2012. Postdoc, 2012&ndash;2013. Now faculty at University of Cape Town"
 joyojeet:
     display_name: "Joyojeet Pal"
     webpage: "https://www.si.umich.edu/people/joyojeet-pal"
     role: alum
     img: joyojeet_pal.jpg
-    bio: "Postdoc, 2009&ndash;2010. Now faculty at University of Michigan."
+    bio: "Postdoc, 2009&ndash;2010. Now faculty at University of Michigan"
 camille:
     display_name: "Camille Cobb"
     webpage: "https://homes.cs.washington.edu/~cobbc12/"
     role: alum
     img: camille_cobb.jpg
-    bio: "Grad. Now in security and privacy lab."
+    bio: "Grad. Now in security and privacy lab"
 rowan:
     display_name: "Rowan Phipps"
     role: alum
@@ -234,18 +229,18 @@ michelle:
     webpage: "http://michellexlin.com"
     role: alum
     img: michelle_lin.jpg
-    bio: "Ugrad, 2018-19."
+    bio: "Ugrad, 2018-19"
 pat:
     display_name: "Pat Kosakanchit"
     role: alum
     img: Kosakanchit-2019-closeup-formatted.jpg
-    bio: "Ugrad, 2017-20."
+    bio: "Ugrad, 2017-20"
 jenny:
     display_name: "Jenny Liang"
     webpage: "http://www.jennyliang.me"
     role: alum
     img: "jenny_liang.jpg"
-    bio: "Ugrad, 2017-20."
+    bio: "Ugrad, 2017-20"
 
 
 Jeffbeorse:

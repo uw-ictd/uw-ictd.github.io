@@ -10,6 +10,24 @@
   tags: [hci]
   type: full paper
 
+- title: "Network Capacity as Common Pool Resource: Community-Based Congestion Management in a Community Network"
+  authors: Matthew William Johnson, Esther Han Beol Jang, Frankie O’Rourke, Rachel Ye, and Kurtis Heimerl
+  year: 2021
+  venue: Proc. ACM Human-Computer Interaction 5, CSCW1, Article 61
+  url: "https://matt9j.net/papers/2021-commgestion.pdf"
+  month: April
+  tags: ["community cellular", "common pool resources"]
+  type: full paper
+
+- title: "Whale Watching in Inland Indonesia: Analyzing a Small, Remote, Internet-Based Community Cellular Network"
+  authors: Matthew Johnson, Jenny Liang, Michelle X. Lin, Sudheesh Singanamalla, and Kurtis Heimerl
+  year: 2021
+  venue: Proceedings of the Web Conference 2021 (WWW '21)
+  url: "https://matt9j.net/papers/2021-whale-watching.pdf"
+  month: April
+  tags: ["networks", "community cellular"]
+  type: full paper
+
 - authors: Sudheesh Singanamalla, Esther Han Beol Jang, Richard Anderson, Tadayoshi Kohno, Kurtis Heimerl
   year: 2020
   title: Accept the Risk and Continue - Measuring the Long Tail of Government https Adoption

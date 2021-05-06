@@ -95,16 +95,20 @@ emmanuel:
     webpage: "http://emazuh.github.io/"
     role: grad
     img: emmanuel.jpg
+pat:
+    display_name: "Pat Kosakanchit"
+    role: grad
+    img: Kosakanchit-2019-closeup-formatted.jpg
+nick:
+    display_name: "Nick Durand"
+    role: grad
+    img: durand_nick.jpg
 
 
 frankie:
     display_name: "Frankie O'Rourke"
     role: ugrad
     img: frankieo.jpg
-pat:
-    display_name: "Pat Kosakanchit"
-    role: ugrad
-    img: Kosakanchit-2019-closeup-formatted.jpg
 rachel:
     display_name: "Rachel Ye"
     role: ugrad
@@ -139,11 +143,6 @@ fahad:
     role: alum
     img: fahad_pervaiz.jpg
     bio: "Ph.D., 2019.  Now at Microsoft"
-nick:
-    display_name: "Nick Durand"
-    role: alum
-    img: durand_nick.jpg
-    bio: "M.S, 2020"	
 samuel:
     display_name: "Sam Castle"
     webpage: "http://samcastle.com/"

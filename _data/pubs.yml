@@ -1,18 +1,51 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+- title: "'That courage to encourage': Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV"
+  authors: Naveena Karusala, David Seeh, Cyrus Mugo, Brandon Guthrie, Megan Moreno, Grace John-Stewart, Irene Inwani, Richard Anderson, and Keshet Ronen
+  year: 2021 
+  venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)
+  url: "https://www.naveenak.org/s/peersupport.pdf"
+  month: April
+  tags: [hci]
+  type: full paper
 
+- title: "Network Capacity as Common Pool Resource: Community-Based Congestion Management in a Community Network"
+  authors: Matthew William Johnson, Esther Han Beol Jang, Frankie O’Rourke, Rachel Ye, and Kurtis Heimerl
+  year: 2021
+  venue: Proc. ACM Human-Computer Interaction 5, CSCW1, Article 61
+  url: "https://matt9j.net/papers/2021-commgestion.pdf"
+  month: April
+  tags: ["community cellular", "common pool resources"]
+  type: full paper
 
+- title: "Whale Watching in Inland Indonesia: Analyzing a Small, Remote, Internet-Based Community Cellular Network"
+  authors: Matthew Johnson, Jenny Liang, Michelle X. Lin, Sudheesh Singanamalla, and Kurtis Heimerl
+  year: 2021
+  venue: Proceedings of the Web Conference 2021 (WWW '21)
+  url: "https://matt9j.net/papers/2021-whale-watching.pdf"
+  month: April
+  tags: ["networks", "community cellular"]
+  type: full paper
+
+- authors: Sudheesh Singanamalla, Esther Han Beol Jang, Richard Anderson, Tadayoshi Kohno, Kurtis Heimerl
+  year: 2020
+  title: Accept the Risk and Continue - Measuring the Long Tail of Government https Adoption
+  venue: Proceedings of the Internet Measurement Conference (IMC'20)
+  month: Oct
+  type: full paper
+  url: https://dl.acm.org/doi/10.1145/3419394.3423645
+  
 - authors: Waylon Brunette, Clarice Larson, Shourya Jain, Aeron Langford, Yin Yin Low, Andrew Siew, Richard Anderson
   year: 2020
   title: Global Goods Software for the Immunization Cold Chain. 
   venue: Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS ’20)
   month: Jun
   type: full paper
-  url: https://dl.acm.org/doi/pdf/10.1145/3378393.3402278
+  url: http://ictd.cs.washington.edu/docs/papers/2020/cold-chain-COMPASS2020.pdf
 
 - title: "Can Phones Build Relationships?: A Case Study of a Kenyan Wildlife Conservancy's Community Development"
-  url: "https://dl.acm.org/doi/pdf/10.1145/3378393.3402279"
+  url: "https://mattziegler.net/papers/Ol-Pejeta-Phones-COMPASS2020.pdf"
   authors: Matt Ziegler, Morgan Wack, Nancy Ingutia, Ian Muiruri, Nicholas Njogu, Kennedy Muriithi, William Njoroge, James Long, Kurtis Heimerl
   type: full paper
   venue: Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS ’20)

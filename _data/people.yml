@@ -101,6 +101,10 @@ frankie:
     display_name: "Frankie O'Rourke"
     role: ugrad
     img: frankieo.jpg
+pat:
+    display_name: "Pat Kosakanchit"
+    role: ugrad
+    img: Kosakanchit-2019-closeup-formatted.jpg
 rachel:
     display_name: "Rachel Ye"
     role: ugrad
@@ -230,11 +234,6 @@ michelle:
     role: alum
     img: michelle_lin.jpg
     bio: "Ugrad, 2018-19"
-pat:
-    display_name: "Pat Kosakanchit"
-    role: alum
-    img: Kosakanchit-2019-closeup-formatted.jpg
-    bio: "Ugrad, 2017-20"
 jenny:
     display_name: "Jenny Liang"
     webpage: "http://www.jennyliang.me"

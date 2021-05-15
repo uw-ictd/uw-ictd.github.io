@@ -9,6 +9,33 @@
   month: April
   tags: [hci]
   type: full paper
+  
+- title: "For God’s sake! Considering Religious Beliefs in HCI Research: A Case of Islamic HCI"
+  authors: Samia Ibtasam
+  year: 2021 
+  venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)
+  url: "https://samiaibtasam.com/wp-content/uploads/2021/05/A-Case-of-Islamic-HCI.pdf"
+  month: April
+  tags: [hci]
+  type: alt.chi paper
+  
+- title: "From the Margins to the Centre: Defining New Mission and Vision for HCI Researchers in South Asia"
+  authors: Pranjal Jain, Samia Ibtasam, Sumita Sharma, Nilavra Bhattacharya, Anupriya Tuli, Dilrukshi Gamage, Dhruv Jain, Rucha Tulaskar, Priyank Chandra, Lubna Razaq, Rahat Jahangir Rony, Deepak Ranjan Padhi, Mohit Jain, Suleman Shahid, Nova Ahmed, Devanuj Kanta Balkrishan, Pushpendra Singh
+  year: 2021 
+  venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)
+  url: "https://samiaibtasam.com/wp-content/uploads/2021/05/southasiaHCI.pdf"
+  month: April
+  tags: [hci]
+  type: full paper
+  
+- title: "'We Even Borrowed Money From Our Neighbor': Understanding Mobile-based Frauds Through Victims' Experiences"
+  authors: Authors: Lubna Razaq, Tallal Ahmad, Samia Ibtasam, Umer Ramzan, Shrirang Mare
+  year: 2021 
+  venue: Proceedings of the ACM on Human-Computer Interaction, CSCW, Article 41
+  url: "https://dl.acm.org/doi/10.1145/3449115"
+  month: April
+  tags: [hci]
+  type: full paper
 
 - title: "Network Capacity as Common Pool Resource: Community-Based Congestion Management in a Community Network"
   authors: Matthew William Johnson, Esther Han Beol Jang, Frankie O’Rourke, Rachel Ye, and Kurtis Heimerl

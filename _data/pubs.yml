@@ -1,6 +1,24 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+- title: " Oblivious DNS over HTTPS (ODoH): A Practical Privacy Enhancement to DNS"
+  authors: Sudheesh Singanamalla, Suphanat Chunhapanya, Jonathan Hoyland, Marek Vavruša, Tanya Verma, Peter Wu, Marwan Fayed, Kurtis Heimerl, Nick Sullivan, and Christopher Wood
+  year: 2021
+  venue: Proceedings of the 2021 Privacy Enhancing Technologies Symposium (PETS '21)
+  url: "https://petsymposium.org/2021/files/papers/issue4/popets-2021-0085.pdf"
+  month: July
+  tags: ["systems", "networks", "security"]
+  type: full paper
+
+- title: "When Borders Blur-Overcoming Political Limits with Computing in Truly Global Societies."
+  authors: Emmanuel Azuh Mensah, Sudheesh Singanamalla, Richard Anderson, and Kurtis Heimerl
+  year: 2021
+  venue: Proceedings of the 2021 Workshop on computing within limits (LIMITS '21)
+  url: "https://limits.pubpub.org/pub/ldede9mr/release/1"
+  month: June
+  tags: [security, systems]
+  type: full paper
+
 - title: "'That courage to encourage': Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV"
   authors: Naveena Karusala, David Seeh, Cyrus Mugo, Brandon Guthrie, Megan Moreno, Grace John-Stewart, Irene Inwani, Richard Anderson, and Keshet Ronen
   year: 2021 

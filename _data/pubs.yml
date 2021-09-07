@@ -1,6 +1,15 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
+- title: "\"How’s Shelby the Turtle today?\" Strengths and Weaknesses of Interactive Animal-Tracking Maps for Environmental Communication."
+  authors: Matt Ziegler, Michael Quinlan, Zage Strassberg-Phillips, Manasi Shah, Lauren Vreeken, Chris Jones, Karen Goodfellow, Jes Lefcourt, Richard Anderson, Kurtis Heimerl
+  year: 2021
+  month: July
+  venue: Proceedings of the ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS ’21)
+  tags: [hci]
+  url: "https://mattziegler.net/papers/Wildlife-Tracking-Environmental-Communication-COMPASS2021.pdf"
+  type: full paper
+
 - title: " Oblivious DNS over HTTPS (ODoH): A Practical Privacy Enhancement to DNS"
   authors: Sudheesh Singanamalla, Suphanat Chunhapanya, Jonathan Hoyland, Marek Vavruša, Tanya Verma, Peter Wu, Marwan Fayed, Kurtis Heimerl, Nick Sullivan, and Christopher Wood
   year: 2021

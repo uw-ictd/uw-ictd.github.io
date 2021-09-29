@@ -103,6 +103,11 @@ nick:
     display_name: "Nick Durand"
     role: grad
     img: durand_nick.jpg
+lisa:
+    display_name: "Lisa Orii"
+    webpage: "https://lisaorii.github.io/"
+    role: grad
+    img: lisa_orii.jpg
 
 
 frankie:

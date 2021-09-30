@@ -108,6 +108,11 @@ lisa:
     webpage: "https://lisaorii.github.io/"
     role: grad
     img: lisa_orii.jpg
+firn:
+    display_name: "Nussara (Firn) Tieanklin"
+    webpage: "https://github.com/nussarafirn"
+    role: grad
+    img: firn_tieanklin.jpg
 
 
 frankie:

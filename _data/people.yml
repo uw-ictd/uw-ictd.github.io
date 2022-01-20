@@ -113,7 +113,11 @@ firn:
     webpage: "https://github.com/nussarafirn"
     role: grad
     img: firn_tieanklin.jpg
-
+innocent:
+    display_name: "Innocent Obi Jr"
+    webpage: "https://blog.uzodi.com/about"
+    role: grad
+    img: innocent_obi.jpg
 
 frankie:
     display_name: "Frankie O'Rourke"

@@ -95,6 +95,12 @@ emmanuel:
     webpage: "http://emazuh.github.io/"
     role: grad
     img: emmanuel.jpg
+
+
+ana:
+    display_name: "Ananditha Raghunath"
+    role: grad
+    img: ananditha.jpg
 pat:
     display_name: "Pat Kosakanchit"
     role: grad

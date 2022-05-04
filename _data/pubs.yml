@@ -1,7 +1,25 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
 
-- title: "\"How’s Shelby the Turtle today?\" Strengths and Weaknesses of Interactive Animal-Tracking Maps for Environmental Communication."
+- title: "Deferring Social Impact: Conceptions of ICTD and Computing Careers"
+  authors: "Phillip Garrison and Lucy Pei"
+  year: 2022
+  month: January
+  tags: [hci]
+  url: "https://philipgarrison.com/publications/Deferring_Social_Impact_HICSS_2022_preprint.pdf"
+  type: full paper
+  venue: "Proceedings of the 55th Hawaii International Conference on System Sciences"
+
+- title: '"The Network Is an Excuse": Hardware Maintenance Supporting Community [Best Paper Award]'
+  authors: "Garrison, Philip and Jang, Esther Han Beol and Lithgow, Michael A. and Pace, Nicolás Andrés"
+  year: 2021
+  month: October
+  venue: CSCW
+  tags: [hci]
+  url: "https://philipgarrison.com/publications/The_Network_is_an_Excuse_CSCW_2021.pdf"
+  type: full paper
+
+- title: "\"How’s Shelby the Turtle today?\" Strengths and Weaknesses of Interactive Animal-Tracking Maps for Environmental Communication. [Honorable Mention]"
   authors: Matt Ziegler, Michael Quinlan, Zage Strassberg-Phillips, Manasi Shah, Lauren Vreeken, Chris Jones, Karen Goodfellow, Jes Lefcourt, Richard Anderson, Kurtis Heimerl
   year: 2021
   month: July
@@ -10,7 +28,16 @@
   url: "https://mattziegler.net/papers/Wildlife-Tracking-Environmental-Communication-COMPASS2021.pdf"
   type: full paper
 
-- title: " Oblivious DNS over HTTPS (ODoH): A Practical Privacy Enhancement to DNS"
+- title: "Poster: The Low Impact of COVID-19 on Rural Community Network Traffic"
+  authors: "Tieanklin, Nussara and Johnson, Matthew and Heimerl, Kurtis"
+  year: 2021
+  month: July
+  venue: Proceedings of the ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS ’21)
+  tags: ["systems", "networks"]
+  type: note
+  url: "https://doi.org/10.1145/3460112.3472311"
+
+- title: " Oblivious DNS over HTTPS (ODoH): A Practical Privacy Enhancement to DNS [Best Student Paper Award]"
   authors: Sudheesh Singanamalla, Suphanat Chunhapanya, Jonathan Hoyland, Marek Vavruša, Tanya Verma, Peter Wu, Marwan Fayed, Kurtis Heimerl, Nick Sullivan, and Christopher Wood
   year: 2021
   venue: Proceedings of the 2021 Privacy Enhancing Technologies Symposium (PETS '21)
@@ -27,6 +54,24 @@
   month: June
   tags: [security, systems]
   type: full paper
+
+- title: "For God’s sake! Considering Religious Beliefs in HCI Research: A Case of Islamic HCI"
+  url: "https://samiaibtasam.com/wp-content/uploads/2021/05/A-Case-of-Islamic-HCI.pdf"
+  year: 2021
+  month: May
+  tags: [hci]
+  type: full paper
+  venue: CHI ’21 Extended Abstracts
+  authors: "Samia Ibtasam"
+
+- title: "From the Margins to the Centre: Defining New Mission and Vision for HCI Researchers in South Asia  (CHI 2021 Workshop)"
+  url: "https://samiaibtasam.com/wp-content/uploads/2021/05/southasiaHCI.pdf"
+  authors: "Jain, Pranjal and Ibtasam, Samia and Sharma, Sumita and Bhattacharya, Nilavra and Tuli, Anupriya and Gamage, Dilrukshi and Jain, Dhruv and Tulaskar, Rucha and Chandra, Priyank and Razaq, Lubna and Rony, Rahat Jahangir and Padhi, Deepak Ranjan and Jain, Mohit and Shahid, Suleman and Ahmed, Nova and Balkrishan, Devanuj Kanta and Singh, Pushpendra"
+  year: 2021
+  month: May
+  tags: [hci]
+  venue: CHI ’21 Extended Abstracts
+  type: note
 
 - title: "'That courage to encourage': Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV"
   authors: Naveena Karusala, David Seeh, Cyrus Mugo, Brandon Guthrie, Megan Moreno, Grace John-Stewart, Irene Inwani, Richard Anderson, and Keshet Ronen
@@ -55,6 +100,15 @@
   tags: ["networks", "community cellular"]
   type: full paper
 
+- title: "\"We Even Borrowed Money From Our Neighbor\": Understanding Mobile-based Frauds Through Victims' Experiences"
+  authors: "Razaq, Lubna and Ahmad, Tallal and Ibtasam, Samia and Ramzan, Umer and Mare, Shrirang"
+  year: 2021
+  month: April
+  venue: "Proc. ACM Hum.-Comput. Interact."
+  url: "https://www.researchgate.net/publication/350041184_We_Even_Borrowed_Money_From_Our_Neighbor_Understanding_Mobile-based_Fraud_Through_Victims'_Experiences"
+  type: "full paper"
+  tags: [hci]
+
 - authors: Sudheesh Singanamalla, Esther Han Beol Jang, Richard Anderson, Tadayoshi Kohno, Kurtis Heimerl
   year: 2020
   title: Accept the Risk and Continue - Measuring the Long Tail of Government https Adoption
@@ -71,7 +125,7 @@
   type: full paper
   url: http://ictd.cs.washington.edu/docs/papers/2020/cold-chain-COMPASS2020.pdf
 
-- title: "Can Phones Build Relationships?: A Case Study of a Kenyan Wildlife Conservancy's Community Development"
+- title: "Can Phones Build Relationships?: A Case Study of a Kenyan Wildlife Conservancy's Community Development [Best Paper Award]"
   url: "https://mattziegler.net/papers/Ol-Pejeta-Phones-COMPASS2020.pdf"
   authors: Matt Ziegler, Morgan Wack, Nancy Ingutia, Ian Muiruri, Nicholas Njogu, Kennedy Muriithi, William Njoroge, James Long, Kurtis Heimerl
   type: full paper
@@ -79,15 +133,6 @@
   year: 2020
   month: Jun
   tags: [hci]
-
-- title: "Making Chat at Home in the Hospital: Exploring Chat Use by Nurses."
-  authors: Naveena Karusala, Ding Wang, and Jacki O’Neill
-  year: 2020 
-  venue: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20)
-  url: https://www.naveenak.org/s/CHI2020_cameraready.pdf
-  month: April
-  tags: [hci]
-  type: full paper
 
 - authors: Pranjal Jain, Samia Ibtasam, Devanuj K. Balkrishan, Nova Ahmed, Matt Jones, Suleman Shahid, Lubna Razaq, Mark Perry, and Anirudha Joshi.
   year: 2020
@@ -106,6 +151,15 @@
   month: Jun
   tags: [networks, econ]
 
+- title: "Making Chat at Home in the Hospital: Exploring Chat Use by Nurses."
+  authors: Naveena Karusala, Ding Wang, and Jacki O’Neill
+  year: 2020 
+  venue: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20)
+  url: https://www.naveenak.org/s/CHI2020_cameraready.pdf
+  month: April
+  tags: [hci]
+  type: full paper
+
 - title: "Hanging Gardens of Babylon: Reframing Urban Agriculture as an Opportunity for Social Engagement "
   url: "https://kurti.sh/pubs/babylon_breda_chi2020.pdf"
   authors: Joseph Breda, Esther Jang, Kurtis Heimerl, and Shwetak Patel.
@@ -114,6 +168,15 @@
   year: 2020
   month: Apr
   tags: [HCI, sustainability]
+
+- title: "IslamicHCI: Designing with and within Muslim Populations"
+  authors: "Mustafa, Maryam and Lazem, Shaimaa and Alabdulqader, Ebtisam and Toyama, Kentaro and Sultana, Sharifa and Ibtasam, Samia and Anderson, Richard and Ahmed, Syed Ishtiaque"
+  type: note
+  venue: "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems"
+  year: 2020
+  month: April
+  tags: [hci]
+  url: "https://samiaibtasam.com/wp-content/uploads/2020/10/IslamicHCI-Designing-with-and-within-Muslim-Populations.pdf"
 
 - title: "Trust and Technology Repair Infrastructures in the Remote Rural Philippines: Navigating Urban-Rural Seams"
   url: "https://kurti.sh/pubs/cscw_2019_rural_repair_camera.pdf"

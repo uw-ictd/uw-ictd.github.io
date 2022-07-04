@@ -1,5 +1,31 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "6 Years Later: Examining Long-term Project Outcomes"
+  authors: "Elijah Greisz and Philip Garrison"
+  year: 2022
+  tags: [hci]
+  type: full paper
+  month: June
+  venue: Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '22)
+  url: "https://dl.acm.org/doi/pdf/10.1145/3530190.3534825"
+
+- title: "Telechain: Bridging Telecom Policy and Blockchain Practice"
+  authors: "Sudheesh Singanamalla, Apurv Mehra, Nishanth Chandran, Himanshi Lohchab, Seshanuradha Chava, Asit Kadayan, Sunil Bajpai, Kurtis Heimerl, Richard Anderson, Satya Lokam"
+  year: 2022
+  tags: ["systems", "networks", "security"]
+  type: full paper
+  month: June
+  venue: Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '22)
+  url: "https://dl.acm.org/doi/pdf/10.1145/3530190.3534820"
+
+- title: "Demo: Visualizing USSD and IVR Usage Data with Icicle Charts"
+  authors: "Matt Ziegler, Galen Weld, Ewin Tang, Maureen Daum"
+  year: 2022
+  tags: [hci]
+  type: demo
+  month: June
+  venue: Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '22)
+  url: "https://dl.acm.org/doi/pdf/10.1145/3530190.3542934"
 
 - title: "Deferring Social Impact: Conceptions of ICTD and Computing Careers"
   authors: "Phillip Garrison and Lucy Pei"

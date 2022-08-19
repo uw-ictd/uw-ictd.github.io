@@ -1,5 +1,14 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "Respect the ORIGIN! A Best-case Evaluation of Connection Coalescing in the Wild"
+  authors: "Sudheesh Singanamalla, Muhammad Talha Paracha, Suleman Ahmad, Jonathan Hoyland, Luke Valenta, Yevgen Safronov, Peter Wu, Andrew Galloni, Vasileios Giotsas, Kurtis Heimerl, Nick Sullivan, Christopher Wood, Marwan Fayed"
+  year: 2022
+  tags: ["systems", "networks", "security"]
+  type: full paper
+  month: October
+  venue: Proceedings of the ACM Internet Measurement Conference (IMC'22)
+  url: ""
+
 - title: "6 Years Later: Examining Long-term Project Outcomes"
   authors: "Elijah Greisz and Philip Garrison"
   year: 2022

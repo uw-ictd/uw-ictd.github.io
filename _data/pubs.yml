@@ -1,5 +1,14 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "Respect the ORIGIN! A Best-case Evaluation of Connection Coalescing in the Wild"
+  authors: "Sudheesh Singanamalla, Muhammad Talha Paracha, Suleman Ahmad, Jonathan Hoyland, Luke Valenta, Yevgen Safronov, Peter Wu, Andrew Galloni, Vasileios Giotsas, Kurtis Heimerl, Nick Sullivan, Christopher Wood, Marwan Fayed"
+  year: 2022
+  tags: ["systems", "networks", "security"]
+  type: full paper
+  month: October
+  venue: Proceedings of the ACM Internet Measurement Conference (IMC'22)
+  url: ""
+
 - title: "6 Years Later: Examining Long-term Project Outcomes"
   authors: "Elijah Greisz and Philip Garrison"
   year: 2022
@@ -90,20 +99,38 @@
   venue: CHI ’21 Extended Abstracts
   authors: "Samia Ibtasam"
 
-- title: "From the Margins to the Centre: Defining New Mission and Vision for HCI Researchers in South Asia  (CHI 2021 Workshop)"
-  url: "https://samiaibtasam.com/wp-content/uploads/2021/05/southasiaHCI.pdf"
-  authors: "Jain, Pranjal and Ibtasam, Samia and Sharma, Sumita and Bhattacharya, Nilavra and Tuli, Anupriya and Gamage, Dilrukshi and Jain, Dhruv and Tulaskar, Rucha and Chandra, Priyank and Razaq, Lubna and Rony, Rahat Jahangir and Padhi, Deepak Ranjan and Jain, Mohit and Shahid, Suleman and Ahmed, Nova and Balkrishan, Devanuj Kanta and Singh, Pushpendra"
-  year: 2021
-  month: May
-  tags: [hci]
-  venue: CHI ’21 Extended Abstracts
-  type: note
-
 - title: "'That courage to encourage': Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV"
   authors: Naveena Karusala, David Seeh, Cyrus Mugo, Brandon Guthrie, Megan Moreno, Grace John-Stewart, Irene Inwani, Richard Anderson, and Keshet Ronen
   year: 2021 
   venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)
   url: "https://www.naveenak.org/s/peersupport.pdf"
+  month: April
+  tags: [hci]
+  type: full paper
+  
+- title: "For God’s sake! Considering Religious Beliefs in HCI Research: A Case of Islamic HCI"
+  authors: Samia Ibtasam
+  year: 2021 
+  venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)
+  url: "https://samiaibtasam.com/wp-content/uploads/2021/05/A-Case-of-Islamic-HCI.pdf"
+  month: April
+  tags: [hci]
+  type: alt.chi paper
+  
+- title: "From the Margins to the Centre: Defining New Mission and Vision for HCI Researchers in South Asia"
+  authors: Pranjal Jain, Samia Ibtasam, Sumita Sharma, Nilavra Bhattacharya, Anupriya Tuli, Dilrukshi Gamage, Dhruv Jain, Rucha Tulaskar, Priyank Chandra, Lubna Razaq, Rahat Jahangir Rony, Deepak Ranjan Padhi, Mohit Jain, Suleman Shahid, Nova Ahmed, Devanuj Kanta Balkrishan, Pushpendra Singh
+  year: 2021 
+  venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)
+  url: "https://samiaibtasam.com/wp-content/uploads/2021/05/southasiaHCI.pdf"
+  month: April
+  tags: [hci]
+  type: full paper
+  
+- title: "'We Even Borrowed Money From Our Neighbor': Understanding Mobile-based Frauds Through Victims' Experiences"
+  authors: Lubna Razaq, Tallal Ahmad, Samia Ibtasam, Umer Ramzan, Shrirang Mare
+  year: 2021 
+  venue: Proceedings of the ACM on Human-Computer Interaction, CSCW, Article 41
+  url: "https://dl.acm.org/doi/10.1145/3449115"
   month: April
   tags: [hci]
   type: full paper
@@ -125,15 +152,6 @@
   month: April
   tags: ["networks", "community cellular"]
   type: full paper
-
-- title: "\"We Even Borrowed Money From Our Neighbor\": Understanding Mobile-based Frauds Through Victims' Experiences"
-  authors: "Razaq, Lubna and Ahmad, Tallal and Ibtasam, Samia and Ramzan, Umer and Mare, Shrirang"
-  year: 2021
-  month: April
-  venue: "Proc. ACM Hum.-Comput. Interact."
-  url: "https://www.researchgate.net/publication/350041184_We_Even_Borrowed_Money_From_Our_Neighbor_Understanding_Mobile-based_Fraud_Through_Victims'_Experiences"
-  type: "full paper"
-  tags: [hci]
 
 - authors: Sudheesh Singanamalla, Esther Han Beol Jang, Richard Anderson, Tadayoshi Kohno, Kurtis Heimerl
   year: 2020

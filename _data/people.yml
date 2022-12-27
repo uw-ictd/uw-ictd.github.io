@@ -116,7 +116,7 @@ lisa:
     img: lisa_orii.jpg
 firn:
     display_name: "Nussara (Firn) Tieanklin"
-    webpage: "https://nussarafirn.github.io"
+    webpage: "https://homes.cs.washington.edu/~nussara"
     role: grad
     img: firn_tieanklin.jpg
 innocent:

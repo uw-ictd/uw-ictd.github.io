@@ -132,6 +132,10 @@ frankie:
 rachel:
     display_name: "Rachel Ye"
     role: ugrad
+evan:
+    display_name: "Evan Lam"
+    role: ugrad
+    img: evan_lam.jpg
 
 shrirang:
     display_name: "Shrirang Mare"

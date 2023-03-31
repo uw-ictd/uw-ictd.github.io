@@ -135,6 +135,7 @@ rachel:
 akhila:
     display_name: "Akhila Narayanan"
     role: ugrad
+    img: akhila_photo.jpg
 evan:
     display_name: "Evan Lam"
     role: ugrad

@@ -4,7 +4,7 @@ richard:
     role: faculty
     img: richard_anderson.jpg
     bio: |
-        Richard is a Professor of Computer Science and Engineering, where he has been on the faculty since 1986, with brief leaves to [Indian Institute of Science](http://www.iisc.ernet.in/), [Microsoft Research](http://research.microsoft.com), and PATH. His research has focussed on computing for the developing world since 2005, when he became involved with the Digital Study Hall project. In 2009, Richard spent a sabbatical year working with the [Digital Health Solutions](http://sites.path.org/hmis/) group at PATH, a global health NGO based in Seattle. This opportunity allowed him to increase his efforts on applying computing technologies to challenges in global health. While working with PATH, he co-founded the Projecting Health project, which uses the Community-Led Video Education model to promote healthy practices in rural areas in India. Back at University of Washington, he is now overseeing the efforts of the Open Data Kit project. His research interests in ICTD include technologies for behavior change communication, improving tools to support the use of data in strengthening health systems, and digital financial services.
+        Richard is a Professor of Computer Science and Engineering, where he has been on the faculty since 1986, with brief leaves to [Indian Institute of Science](http://www.iisc.ernet.in/), [Microsoft Research](http://research.microsoft.com), and PATH. His research has focussed on computing for the developing world since 2005, when he became involved with the Digital Study Hall project. In 2009, Richard spent a sabbatical year working with the [Digital Health Solutions](http://sites.path.org/hmis/) group at PATH, a global health NGO based in Seattle. This opportunity allowed him to increase his efforts on applying computing technologies to challenges in global health. While working with PATH, he co-founded the Projecting Health project, which uses the Community-Led Video Education model to promote healthy practices in rural areas in India. Back at University of Washington, he oversaw the efforts of the Open Data Kit project. His research interests in ICTD include technologies for behavior change communication, improving tools to support the use of data in strengthening health systems, and digital financial services.
 
 kurtis:
     display_name: "Kurtis Heimerl"
@@ -24,11 +24,11 @@ spencer:
 
 waylon:
     display_name: "Waylon Brunette"
-    webpage: "http://homes.cs.washington.edu/~wrb/"
-    role: postdoc
+    webpage: "https://waylonbrunette.com/"
+    role: alum
     img: waylon_brunette.jpg
-    bio: | 
-        Waylon is a Post-Doctoral Researcher focused on designing and building resilient mobile technologies optimized for usage in resource-constrained and infrastructure-constrained environments. His research focuses on creating tools and frameworks to simplify building and managing domain-specific mobile data collection applications in environments without Internet connectivity. Waylon is one of the founders of the Open Data Kit (ODK) project and is a current member of the core development team and management committee of ODK-X. Waylon’s research interests include mobile systems, sensing, ubiquitous computing, and data management. His work focuses on designing systems that improve the lives of under-served populations in low-income regions by leveraging mobile computing devices and sensors. Waylon is interested in using devices, sensors, services, and interfaces to create computer systems that integrate seamlessly into a user’s environment allowing technology to fade into the background of daily life. Waylon is a former NSF graduate fellow and previously worked as a Research Scientist/Engineer for the University of Washington focused on mobile computing, ubiquitous computing, and sensor networks in collaboration with Intel Labs Seattle.
+    bio: "PhD., 2020. Now faculty at Augusta University" 
+        # Waylon is a Post-Doctoral Researcher focused on designing and building resilient mobile technologies optimized for usage in resource-constrained and infrastructure-constrained environments. His research focuses on creating tools and frameworks to simplify building and managing domain-specific mobile data collection applications in environments without Internet connectivity. Waylon is one of the founders of the Open Data Kit (ODK) project and is a current member of the core development team and management committee of ODK-X. Waylon’s research interests include mobile systems, sensing, ubiquitous computing, and data management. His work focuses on designing systems that improve the lives of under-served populations in low-income regions by leveraging mobile computing devices and sensors. Waylon is interested in using devices, sensors, services, and interfaces to create computer systems that integrate seamlessly into a user’s environment allowing technology to fade into the background of daily life. Waylon is a former NSF graduate fellow and previously worked as a Research Scientist/Engineer for the University of Washington focused on mobile computing, ubiquitous computing, and sensor networks in collaboration with Intel Labs Seattle.
         
 gaetano:
     display_name: "Gaetano Borriello"
@@ -43,13 +43,21 @@ gaetano:
         programs ranging across public health, documentation of human rights violations, and environmental monitoring.
 
 
-clarice:
-    display_name: "Clarice Larson"
-    webpage: "#"
-    role: staff
-    img: clarice_larson.jpg
+mattZ:
+    display_name: "Matt Ziegler"
+    webpage: "https://mattziegler.net/"
+    role: postdoc
+    img: matt_ziegler.jpg
     bio: |
-        Software Engineer
+        Dr. Matt Ziegler is an Innovation Fellow at the <a href="https://oceannexus.uw.edu/">Ocean Nexus Center</a>, and researches how environmental organizations like NGO’s and government agencies can more effectively harness emerging technologies in their work, critically examining their realistic potentials and limitations. He completed a PhD in Computer Science and Engineering in 2022; and draws from experience on a broad range of environmental and development-sector projects, in fields like agriculture extension, primate behavior research, genomics, insect biodiversity, and environmental education.
+
+# clarice:
+#     display_name: "Clarice Larson"
+#     webpage: "#"
+#     role: staff
+#     img: clarice_larson.jpg
+#     bio: |
+#         Software Engineer
 
 
 
@@ -61,30 +69,31 @@ esther:
 
 matt:
     display_name: "Matt Johnson"
-    webpage: "https://homes.cs.washington.edu/~matt9j/"
-    role: grad
+    webpage: "https://matt9j.net/about/"
+    role: alum
     img: matt_johnson.jpg
+    bio: "PhD., 2022. Now at SpaceX Starlink"
 samia:
     display_name: "Samia Ibtasam [Razaq]"
     webpage: "http://www.samiaibtasam.com/"
-    role: grad
+    role: alum
     img: samia_ibtasam.jpg
+    bio: "PhD., 2022."
 
 naveena:
     display_name: "Naveena Karusala"
     webpage: "https://www.naveenak.org/"
-    role: grad
+    role: alum
     img: naveena_karusala.jpg
+    bio: "PhD., 2022. Now a postdoc at Harvard"
+
 philip:
     display_name: "Philip Garrison"
     webpage: "https://philipgarrison.com/"
-    role: grad
+    role: alum
     img: philip_garrison.jpg
-mattZ:
-    display_name: "Matt Ziegler"
-    webpage: "https://mattziegler.net/"
-    role: grad
-    img: matt_ziegler.jpg
+    bio: "PhD., 2022. Now at the Allen Institute for Cell Science"
+
 sudheesh:
     display_name: "Sudheesh Singanamalla"
     webpage: "https://sudheesh.info/"
@@ -103,12 +112,14 @@ ana:
     img: ananditha.jpg
 pat:
     display_name: "Pat Kosakanchit"
-    role: grad
+    role: alum
     img: Kosakanchit-2019-closeup-formatted.jpg
+    bio: Masters 2021. Now at Qumulo
 nick:
     display_name: "Nick Durand"
-    role: grad
+    role: alum
     img: durand_nick.jpg
+    bio: "Masters 2023. Cofounder at OneCourt"
 lisa:
     display_name: "Lisa Orii"
     webpage: "https://lisaorii.github.io/"
@@ -125,13 +136,7 @@ innocent:
     role: grad
     img: innocent_obi.jpg
 
-frankie:
-    display_name: "Frankie O'Rourke"
-    role: ugrad
-    img: frankieo.jpg
-rachel:
-    display_name: "Rachel Ye"
-    role: ugrad
+
 akhila:
     display_name: "Akhila Narayanan"
     role: ugrad
@@ -268,6 +273,15 @@ jenny:
     img: "jenny_liang.jpg"
     bio: "Ugrad, 2017-20"
 
+frankie:
+    display_name: "Frankie O'Rourke"
+    role: alum
+    img: frankieo.jpg
+    bio: "Ugrad"
+rachel:
+    display_name: "Rachel Ye"
+    role: alum
+    bio: "Ugrad"
 
 Jeffbeorse:
     display_name: "Jeff Beorse"

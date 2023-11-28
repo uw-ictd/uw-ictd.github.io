@@ -22,7 +22,7 @@ roles:
     - {key: ugrad, name: Undergraduate Students}
     #- {key: collab, name: Collaborators}
     - {key: alum, name: Alumni, display: short}
-    - {key: staff, name: Staff, display: short}
+    # - {key: staff, name: Staff, display: short}
     - {key: memory, name: "In Memory", display: full}
 
 # Number of news stories on the front page.

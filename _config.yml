@@ -39,8 +39,6 @@ navigation:
       link: /people.html
     - title: Blog
       link: https://medium.com/uw-ictd
-    - title: Research
-      link: /research/
     - title: Publications
       link: /publications.html
     - title: Seminars

@@ -1,6 +1,5 @@
 /* Space out content a bit */
 body {
-  padding-top: 20px;
   padding-bottom: 20px;
 }
 
@@ -32,11 +31,11 @@ body {
 }
 
 /* Customize container */
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .container {
     max-width: 830px;
   }
-}
+} */
 .container-narrow > hr {
   margin: 30px 0;
 }
@@ -54,10 +53,10 @@ body {
     padding-bottom: 10px;
 }
 
-/* Sampa logo */
+/* ICTD logo */
 #logo {
     /*width: 154px;*/
-    height: 50px;
+    height: 80px;
     margin: -4px 0 8px 0;
 }
 
@@ -111,6 +110,15 @@ div.people {
   text-align: center;
 }
 
+/* Front page carousel */
+#front-page-carousel .carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 50vh;
+  overflow: hidden;
+}
+
+
 /* Front page news. */
 ul.news .date {
     color: #999;
@@ -140,4 +148,15 @@ div.collaborator img {height:60px;}
 div.people > img{
   height: 100px;
   width: 100px;
+}
+
+
+a {
+  color: #0088DD;
+  text-decoration: none;
+  transition: 0.2s;
+}
+a:hover {
+  color: #85754d;
+  transition: 0.2s;
 }

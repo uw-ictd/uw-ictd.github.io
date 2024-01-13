@@ -4,31 +4,42 @@
         <meta charset="utf-8">
         <title>{{ site.name }}: {{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Red Hat Display"> -->
         <link href="{{ site.base }}/css/bootstrap.min.css" rel="stylesheet">
         <link href="{{ site.base }}/css/ictd.css" rel="stylesheet">
+        <script src="{{ site.base }}/js/bootstrap.min.js"></script>
         <link rel="alternate" type="application/atom+xml" title="Atom"
             href="{{ site.base }}/blog/blog.xml">
+
     </head>
     <body>
-        <div class="container">
-          <div class="header">
-            <ul class="nav nav-pills pull-right">
-              {% assign shorturl = page.url | replace:'index.html','' %}
+        <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+          <div class="container">
+            <a class="navbar-brand" href="{{ site.base }}/">
+              <img src="{{ site.base }}/img/ictd-logo.svg"
+                  alt="ICTD" id="logo">
+          </a>
+
+          <ul class="navbar-nav ms-auto">
+            {% assign shorturl = page.url | replace:'index.html','' %}
               {% for item in site.navigation %}
-                <li {% if item.link == shorturl %}class="active"{% endif %}>
-                  <a href="{{ site.base }}{{ item.link }}">
+                <li class="nav-item">
+                  <a class="nav-link {% if item.link == shorturl %}active{% endif %}" href="{{ site.base }}{{ item.link }}">
                     {{ item.title }}
                   </a>
                 </li>
               {% endfor %}
-              <!--<li><a href="http://change.cs.washington.edu">Change</a></li>-->
-            </ul>
-            <a href="{{ site.base }}/">
-                <img src="{{ site.base }}/img/ictd.png"
-                    srcset="{{ site.base }}/img/ictd_2x.png 2x"
-                    alt="ICTD" id="logo">
-            </a>
+          </ul>
+
+            <!-- <ul class="nav nav-pills pull-right">
+              
+            </ul> -->
+
           </div>
+        </nav>
+
+        <div class="container">
+          
 
           {% comment %}Liquid is sort of terrible! I think "!= true" is the
           only way to do negation?{% endcomment %}
@@ -53,8 +64,5 @@
 
         </div> <!-- /container -->
 
-        <!-- Support retina images. -->
-        <script type="text/javascript"
-            src="{{ site.base }}/js/srcset-polyfill.js"></script>
     </body>
 </html>

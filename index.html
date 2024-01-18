@@ -4,8 +4,7 @@ title: Home
 notitle: true
 ---
 
-
-<div id="front-page-carousel" class="carousel slide" data-bs-ride="carousel">
+<div id="front-page-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
     <div class="carousel-indicators">
       <button type="button" data-bs-target="#front-page-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
       <button type="button" data-bs-target="#front-page-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -51,19 +50,43 @@ notitle: true
 <script>
     const myCarouselElement = document.querySelector('#front-page-carousel')
     const carousel = new bootstrap.Carousel(myCarouselElement, {
-      interval: 3000,
+      interval: 5000,
     })
     
 </script>
 
 
-<div class="jumbotron">
+<div class="jumbotron" data-bs-theme="dark">
   <p>
      The <b>Information and Communication Technology for Development (ICTD) Lab</b> is an inter-disciplinary group that explores how technology can improve the lives of underserved populations in low-income regions. Our <a href="{{ site.base }}/research/">research</a> has wide range that includes HCI, Systems, Communication and Data Analytics. We are part of the <a href="http://www.cs.washington.edu/">Department of Computer Science &amp; Engineering</a> at the <a href="http://www.washington.edu/">University of Washington</a>. We collaborate with folks from other departments like <a href="http://globalhealth.washington.edu">Department of Global Health</a> and organizations like <a href="https://www.path.org">PATH</a> and <a href="https://www.redcross.org">Red Cross</a>.
   </p>
 </div>
 
-<h2>Updates</h2>
+<h2 style="margin-top:2em;margin-bottom:0.5em">Recent Publications</h2>
+<div class="row">
+  {% assign paperthumbnailcounter = 0 %}
+  {% for pub in site.data.pubs %}
+
+    {% if pub.thumbnail %}
+      <!--{% increment paperthumbnailcounter %}-->
+      <div class="col-md-3 mb-3">
+        <div class="card">
+          <img src="img/paper-thumbnails/{{ pub.thumbnail }}" class="card-img-top" alt="{{ pub.title }}">
+          <div class="card-body">
+            <p class="card-text">{{ pub.title }}</p>
+          </div>
+        </div>
+      </div>
+    {% endif %}
+
+    {% if paperthumbnailcounter > 8 %}
+      {% break %}
+    {% endif %}
+
+  {% endfor %}
+</div>
+
+<h2 style="margin-top:2em;margin-bottom:0.5em">Updates</h2>
 <ul class="news list-unstyled">
 {% for post in site.posts limit: site.front_page_news %}
     {% if post.shortnews %}

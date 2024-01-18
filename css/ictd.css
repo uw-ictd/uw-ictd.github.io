@@ -1,6 +1,12 @@
 /* Space out content a bit */
 body {
   padding-bottom: 20px;
+  /* background-color: #d9d9d9; */
+  background-color: #f4f2ed;
+}
+
+#main-body-container {
+  /* background-color: #fff; */
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -114,7 +120,7 @@ div.people {
 #front-page-carousel .carousel-item img {
   object-fit: cover;
   object-position: center;
-  height: 50vh;
+  height: 70vh;
   overflow: hidden;
 }
 

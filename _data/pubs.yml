@@ -8,6 +8,7 @@
   month: October
   venue: Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS'23)
   url: "http://ictd.cs.washington.edu/docs/papers/2023/potluri23assets.pdf"
+  thumbnail: 2023-potluri-assets.png
 
 - title: "Respect the ORIGIN! A Best-case Evaluation of Connection Coalescing in the Wild"
   authors: "Sudheesh Singanamalla, Muhammad Talha Paracha, Suleman Ahmad, Jonathan Hoyland, Luke Valenta, Yevgen Safronov, Peter Wu, Andrew Galloni, Kurtis Heimerl, Nick Sullivan, Christopher Wood, Marwan Fayed"
@@ -17,6 +18,7 @@
   month: October
   venue: Proceedings of the ACM Internet Measurement Conference (IMC'22)
   url: "http://ictd.cs.washington.edu/docs/papers/2022/singanamalla2022imc.pdf"
+  thumbnail: 2022-singanamalla-imc.png
 
 - title: "6 Years Later: Examining Long-term Project Outcomes"
   authors: "Elijah Greisz and Philip Garrison"
@@ -26,6 +28,7 @@
   month: June
   venue: Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '22)
   url: "https://dl.acm.org/doi/pdf/10.1145/3530190.3534825"
+  thumbnail: 2022-greisz-compass.png
 
 - title: "Telechain: Bridging Telecom Policy and Blockchain Practice"
   authors: "Sudheesh Singanamalla, Apurv Mehra, Nishanth Chandran, Himanshi Lohchab, Seshanuradha Chava, Asit Kadayan, Sunil Bajpai, Kurtis Heimerl, Richard Anderson, Satya Lokam"
@@ -35,6 +38,7 @@
   month: June
   venue: Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '22)
   url: "https://dl.acm.org/doi/pdf/10.1145/3530190.3534820"
+  thumbnail: 2022-singnamalla-compass.png
 
 - title: "Demo: Visualizing USSD and IVR Usage Data with Icicle Charts"
   authors: "Matt Ziegler, Galen Weld, Ewin Tang, Maureen Daum"
@@ -44,6 +48,7 @@
   month: June
   venue: Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '22)
   url: "https://dl.acm.org/doi/pdf/10.1145/3530190.3542934"
+  thumbnail: 2022-ziegler-compass.png
 
 - title: "Deferring Social Impact: Conceptions of ICTD and Computing Careers"
   authors: "Phillip Garrison and Lucy Pei"
@@ -62,6 +67,7 @@
   tags: [hci]
   url: "https://philipgarrison.com/publications/The_Network_is_an_Excuse_CSCW_2021.pdf"
   type: full paper
+  thumbnail: 2021-garrison-cscw.png
 
 - title: "\"How’s Shelby the Turtle today?\" Strengths and Weaknesses of Interactive Animal-Tracking Maps for Environmental Communication. [Honorable Mention]"
   authors: Matt Ziegler, Michael Quinlan, Zage Strassberg-Phillips, Manasi Shah, Lauren Vreeken, Chris Jones, Karen Goodfellow, Jes Lefcourt, Richard Anderson, Kurtis Heimerl
@@ -71,6 +77,7 @@
   tags: [hci]
   url: "https://mattziegler.net/papers/Wildlife-Tracking-Environmental-Communication-COMPASS2021.pdf"
   type: full paper
+  thumbnail: 2021-ziegler-compass.png
 
 - title: "Poster: The Low Impact of COVID-19 on Rural Community Network Traffic"
   authors: "Tieanklin, Nussara and Johnson, Matthew and Heimerl, Kurtis"
@@ -107,6 +114,7 @@
   type: full paper
   venue: CHI ’21 Extended Abstracts
   authors: "Samia Ibtasam"
+  thumbnail: 2021-ibtasam-chi.png
 
 - title: "'That courage to encourage': Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV"
   authors: Naveena Karusala, David Seeh, Cyrus Mugo, Brandon Guthrie, Megan Moreno, Grace John-Stewart, Irene Inwani, Richard Anderson, and Keshet Ronen

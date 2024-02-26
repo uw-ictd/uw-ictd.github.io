@@ -1,5 +1,25 @@
 # ICTD RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "Retrofit -- Enabling Interoperable E2EE Communication Through 6G Cellular Architectures"
+  authors: "Sudheesh Singanamalla, Richard Anderson, Kurtis Heimerl"
+  year: 2024
+  tags: ["systems", "networks", "security"]
+  type: note
+  month: February
+  venue: Network and Distributed System Security (NDSS) Symposium 2024
+  url: "https://www.ndss-symposium.org/wp-content/uploads/ndss24-posters-41.pdf"
+  thumbnail: 2024-singanamalla-ndss.png
+
+- title: "On the (In)Security of Government Web and Mail Infrastructure"
+  authors: "Evan Lam, Richard Anderson, Kurtis Heimerl, Yurie Ito, Jonathan Joseph de Koning, Adam M. Lange, Jarrod O'Malley, Adam Shostack, Arastoo Taslim, Sudheesh Singanamalla"
+  year: 2024
+  tags: ["systems", "networks", "security"]
+  type: note
+  month: February
+  venue: Network and Distributed System Security (NDSS) Symposium 2024
+  url: "https://www.ndss-symposium.org/wp-content/uploads/ndss24-posters-42.pdf"
+  thumbnail: 2024-lam-ndss.png
+
 - title: "Notably Inaccessible--Data Driven Understanding of Data Science Notebook (In) Accessibility"
   authors: "Venkatesh Potluri, Sudheesh Singanamalla, Nussara Tieanklin, Jennifer Mankoff"
   year: 2023

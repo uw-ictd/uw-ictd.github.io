@@ -135,8 +135,13 @@ innocent:
     webpage: "https://blog.uzodi.com/about"
     role: grad
     img: innocent_obi.jpg
+cynthia:
+    display_name: "Cynthia Dong"
+    webpage: "https://see-ynthia.web.app"
+    role: grad
+    img: cynthia.pdf
 
-
+    
 akhila:
     display_name: "Akhila Narayanan"
     role: ugrad

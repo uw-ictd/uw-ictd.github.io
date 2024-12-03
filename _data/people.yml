@@ -145,6 +145,10 @@ evan:
     display_name: "Evan Lam"
     role: ugrad
     img: evan_lam.jpg
+rudra:
+    display_name: "Rudra Singh"
+    role: ugrad
+    img: rudra_singh.jpeg
 
 shrirang:
     display_name: "Shrirang Mare"
